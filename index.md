@@ -38,7 +38,6 @@ navpos: 1
 </div><!-- end outer row -->
 </div><!-- end container -->
 <div class="text-center">
-<p class="mt-4"><a href="a.main/shop.htm"><img class="img-fluid" alt="The shop" src="{{ "assets/buttons/Shop%20ani.gif" | relative_url }}" width="400" height="100" border="0"></a></p>
 <p class="h1 bg-light">. . . Sewing Stuff . . . </p>
 <p>Keep up to date with <a href="//www.facebook.com/CyndyKittProd" target="_blank">Cyndy Kitt Productions on Facebook</a> <br>
 <div id="fb-root"></div><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>

@@ -29,11 +29,11 @@ permalink: about
 <div class="row">
 <div class="col-2">&nbsp;</div><!-- end col -->
 <div class="col-8" style="background-color:black;">
-<div align="center"><img class="img-fluid" src="{{ "/assets/images/ablban.png" }}"/> 
-<p><img src="{{ "/assets/images/ss.01.png" }}" width="500" height="75"></p>
+<div align="center"><img class="img-fluid" src="{{ "assets/images/ablban.png" | relative_url }}"/> 
+<p><img src="{{ "assets/images/ss.01.png" | relative_url }}" width="500" height="75"></p>
 <h3 class="text-light">18 Berry St, Nowra NSW</h3>
 <p class="h1 text-light">THE HOME OF</p>
-<h2 class="h1"><a href="/">Cyndy Kitt Productions</a></h2>
+<h2 class="h1"><a href="{{site.baseurl}}">Cyndy Kitt Productions</a></h2>
 <h2 class="text-light">vintage machines &amp; other sewing stuff</h2>
 <h2 class="text-light">like<br> <a href="http://www.facebook.com/AnneBonnysLocker">ABL on Facebook</a> <br>
   <!-- Facebook Badge START -->
