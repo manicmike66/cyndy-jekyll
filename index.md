@@ -13,19 +13,19 @@ navpos: 1
 <div class="col-3">
 <div class="row">
 <div class="col-12 mb-1">
-<a href="{{ "machines" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sewing machine','','{{ "assets/buttons/sm.b.gif" }}',1)"><img class="img-fluid" alt="vintage sewing machine" name="sewing machine" border="0" src="{{ "assets/buttons/sm.a.gif" }}" width="100%" height="150"></a>
+<a href="{{ "machines" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sewing machine','','{{ "assets/buttons/sm.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="vintage sewing machine" name="sewing machine" border="0" src="{{ "assets/buttons/sm.a.gif" }}" width="100%" height="150"></a>
 </div><!-- end inner col -->
 <div class="col-12 mb-1">
-<a href="{{ "pricelist" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('catalogue','','{{ "assets/buttons/cat.b.gif" }}',1)"><img class="img-fluid" alt="my catalogue" name="catalogue" border="0" src="{{ "assets/buttons/cat.a.gif" }}" width="100%" height="75"></a>
+<a href="{{ "pricelist" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('catalogue','','{{ "assets/buttons/cat.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="my catalogue" name="catalogue" border="0" src="{{ "assets/buttons/cat.a.gif" }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col-12 mb-1">
-<a href="{{ "contact" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','{{ "assets/buttons/cont.b.gif" }}',1)"><img class="img-fluid" alt="contact me" name="contact" border="0" src="{{ "assets/buttons/cont.a.gif" }}" width="100%" height="75"></a>
+<a href="{{ "contact" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','{{ "assets/buttons/cont.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="contact me" name="contact" border="0" src="{{ "assets/buttons/cont.a.gif" }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col-12 mb-1">
-<a href="{{ "sewing" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('clothing','','{{ "assets/buttons/clothing.b.gif" }}',1)"><img class="img-fluid" alt="clothing" name="clothing" border="0" src="{{ "assets/buttons/clothing.a.gif" }}" width="100%" height="75"></a>
+<a href="{{ "sewing" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('clothing','','{{ "assets/buttons/clothing.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="clothing" name="clothing" border="0" src="{{ "assets/buttons/clothing.a.gif" }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col">
-<a href="{{ "sewing/costumes" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" }}" width="100%" height="75"></a>
+<a href="{{ "sewing/costumes" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 </div><!-- end inner row -->
 </div><!-- end outer col -->
@@ -38,7 +38,7 @@ navpos: 1
 </div><!-- end outer row -->
 </div><!-- end container -->
 <div class="text-center">
-<p class="mt-4"><a href="a.main/shop.htm"><img class="img-fluid" alt="The shop" src="{{ "assets/buttons/Shop%20ani.gif" }}" width="400" height="100" border="0"></a></p>
+<p class="mt-4"><a href="a.main/shop.htm"><img class="img-fluid" alt="The shop" src="{{ "assets/buttons/Shop%20ani.gif" | relative_url }}" width="400" height="100" border="0"></a></p>
 <p class="h1 bg-light">. . . Sewing Stuff . . . </p>
 <p>Keep up to date with <a href="//www.facebook.com/CyndyKittProd" target="_blank">Cyndy Kitt Productions on Facebook</a> <br>
 <div id="fb-root"></div><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>

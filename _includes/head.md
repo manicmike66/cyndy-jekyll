@@ -37,9 +37,9 @@ function MM_swapImage() { //v3.0
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="{{ "favicon.ico"|relative_url }}" type="image/x-icon">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
-<script language="JavaScript" src="{{ "/assets/js/toolbar.js" }}"></script>
-<script language="JavaScript" src="{{ "/assets/js/menu1.js" }}"></script>
-<link rel="stylesheet" href="{{"/assets/css/toolbar.css"}}" type="text/css">
-<link rel="stylesheet" href="{{"/assets/css/style.css"}}" type="text/css">
+<script language="JavaScript" src="{{ "assets/js/toolbar.js" | relative_url }}"></script>
+<script language="JavaScript" src="{{ "assets/js/menu1.js" | relative_url }}"></script>
+<link rel="stylesheet" href="{{"assets/css/toolbar.css" | relative_url}}" type="text/css">
+<link rel="stylesheet" href="{{"assets/css/style.css" | relative_url}}" type="text/css">
     </head>
 
