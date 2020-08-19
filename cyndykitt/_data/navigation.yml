@@ -1,0 +1,37 @@
+- title: Home
+  url: /
+  sublinks:
+    - title: shop
+      url: /shop
+    - title: about me
+      url: /about
+    - title: media
+      url: /media
+    - title: contact
+      url: /contact
+    - title: links
+      url: /links
+- title: Machines
+  url: /machines
+  sublinks:
+    - title: FAQ
+      url: /machines/faq.html
+    - title: price list
+      url: /pricelist
+    - title: stock
+      url: /stock
+    - title: service tips
+      url: /serv
+    - title: gallery
+      url: /machines/gal.html
+- title: Sewing
+  url: /sewing
+  sublinks:
+    - title: casual wear
+      url: /sewing/cas.html
+    - title: bone couture
+      url: /bone
+    - title: costume
+      url: /sewing/cos.html
+    - title: size guide
+      url: /sewing/wo.size.html

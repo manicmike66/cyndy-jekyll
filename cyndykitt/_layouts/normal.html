@@ -1,0 +1,5 @@
+  {%- include head.md -%}
+  <body {{page.bodyappend}}{% if page.bodyclass %} class="{{ page.bodyclass }}"{% endif %}>
+    {%- include header.html -%}
+    {{ content }}
+    {%- include footer.html -%}
