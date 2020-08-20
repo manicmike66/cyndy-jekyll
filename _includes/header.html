@@ -1,5 +1,9 @@
 <div align="center"> 
-    <p><img src="{{ "assets/images/banner2.gif" | relative_url }}" width="800" height="250"></p>
+    {% if page.logo %}
+    <p><img src="{{ "assets/pic/ckp.gif" | relative_url }}" width="375" height="300"></p>
+    {% else %}
+    <p><img src="{{ "assets/pic/banner2.gif" | relative_url }}" width="800" height="250"></p>
+    {% endif %}
 {%- include navbar.md -%}
   <h1><!-- #BeginEditable "Heading" -->{{page.title}}<!-- #EndEditable --></h1>
 </div>
