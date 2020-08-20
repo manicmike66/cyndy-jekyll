@@ -1,46 +1,32 @@
 ---
-title: Cyndy Kitt Productions
+title: New Parts and Attachments for Vintage Sewing Machines
 layout: normal
-keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff"
-location: "South Eastern New South Wales, Southern Tablelands, Southern Highlands, Goulburn, New South Wales, Australia.  Custom clothing and costume.  Craft accesories "
-bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/buttons/clothing.b.gif','common/buttons/costume.b.gif','common/buttons/cat.b.gif')"
-bodyclass: xxx
+description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, sewing, clothing, accessories, costume, bags, eco friendly, green machine, craft, treadle, design, eco sewing, sustainable craft"
+keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual, sewing"
+permalink: pricelist
 
 ---
-<div class="container justify-content-center">
-<div class="row justify-content-center">
-<div class="col-3">
+
+<div class="container mb-4">
 <div class="row">
-<div class="col-12 mb-1">
-<a href="machines/index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sewing machine','','{{ "assets/buttons/sm.b.gif" }}',1)"><img class="img-fluid" alt="vintage sewing machine" name="sewing machine" border="0" src="{{ "assets/buttons/sm.a.gif" }}" width="100%" height="150"></a>
-</div><!-- end inner col -->
-<div class="col-12 mb-1">
-<a href="pricelist/index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('catalogue','','{{ "assets/buttons/cat.b.gif" }}',1)"><img class="img-fluid" alt="my catalogue" name="catalogue" border="0" src="{{ "assets/buttons/cat.a.gif" }}" width="100%" height="75"></a>
-</div><!-- end inner col -->
-<div class="col-12 mb-1">
-<a href="a.main/contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','{{ "assets/buttons/cont.b.gif" }}',1)"><img class="img-fluid" alt="contact me" name="contact" border="0" src="{{ "assets/buttons/cont.a.gif" }}" width="100%" height="75"></a>
-</div><!-- end inner col -->
-<div class="col-12 mb-1">
-<a href="sewing/index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('clothing','','{{ "assets/buttons/clothing.b.gif" }}',1)"><img class="img-fluid" alt="clothing" name="clothing" border="0" src="{{ "assets/buttons/clothing.a.gif" }}" width="100%" height="75"></a>
-</div><!-- end inner col -->
-<div class="col">
-<a href="sewing/cos.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" }}" width="100%" height="75"></a>
-</div><!-- end inner col -->
-</div><!-- end inner row -->
-</div><!-- end outer col -->
-<div class="col-9">
-<img class="img-fluid" alt="Site logo" src="{{ "assets/images/ckp-index.gif" }}" width="600" height="480" usemap="#Map" border="0"> 
-<map name="Map"> 
-<area alt="Site overview" shape="rect" coords="253,434,342,475" href="a.main/index.htm">
-</map>
-</div><!-- end outer col -->
-</div><!-- end outer row -->
+<div class="col-2">&nbsp;</div><!-- end col -->
+<div class="col-8">
+  <h5 class="text-center my-4">Prices and items in catalogue provided as a guide<br> and are subject to change</h5>
+<ol>
+<li><font size="5"><a href="{{ "pricelist/p01" | relative_url }}">Belts, Balance Wheels, Hand Cranks &amp; Electric Motors</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p02" | relative_url }}">Shuttles Bobbin Cases &amp; Bobbins</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p03" | relative_url }}">Slide and Throat plates</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p04" | relative_url }}">Tension Parts </a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p05" | relative_url }}">Sewing Machine Feet &amp; Attachments</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p06" | relative_url }}">Needles</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p07" | relative_url }}">Miscellaneous Useful Bits</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p08" | relative_url }}">Treadle and cabinet parts</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/p09" | relative_url }}">Tools &amp; Accessories</a></font></li>
+<li><font size="5"><a href="{{ "pricelist/manuals" | relative_url }}">Manuals for vintage machines</a></font></li>
+</ol>
+<h2 class="text-center"><a href="{{ "orders" | relative_url }}">How to order</a></h2>
+<p class="h5 text-center">discounts are available for bulk orders or to registered charities</p>
+ </div><!-- end col -->
+<div class="col-2">&nbsp;</div><!-- end col -->
+</div><!-- end row -->
 </div><!-- end container -->
-<div class="text-center">
-<p class="mt-4"><a href="a.main/shop.htm"><img class="img-fluid" alt="The shop" src="{{ "assets/buttons/Shop%20ani.gif" }}" width="400" height="100" border="0"></a></p>
-<p class="h1 bg-light">. . . Sewing Stuff . . . </p>
-<p>Keep up to date with <a href="//www.facebook.com/CyndyKittProd" target="_blank">Cyndy Kitt Productions on Facebook</a> <br>
-<div id="fb-root"></div><script src="//connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<fb:send href="cyndykitt.com.au" font="trebuchet ms"></fb:send> <br>
-<h4>This site has been designed to work best with <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a><br>
-Javascript will need to be enabled to use and view Navigation Bars and other elements</h4>

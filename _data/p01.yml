@@ -1,0 +1,36 @@
+- title: LTB-B185
+  url: ltb
+  description: Budget Leather Treadle Belt 5mm×183cm W/Hook
+  price: 7.50
+
+- title: LTB-H183
+  url: ltb
+  description: <p>Hide Leather Treadle Belt 5mm×183cm W/Hook</p>
+  price: 12.50
+
+- title: LTB-O185
+  url: ltb
+  description: <p>Oak tan Leather Treadle Belt 6mm×185cm W/Hook</p>
+  price: 18.00
+
+- title: LIB-O110
+  url: ltb
+  description: <p>Oak tan Leather Industrial Belt 7.5mm×110cm W/Hook<br> (other lengths on inquiry) </p>
+      <p>Perfect for Pre-1950 industrials</p>
+  price: 14.00
+
+- title: LIB-O185
+  url: ltb
+  description: <p>Oak tan Leather Industrial Belt 7.5mm×185cm W/Hook<br> (other lengths on inquiry) </p>
+      <p>Perfect for Singer classes 16, 29, 31, 103K</p>
+  price: 22.00
+
+- title: BHW-0016
+  description: <p>Staple Hooks Dia 1.6mm for domestic and light industrial belting, 10 pack </p>
+  price: 1.00
+
+- title: BHM-0015
+  combine: yes
+  description: <p>Staple Hooks Dia 2.0mm for industrial belting, 10 pack </p>
+  price: 1.00
+
