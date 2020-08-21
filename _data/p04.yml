@@ -1,0 +1,57 @@
+- title: CSP-1500
+  desc: 'Official Check Spring for Singer 15 and Japanese HA-1 models. <br> Singer part # 55645, however it lacks the kink required'
+  price: '5.00'
+
+- title: CSP-1588
+  desc: 'Check Spring for Singer 15K88. <br> Singer part # 125316'
+  price: '5.00'
+
+- title: CSP-6699
+  desc: 'Check Spring for Singer model 66/99. <br> Singer part # 32575<br> This spring also appears to work better with some early 15 class models (<a href="../serv/S15-1-ten.htm">15-1</a> and <a href="../serv/S99K26-ten.htm">15K26</a>) than the CSP-1500</p> <p><a href="../serv/S66-99-ten.htm">Instructions to replace on 66 and early model 99 class</a><br> <a href="../serv/S99K26-ten.htm">Instructions to replace on later model 99 class (from 99K26 on) </a>'
+  price: '5.00'
+
+- title: CSP-4394
+  photo: pending
+  desc: 'Check Spring for Singer 31-15, Consew 28. <br> Part #43946<br> This spring may work better with some early 15 class models (<a href="../serv/S15-1-ten.htm">15-1</a> and <a href="../serv/S99K26-ten.htm">15K26</a>) than the CSP-1500'
+  price: '5.00'
+
+- title: CSP-5239
+  photo: pending
+  desc: 'Check Spring for Singer 95 &amp; 96 <br> Part #52394 <br> This spring may work better with some early 15 class models (<a href="../serv/S15-1-ten.htm">15-1</a> and <a href="../serv/S99K26-ten.htm">15K26</a>) than the CSP-1500'
+  price: '5.00'
+
+- title: CSP-5208
+  photo: pending
+  desc: 'Check Spring for Singer 95 &amp; 96 (appears to be the same as above)<br> Part #52082<br> This spring may work better with some early 15 class models(<a href="../serv/S15-1-ten.htm">15-1</a> and <a href="../serv/S99K26-ten.htm">15K26</a>) than the CSP-1500'
+  price: '5.00'
+
+- title: CSP-201K
+  desc: 'Check spring Singer 201K. <br> Singer part # 66774'
+  price: '5.00'
+
+- title: TNP-SP01
+  desc: 'Generic beehive tension spring (this is a last resort replacement)'
+  price: '5.00'
+
+- title: TNP-H097
+  desc: Generic tension disc (pair)
+  price: '2.00'
+
+- title: TNP-H096
+  desc: Generic tension regulator nut
+  price: '2.00'
+
+- title: TNP-RP01
+  title2: TNP-RP02
+  desc: Generic tension release pin, short
+  desc2: Generic tension release pin, long
+  price: '1.00'
+  price2: '1.00'
+
+- title: TNP-RPW1
+  title2: TNP-RPW2
+  desc: Tension Releasing Washer A
+  desc2: Tension Releasing Washer B
+  price: '1.00'
+  price2: '1.00'
+
