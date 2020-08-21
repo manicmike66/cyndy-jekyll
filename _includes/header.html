@@ -7,3 +7,6 @@
 {%- include navbar.md -%}
   <h1><!-- #BeginEditable "Heading" -->{{page.title}}<!-- #EndEditable --></h1>
 </div>
+    {% if page.dir == "/pricelist/" %}
+    {% include jumpform.html %}
+    {% endif %}
