@@ -64,6 +64,7 @@ $(document).ready(function(){
 </script>
 <nav id="Toolbar"  class="tbToolbar navbar navbar-expand-md" role="navigation"><!-- class="collapse navbar-collapse">-->
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
+        {% assign navstyle = 'border border-white mx-2' %}
         {% assign links = site.data.navigation %}
         {% for link in links %}
                 {% assign class = nav-item %}
@@ -71,7 +72,7 @@ $(document).ready(function(){
                     {% assign class = 'nav-item active' %}
                 {% endif %}
                 {% if link.sublinks %}
-                    <li id="{{link.linktitle}}-menu" id="{{ class }}" class="dropdown {{ class }} tbItem">
+                    <li id="{{link.title}}-menu" id="{{ class }}" class="{{ navstyle }} dropdown {{ class }} tbItem">
                         <a href="{{ link.url }}" class="nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
                         <ul class="dropdown-content">
                             {% for sublink in link.sublinks %}

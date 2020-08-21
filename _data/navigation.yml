@@ -1,19 +1,23 @@
 - title: Home
   url: /cyndy-jekyll/
   sublinks:
+    - title: home
+      url: /cyndy-jekyll/a.main/
     - title: shop
-      url: /cyndy-jekyll/shop
+      url: /cyndy-jekyll/a.main/shop
     - title: about me
-      url: /cyndy-jekyll/about
+      url: /cyndy-jekyll/a.main/about
     - title: media
       url: /cyndy-jekyll/media
     - title: contact
-      url: /cyndy-jekyll/contact
+      url: /cyndy-jekyll/a.main/contact
     - title: links
-      url: /cyndy-jekyll/links
+      url: /cyndy-jekyll/a.main/links
 - title: Machines
   url: /cyndy-jekyll/machines
   sublinks:
+    - title: start here
+      url: /cyndy-jekyll/machines/
     - title: FAQ
       url: /cyndy-jekyll/machines/faq.html
     - title: price list
@@ -23,15 +27,17 @@
     - title: service tips
       url: /cyndy-jekyll/serv
     - title: gallery
-      url: /cyndy-jekyll/machines/gal.html
+      url: /cyndy-jekyll/machines/gal
 - title: Sewing
   url: /cyndy-jekyll/sewing
   sublinks:
+    - title: overview
+      url: /cyndy-jekyll/sewing
     - title: casual wear
-      url: /cyndy-jekyll/sewing/cas.html
+      url: /cyndy-jekyll/sewing/cas
     - title: bone couture
       url: /cyndy-jekyll/bone
     - title: costume
-      url: /cyndy-jekyll/sewing/cos.html
+      url: /cyndy-jekyll/sewing/cos
     - title: size guide
-      url: /cyndy-jekyll/sewing/wo.size.html
+      url: /cyndy-jekyll/sewing/wo.size

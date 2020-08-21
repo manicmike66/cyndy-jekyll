@@ -95,3 +95,9 @@ a.tbItemLink:link{
 a.tbItemLink:visited{
     color:white;
 }
+.vertical-center {
+  min-height: 100px;  /* Fallback for browsers do NOT support vh unit */
+  display: flex;
+  align-items: center;
+}
+
