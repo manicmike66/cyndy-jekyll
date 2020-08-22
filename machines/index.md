@@ -9,117 +9,33 @@ navpos: 2
 
 ---
 
-<!-- #BeginEditable "body2" --> 
-<table width="800" border="0" cellspacing="0" cellpadding="3" align="center">
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
+<div class="container mb-4">
+<div class="row">
+<div class="col-2">&nbsp;</div><!-- end col -->
+<div class="col-3">
       <h2><a href="id-01.html">Identification</a></h2>
-    </td>
-    <td width="602"> 
+ </div><!-- end left col -->
+<div class="col-5">
       <h3>Working out what you have</h3>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2>History</h2>
-    </td>
-    <td width="602"> 
-      <h4>A short history of how sewing machines came to be</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2>Shuttles</h2>
-    </td>
-    <td width="602"> 
-      <h4>Shuttle types (locking in a stitch)</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2><a href="info-singer.html">Singer</a></h2>
-    </td>
-    <td width="602"> 
-      <h4>Singer, the man, the myths and the machines</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2>European</h2>
-    </td>
-    <td width="602"> 
-      <h4>Germanic influencers</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2>British</h2>
-    </td>
-    <td width="602"> 
-      <h4>Other than Singer</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2>North America</h2>
-    </td>
-    <td width="602"> 
-      <h4>Other than Singer</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2><a href="info-aussie.html">Aus Made</a></h2>
-    </td>
-    <td width="602"> 
-      <h4>Manufactured in Australia</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2><a href="info-aussie.html">Aus Sold</a></h2>
-    </td>
-    <td width="602"> 
-      <h4>Badging for retailers - Iconic Australian Sewing Machine Brands</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2><a href="info-J-HA1.html">Japan</a></h2>
-    </td>
-    <td width="602"> 
-      <h4>Turning Japanese</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2><a href="faq.html">FAQ</a></h2>
-    </td>
-    <td width="602"> 
-      <h4>Common questions answered</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2><a href="gal.html">Gallery</a></h2>
-    </td>
-    <td width="602"> 
-      <h4>Machines that have passed through my hands</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174" bordercolor="#660000"> 
-      <h2>Shop</h2>
-    </td>
-    <td width="602"> 
-      <h4>Ready to buy - fully serviced machines for sale</h4>
-    </td>
-  </tr>
-  <tr> 
-    <td colspan="2"> 
-      <div align="center"> </div>
-    </td>
-  </tr>
-</table>
-<!-- #EndEditable --><br>
-
+</div><!-- end right col -->
+<div class="col-2">&nbsp;</div><!-- end col -->
+</div><!-- end row -->
+{% for item in site.data.machines %}
+<div class="row">
+<div class="col-2">&nbsp;</div><!-- end col -->
+<div class="col-3">
+<p class="h4">
+{% if item.url %}
+<a href="{{ item.url }}.html">{{ item.title }}</a>
+{% else %}
+{{ item.title }}
+{% endif %}
+</p>
+ </div><!-- end left col -->
+<div class="col-5">
+<p class="h5">{{ item.description }}</p>
+</div><!-- end right col -->
+<div class="col-2">&nbsp;</div><!-- end col -->
+</div><!-- end row -->
+{% endfor %}
+</div><!-- end container -->
