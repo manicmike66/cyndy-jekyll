@@ -23,7 +23,7 @@ bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/butt
 <a href="{{ "sewing" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('clothing','','{{ "assets/buttons/clothing.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="clothing" name="clothing" border="0" src="{{ "assets/buttons/clothing.a.gif" |relative_url }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col">
-<a href="{{ "sewing/costumes" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" |relative_url }}" width="100%" height="75"></a>
+<a href="{{ "sewing/cos" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" |relative_url }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 </div><!-- end inner row -->
 </div><!-- end outer col -->

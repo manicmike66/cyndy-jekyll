@@ -25,7 +25,7 @@ keywords: "corsets, jackets, bespoke design"
 
 <h1><img class="img-fluid" src="{{ "pic/bone250.gif" }}" width="250" height="100"><br>
   the bone couture range</h1>
-<table width="95%" cellpadding="10" bordercolor="#FFCC00" border="0" bgcolor="#FFFFFF" align="center">
+<table class="table-striped table align="center">
   <tbody><tr bgcolor="#FFFFEC"> 
 <td colspan="3" valign="middle" bgcolor="#FFFFFF" align="center"><img class="img-fluid" src="{{ "pic/bsrj-frcu.jpg" }}" width="500" height="300"></td>
 </tr>
@@ -53,8 +53,7 @@ keywords: "corsets, jackets, bespoke design"
   <h4 align="left">Made to Order <br>
     Riding Jacket and <br>
     Mini Crin Suit</h4>
-  <p align="left">Jacket from $550<br>
-    Mini Crin Skirt from $400</p>
+  <p align="left">Jacket from $550<br> Mini Crin Skirt from $400</p>
 </td>
 </tr>
 <tr bgcolor="#FFFFEC"> 
