@@ -6,23 +6,6 @@ keywords: "corsets, jackets, bespoke design"
 
 ---
 
-<div class="container mb-4">
-<div class="row">
-<div class="col text-center">
-</div><!--  col -->
-</div><!-- end row -->
-<div class="row">
-<div class="col">
-</div><!-- end col -->
-</div><!-- end row -->
-<div class="row">
-<div class="col-2">
-</div><!-- end col -->
-<div class="col-10">
-</div><!--  col -->
-</div><!-- end row -->
-</div><!-- end container -->
-
 <h1><img class="img-fluid" src="{{ "pic/bone250.gif" }}" width="250" height="100"><br>
   the bone couture range</h1>
 <table class="table-striped table" align="center">
@@ -37,8 +20,7 @@ keywords: "corsets, jackets, bespoke design"
   <img class="img-fluid" src="{{ "pic/bsrj-fr-g.jpg" }}" width="200" height="300"> </td>
 <td width="27%" valign="middle" bgcolor="#FFFFFF" align="center"> 
   <h4>&nbsp;</h4>
-  <h4>Riding Jacket<br>
-    Made to order from</h4>
+  <h4>Riding Jacket<br> Made to order from</h4>
   <h2>$550 </h2>
   <h2>&nbsp;</h2>
   <p>&nbsp;</p>
@@ -66,7 +48,7 @@ keywords: "corsets, jackets, bespoke design"
 </td>
 <td width="37%" valign="middle" bgcolor="#FFFFFF" align="center"> 
   <div align="left"> 
-    <h4><img class="img-fluid" src="{{ "pic/lane.jpg" }}" width="200" height="300"></h4>
+<h4><img class="img-fluid" src="{{ "pic/lane.jpg" }}" width="200" height="300"></h4>
   </div>
 </td>
 </tr>
