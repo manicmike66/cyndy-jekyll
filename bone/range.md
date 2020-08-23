@@ -25,7 +25,7 @@ keywords: "corsets, jackets, bespoke design"
 
 <h1><img class="img-fluid" src="{{ "pic/bone250.gif" }}" width="250" height="100"><br>
   the bone couture range</h1>
-<table class="table-striped table align="center">
+<table class="table-striped table" align="center">
   <tbody><tr bgcolor="#FFFFEC"> 
 <td colspan="3" valign="middle" bgcolor="#FFFFFF" align="center"><img class="img-fluid" src="{{ "pic/bsrj-frcu.jpg" }}" width="500" height="300"></td>
 </tr>
