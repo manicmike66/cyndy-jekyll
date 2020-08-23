@@ -28,7 +28,7 @@ bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/butt
 </div><!-- end inner row -->
 </div><!-- end outer col -->
 <div class="col-9 pt-2">
-<img class="img-fluid" alt="Site logo" src="{{ "assets/images/ckp-index.gif" |relative_url }}" width="600" height="480" usemap="#Map" border="0"> 
+<img class="img-fluid" alt="Site logo" src="{{ "assets/pic/ckp-index.gif" |relative_url }}" width="600" height="480" usemap="#Map" border="0"> 
 <map name="Map"> 
 <area alt="Site overview" shape="rect" coords="253,434,342,475" href="a.main/index.html">
 </map>
