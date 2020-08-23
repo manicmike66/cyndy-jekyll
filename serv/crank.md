@@ -82,17 +82,21 @@ To remove the balance wheel, loosen screw a to allow the stop-motion screw to be
 <div class="col-6 text-right">
 <img class="img-fluid" src="pic/winder-fix1.01.jpg" width="500" height="400">
 </div><!-- end col -->
-</div><!-- end row -->
-
-<div class="row my-4">
 <div class="col-6 text-right">
 <img class="img-fluid" src="pic/winder-fix1.02.jpg" width="500" height="400">
 </div><!-- end col -->
 </div><!-- end row -->
 
-<p class="h1">Alternative Method</p>
-<p><img class="img-fluid my-3" src="pic/winder-fix2.01.jpg" width="500" height="500"></p>
+<h1>Alternative Method</h1>
+<div class="row my-4">
+<div class="col-6 text-right">
+<p><img class="img-fluid" src="pic/winder-fix2.01.jpg" width="500" height="500"></p>
+</div><!-- end col -->
+<div class="col-6 text-right">
 <p><img class="img-fluid" src="pic/winder-fix2.02.jpg" width="500" height="500"></p>
+</div><!-- end col -->
+</div><!-- end row -->
+
 <p><img class="img-fluid" src="pic/winder-fix2.03.jpg" width="500" height="500"></p>
 
 <div class="row my-4">
@@ -134,8 +138,7 @@ Before replacing the cover, the lever should be disengaged, and the handle place
 </div><!-- end row -->
 
 <div class="row my-4">
-<div class="col-6"> &nbsp; </div><!-- end col -->
-<div class="col-6 vertical-center">
+<div class="col-8 vertical-center">
 <span class="align-middle">
 <p class="h2"> The Motor</p>
 <p class="h4">Double Insulated Domestic Sewing Machine Motor <br> CE Standard Made in Taiwan</p>

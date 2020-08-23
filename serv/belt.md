@@ -38,7 +38,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col -->
-<div class="col-3">
+<div class="col-3 vertical-center">
 <p>Step 2. Cut to size. I actually used my thumbnail to mark the length in step 1, but you may feel safer marking it with a pen.  Combination pliers are well suited for cutting the leather belt.</p>
 </div><!-- end col -->
 <div class="col-5">
@@ -58,7 +58,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 3. Punch the holes. The loose staples I currently stock are quite large, but whatever the size, you need to punch your holes so the ends of your belt meet in the middle of the staple. I find a cheap awl is the easiest way to make a hole in the belt. 
 </div><!-- end col2 -->
 <div class="col-5">
@@ -69,7 +69,7 @@ Step 3. Punch the holes. The loose staples I currently stock are quite large, bu
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 4. Poke the staple through one end of the belt.
 </div><!-- end col2 -->
 <div class="col-5">
@@ -80,7 +80,7 @@ Step 4. Poke the staple through one end of the belt.
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 5. Squish down the staple.
 </div><!-- end col2 -->
 <div class="col-5">
@@ -91,7 +91,7 @@ Step 5. Squish down the staple.
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 6. Not really a step, just the result of &quot;Step 5&quot;.
 </div><!-- end col2 -->
 <div class="col-5">
@@ -102,7 +102,7 @@ Step 6. Not really a step, just the result of &quot;Step 5&quot;.
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 7. Your belt is ready to fit to your treadle.
 </div><!-- end col2 -->
 <div class="col-5">
@@ -113,7 +113,7 @@ Step 7. Your belt is ready to fit to your treadle.
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 8. Loosely fit your belt, ensuring that it's threaded through all the appropriate holes (see &quot;fitbelt.10&quot; for how a Singer treadle mechanism should look when the belt is fitted properly) but slipped off the band wheel (AKA drive wheel) so the belt is slack. Poke the other end of the staple through the other end of the belt.
 </div><!-- end col2 -->
 <div class="col-5">
@@ -124,7 +124,7 @@ Step 8. Loosely fit your belt, ensuring that it's threaded through all the appro
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
+<div class="col-3 vertical-center"> 
 Step 9. Crunch down the staple.
 </div><!-- end col2 -->
 <div class="col-5">
@@ -135,9 +135,9 @@ Step 9. Crunch down the staple.
 
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
-<div class="col-3"> 
-<p>Step 10. Slip the belt onto the band wheel. <br> Leather has a degree of elasticity there should be a little give as if the belt is too tight it will be hard to treadle, however, if the belt slips, it will need to be tighter.</p>
-<p>After a month or two you may find the belt starts to slip when you sew because it has stretched a little and needs to be tightened by about 1cm, just ply open the staple clip the belt to its new size, punch the new hole etc.</p>
+<div class="col-3 vertical-center"> 
+<p>Step 10. Slip the belt onto the band wheel. <br> Leather has a degree of elasticity there should be a little give as if the belt is too tight it will be hard to treadle, however, if the belt slips, it will need to be tighter.<br/>
+After a month or two you may find the belt starts to slip when you sew because it has stretched a little and needs to be tightened by about 1cm, just ply open the staple clip the belt to its new size, punch the new hole etc.</p>
 </div><!-- end col2 -->
 <div class="col-5">
 <img class="img-fluid" src="{{ "serv/pic/b-fit.12.jpg" | relative_url }}" width="500" height="400">
@@ -147,7 +147,7 @@ Step 9. Crunch down the staple.
 <div class="row my-2">
 <div class="col-2">&nbsp;</div><!-- end col1 -->
 <div class="col-8">
-<img class="img-fluid" src="{{ "machines/pic/singer/201K.02.jpg" | relative_url }}" width="800" height="640">
+<img class="img-fluid mt-3" src="{{ "machines/pic/singer/201K.02.jpg" | relative_url }}" width="800" height="640">
 <p>The process for fitting pre-cut budget belt is more or less the same except the staple is more light weigh and will already be fitted to one end.</p>
 <div class="col-2">&nbsp;</div><!-- end col3 -->
 </div><!-- end row -->

@@ -6,7 +6,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 ---
 
-<div class="container text-center h3 my-4">
+<div class="container text-center h5 my-4">
 
 <div class="row">
 <div class="col-2">&nbsp; </div>
@@ -46,10 +46,10 @@ H &#151; Tension nut</p>
 <iframe width="800" height="480" src="https://www.youtube.com/embed/jJR2FV4-7bY" frameborder="0" allowfullscreen></iframe>
 <div class="container text-left">
 <div class="row">
-<div class="col-3">
+<div class="col-4 mt-4">
 <p>Loosen off the set screw to the side of the tension<br> (there is no need to remove completely)</p>
 </div>
-<div class="col-9">
+<div class="col-8">
 <p><img class="img-fluid" src="{{ "pic/TEN-99K31.00.jpg" }}" width="600" height="480"></p>
 <p><img class="img-fluid" src="{{ "pic/TEN-99K31.01.jpg" }}" width="600" height="480"></p>
 <p><img class="img-fluid" src="{{ "pic/TEN-99K31.02.jpg" }}" width="600" height="480"></p>
@@ -58,57 +58,137 @@ H &#151; Tension nut</p>
 </div><!-- end container -->
 <div class="container text-left">
 <div class="row">
-<div class="col-3 vertical-center">
+<div class="col-4 vertical-center">
 <p>Remove the complete tension assembly from the machine</p>
 </div>
-<div class="col-9">
+<div class="col-8">
 <img class="img-fluid" src="{{ "pic/TEN-99K31.03.jpg" }}" width="600" height="480">
 </div><!-- end col -->
 </div><!-- end row -->
+
 <div class="row my-2">
-<div class="col-3">&nbsp;
+<div class="col-4">&nbsp;
 </div><!-- end col -->
-<div class="col-9">
+<div class="col-8">
 <img class="img-fluid" src="{{ "pic/TEN-99K31.04.jpg" }}" width="600" height="480">
 </div>
 </div><!-- end row -->
+
 <div class="row my-2">
-<div class="col-3">&nbsp;
+<div class="col-4 vertical-center">&nbsp;
 <p>Loosen off the cap screw<br> (there is no need to remove completely) </p>
 </div><!-- end col -->
-<div class="col-9">
+<div class="col-8">
 <img class="img-fluid" src="{{ "pic/TEN-99K31.05.jpg" }}" width="600" height="480">
 </div>
 </div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>Pull the check spring regulator from the main tension, then slide off the check spring.</p>
+<p class="h6">Part #32757 <br> (complete tension)</p>
+<p class="h6">Part # 32758 <br> (original check spring)</p>
+<p class="h6">Part #32759 <br> (check spring regulator)</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.06.jpg" }}" width="600" height="480">
+</div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>Check spring #32758 original but slightly bent out of shape, still okay, but a really damaged spring will need replacing</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.08.jpg" }}" width="600" height="480"></div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>If the tail of the #32575 check spring curls around on itself like this, it is a good idea to trim about 5mm off with a pair of side cutters</p>
+<p>Note the position of the spring</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.07.jpg" }}" width="600" height="480"></div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4">&nbsp;
+</div><!-- end col -->
+<div class="col-8">
+<p><img class="img-fluid" src="{{ "pic/TEN-99K31.07a.jpg" }}" width="600" height="480"></p>
+</div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4">&nbsp;
+</div><!-- end col -->
+<div class="col-8">
+<p><img class="img-fluid" src="{{ "pic/TEN-99K31.S3.jpg" }}" width="600" height="480"></p>
+</div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>The check spring regulator may not sit flush with the end of the tension stud if you don't trim the #32575 check spring, and this may affect the effectiveness of the tension release pin (the 25mm long rod which runs up the centre of the tension stud).</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.09.jpg" }}" width="600" height="480"></div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>This is how you want it to look, check the spring moves freely</p>
+<p>Retighten the cap screw when it looks correct</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.10.jpg" }}" width="600" height="480"> </div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>The top of the regulator slot should sit about even with the end of the minus sign on the tension indicator and the arm of the spring should rest against the top of the slot</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.11.jpg" }}" width="600" height="480">
+</div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>Replace the tension with the presser foot in the down position (tension release inactivated) and ensure the centre mark is at 12 o'clock</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.12.jpg" }}" width="600" height="480">
+</div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4">&nbsp;
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.13.jpg" }}" width="600" height="480"></div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4 vertical-center">&nbsp;
+<p>Tighten the set screw to the side of the tension and check the tension is released when the presser foot is raised</p>
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.14.jpg" }}" width="600" height="480"></div>
+</div><!-- end row -->
+
+<div class="row my-2">
+<div class="col-4">&nbsp;
+</div><!-- end col -->
+<div class="col-8">
+<img class="img-fluid" src="{{ "pic/TEN-99K31.15.jpg" }}" width="600" height="480"></div>
+</div><!-- end row -->
+
 </div><!-- end container -->
 </div><!-- end col -->
 <div class="col-1">&nbsp; </div>
 </div><!-- end row -->
+
 </div><!-- end container -->
 
-<p>Pull the check spring regulator from the main tension, then slide off the check spring.</p>
-<h6 align="left">Part #32757 <br> (complete tension)</h6>
-<h6 align="left">Part # 32758 <br> (original check spring)</h6>
-<h6 align="left">Part #32759 <br> (check spring regulator)</h6>
-<img class="img-fluid" src="{{ "pic/TEN-99K31.06.jpg" }}" width="600" height="480"></div>
-<p>Check spring #32758 original but slightly bent out of shape, still okay, but a really damaged spring will need replacing</p>
-<p>Note the position of the spring</p>
-<img class="img-fluid" src="{{ "pic/TEN-99K31.08.jpg" }}" width="600" height="480"></div>
-<p>If the tail of the #32575 check spring curls around on itself like this, it is a good idea to trim about 5mm off with a pair of side cutters</p>
-<p>Note the position of the spring</p>
-<img class="img-fluid" src="{{ "pic/TEN-99K31.07.jpg" }}" width="600" height="480"></div>
-<img class="img-fluid" src="{{ "pic/TEN-99K31.07a.jpg" }}" width="600" height="480"></p>
-<img class="img-fluid" src="{{ "pic/TEN-99K31.S3.jpg" }}" width="600" height="480"></p>
-The check spring regulator may not sit flush with the end of the tension stud if you don't trim the #32575 check spring, and this may affect the effectiveness of the tension release pin (the 25mm long rod which runs up the centre of the tension stud).</p>
-<img class="img-fluid" src="{{ "pic/TEN-99K31.09.jpg" }}" width="600" height="480"></div>
-<p>This is how you want it to look, check the spring moves freely</p>
-<p>Retighten the cap screw when it looks correct</p>
-<div align="right"><img class="img-fluid" src="{{ "pic/TEN-99K31.10.jpg" }}" width="600" height="480"></div>
-<p>The top of the regulator slot should sit about even with the end of the minus sign on the tension indicator and the arm of the spring should rest against the top of the slot</p>
-<div align="right"><img class="img-fluid" src="{{ "pic/TEN-99K31.11.jpg" }}" width="600" height="480"></div>
-<p>Replace the tension with the presser foot in the down position (tension release inactivated) and ensure the centre mark is at 12 o'clock</p>
-<div align="right"><img class="img-fluid" src="{{ "pic/TEN-99K31.12.jpg" }}" width="600" height="480"></div>
-<div align="right"><img class="img-fluid" src="{{ "pic/TEN-99K31.13.jpg" }}" width="600" height="480"></div>
-<p>Tighten the set screw to the side of the tension and check the tension is released when the presser foot is raised</p>
-<div align="right"><img class="img-fluid" src="{{ "pic/TEN-99K31.14.jpg" }}" width="600" height="480"></div>
-<div align="right"><img class="img-fluid" src="{{ "pic/TEN-99K31.15.jpg" }}" width="600" height="480"></div>

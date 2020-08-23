@@ -10,18 +10,18 @@ permalink: pricelist/orders
 <div class="container mb-4">
 <div class="row">
 <div class="col-12 text-center">
-<h3>"Cyndy Kitt Productions" is not clever or big enough to have a shopping cart on site, but check out my <a href="index.htm">price list</a> <br/> then email your itemised purchase request to me.</h3>
-<h3>You can discuss your order via email or phone (email is preferable though)<br>
+<p class="h3">"Cyndy Kitt Productions" is not clever or big enough to have a shopping cart on site, but check out my <a href="index.html">price list</a> <br/> then email your itemised purchase request to me.</p>
+<p class="h3">You can discuss your order via email or phone (email is preferable though)<br>
 PLEASE INCLUDE YOUR FULL POSTAL ADDRESS<br>
-<img src="{{ "assets/images/email.png" | relative_url }}" width="250" height="75"> <br>
+<img src="{{ "assets/pic/email.png" | relative_url }}" width="250" height="75"> <br>
 Please don't call/text before 9:00 am or after 5:00pm<br>
-or send files or photos to my phone</h3>
+or send files or photos to my phone</p>
 <p> I will send your invoice via email and you can pay via 
-direct bank deposit (net-banking) or PayPal.<br>
+direct bank deposit (net-banking) or PayPal.
 </p>
 <p>P&amp;P within AU is usually $3.00 for items which can be sent as a large letter under 125g; larger parcels need to be weighed</p>
 <p class="h3">Or visit my studio shop</p>
-<p><img src="{{ "assets/images/abl.png" | relative_url }}" width="200" height="240"></p>
+<p><img src="{{ "assets/pic/abl.png" | relative_url }}" width="200" height="240"></p>
 <p class="h4"><a href="https://anne-bonnys-locker.business.site/">ANNE BONNY'S LOCKER</a><br>
 18 BERRY ST<br>
 NOWRA NSW 2541</p>
@@ -31,7 +31,7 @@ Wed: Noon till 4:30PM (ish) <br>
 Fri: Noon till 4:30PM (ish) <br>
 Sat: Noon till 4:30PM (ish) </p>
 <p class="h4"> Alternatively, my most popular items are usually available on <a href="http://stores.ebay.com.au/Cyndy-Kitt-Productions">eBay</a> and <a href="//www.etsy.com/shop/cyndykitt">Etsy</a> if you feel more secure shopping through these methods.</p>
-<h2>Cyndy Kitt Productions Etsy Store</h2>
+<p class="h2">Cyndy Kitt Productions Etsy Store</p>
 <script type="text/javascript" src="//www.etsy.com/etsy_mini.js"></script>
 <script type="text/javascript">new EtsyNameSpace.Mini(5963395, 'shop','gallery',3,3).renderIframe();</script>
  </div><!-- end col -->

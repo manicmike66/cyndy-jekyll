@@ -1,11 +1,9 @@
 ---
 title: Home page
-linktitle: Home
 layout: frontpage
 keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff"
 location: "South Eastern New South Wales, Southern Tablelands, Southern Highlands, Goulburn, New South Wales, Australia.  Custom clothing and costume.  Craft accesories "
 bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/buttons/clothing.b.gif','common/buttons/costume.b.gif','common/buttons/cat.b.gif')"
-navpos: 1
 
 ---
 <div class="container justify-content-center">

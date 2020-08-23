@@ -46,5 +46,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <script language="JavaScript" src="{{ "assets/js/menu1.js" | relative_url }}"></script>
 <link rel="stylesheet" href="{{"assets/css/toolbar.css" | relative_url}}" type="text/css">
 <link rel="stylesheet" href="{{"assets/css/style.css" | relative_url}}" type="text/css">
+{% if page.title == "bone couture" %}
+<link rel="stylesheet" href="{{"assets/css/bone.css" | relative_url}}" type="text/css">
+{% endif %}
     </head>
 

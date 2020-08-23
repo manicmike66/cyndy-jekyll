@@ -28,24 +28,24 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="container mb-4">
 <div class="row">
 <div class="col my-1">
-<img class="img-fluid" src="{{ "stock/pic/PIC-BCD/TN/BCD-3505.00.jpg" | relative_url }}" width="200" height="160">
+<img class="img-fluid" src="{{ "stock/pic/PIC-BCD/TN/BCD-3505.jpg" | relative_url }}" width="200" height="160">
 </div><!-- end col -->
 <div class="col my-1">
-<img class="img-fluid" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-4578.01.jpg" | relative_url }}" width="200" height="160">
+<img class="img-fluid" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-4578.jpg" | relative_url }}" width="200" height="160">
 </div><!-- end col -->
 <div class="col my-1">
-<img class="img-fluid" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-8227.00.jpg" | relative_url }}" width="200" height="160">
+<img class="img-fluid" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-8227.jpg" | relative_url }}" width="200" height="160">
 </div><!-- end col -->
 </div><!-- end row -->
 <div class="row">
 <div class="col my-1">
-<img class="img-fluid" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-1722.03.jpg" | relative_url }}" width="200" height="160">
+<img class="img-fluid" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-1722.jpg" | relative_url }}" width="200" height="160">
 </div><!-- end col -->
 <div class="col my-1">
-<img class="img-fluid" src="{{ "manuals/pic/TN-MAN-27E1-IA.01.jpg" | relative_url }}" width="200" height="160">
+<img class="img-fluid" src="{{ "manuals/pic/TN-MAN-27E1-1A.jpg" | relative_url }}" width="200" height="160">
 </div><!-- end col -->
 <div class="col my-1">
-<img class="img-fluid" src="{{ "stock/pic/PIC-BCD/TN/BCD-15GH.03.jpg" | relative_url }}" width="200" height="160">
+<img class="img-fluid" src="{{ "stock/pic/PIC-BCD/TN/BCD-15GH.jpg" | relative_url }}" width="200" height="160">
 </div><!-- end col -->
 </div><!-- end row -->
 </div><!-- end container -->

@@ -1,11 +1,17 @@
 <div align="center"> 
-    {% if page.logo %}
+    {% if page.dir contains "main" %}
     <p><img src="{{ "assets/pic/ckp.gif" | relative_url }}" width="375" height="300"></p>
-    {% else %}
+    {% elsif page.dir contains "sewing" %}
+    <img src="{{ "assets/pic/banner.stit.gif" | relative_url }}" width="800" height="250">
+    {% elsif page.dir contains "machine" %}
     <p><img src="{{ "assets/pic/banner2.gif" | relative_url }}" width="800" height="250"></p>
+    {% else %}
+    <!--{{page.dir}}-->
     {% endif %}
 {%- include navbar.md -%}
+{% unless page.dir contains "bone" %}
   <h1><!-- #BeginEditable "Heading" -->{{page.title}}<!-- #EndEditable --></h1>
+{% endunless %}
 </div>
     {% if page.dir contains "pricelist" or page.dir contains "manuals" %}
     {% include jumpform.html %}
