@@ -52,7 +52,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <body ><div align="center"> 
     
-    <!--/stock/-->
+    <p><img src="/cyndy-jekyll/assets/pic/banner2.gif" width="800" height="250"></p>
     <style>
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
@@ -265,21 +265,39 @@ $(document).ready(function(){
 
 </div>
     
+    <div class="text-center my-4">
+<form name="form2">
+    <select name="select" onchange="MM_jumpMenu('parent',this,0)">
+      <option value="/cyndy-jekyll/pricelist" selected="">Price List Index</option>
+      <option value="/cyndy-jekyll/pricelist/p01">Belts, Balance Wheels, Hand Cranks &amp; Electric Motors</option>
+      <option value="/cyndy-jekyll/pricelist/p02">Shuttles, Bobbin Cases &amp; Bobbins</option>
+      <option value="/cyndy-jekyll/pricelist/p03">Slide &amp; Throat Plates</option>
+      <option value="/cyndy-jekyll/pricelist/p04">Tension Parts</option>
+      <option value="/cyndy-jekyll/pricelist/p05">Feet &amp; Attachments</option>
+      <option value="/cyndy-jekyll/pricelist/p06">Needles</option>
+      <option value="/cyndy-jekyll/pricelist/p07">Useful Bits</option>
+      <option value="/cyndy-jekyll/pricelist/p08">Treadle &amp; Cabinet Parts</option>
+      <option value="/cyndy-jekyll/pricelist/p09">Tools</option>
+      <option value="/cyndy-jekyll/manuals" >Manuals</option>
+    </select>
+    <input type="button" name="Button2" value="Go" onclick="MM_jumpMenuGo('Price List','parent',0)">
+</form>
+</div>
+
+
+    
 <div class="container text-center">
 <p class="h4"><b>Stubby wing driver: </b><i>70mm long, 5mm blade</i><br />
 <b>Small driver: </b><i>78mm long, 2.5mm blade</i><br />
 <b>Large driver: </b><i>110mm long, 5mm blade</i></p>
-
-<div><img class="img-fluid" src="/cyndy-jekyll/assets/pic/27.gif" width="250" height="200" /></div>
-<div>These are my idea of the perfect set for sewing machines whether 
-a vintage, modern or industrial; the small one is for adjusting the bobbin 
-case or shuttle tension, the large one for general use and the stubby one 
-is the real gem because there are many screws in tight spaces on sewing 
-machines such as on the throat plate. </div>
-<p><img class="img-fluid" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.00.jpg" width="500" height="400" /></p>
-<p><img class="img-fluid" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.A1.jpg" width="500" height="400" /></p>
-<p><img class="img-fluid" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.B1.jpg" width="500" height="400" /></p>
-<p><img class="img-fluid" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.C1.jpg" width="500" height="400" /></p>
+<div class="row mb-4">
+<div class="col-6 text-right"><img class="img-fluid" src="/cyndy-jekyll/assets/pic/27.gif" width="250" height="200" /></div>
+<div class="col-6 text-left">These are my idea of the perfect set for sewing machines whether a vintage, modern or industrial; the small one is for adjusting the bobbin case or shuttle tension, the large one for general use and the stubby one is the real gem because there are many screws in tight spaces on sewing machines such as on the throat plate. </div>
+</div><!-- end row -->
+<p><img class="img-fluid my-1" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.00.jpg" width="500" height="400" />
+<img class="img-fluid my-1" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.A1.jpg" width="500" height="400" />
+<img class="img-fluid my-1" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.B1.jpg" width="500" height="400" />
+<img class="img-fluid my-1" src="/cyndy-jekyll/assets/pic/stock/pic/PIC-ACC/SDS-0003.C1.jpg" width="500" height="400" /></p>
 <p class="h3"><a href="/cyndy-jekyll/pricelist/p09">Back to Catalogue Listing</a></p>
 </div>
 <!-- end container -->

@@ -35,7 +35,7 @@
   price: '12.00'
 
 - title: BCD-2237
-  url: BOB-2237
+  url: BCD-2237
   desc: 'Bobbin Case "Singer" Rotary, suited to most industrial garment industry rotary hook machines as well as some domestic rotary hook machines. <br> Singer part # 52237 and uses <a href="../stock/BOB-623S.html">L class bobbin</a>'
   price: '8.00'
 
@@ -45,17 +45,17 @@
   price: '14.00'
 
 - title: BCD-5032
-  url: BOB-206-320
+  url: BCD-206-320
   desc: 'Bobbin Case for Singer 206 and black 306K <br> Singer part #105032 and uses<a href="../stock/BOB-623S.htm"> L class bobbin</a><br> (Low on stock as item discontinued — price on enquiry)'
   price: POI
 
 - title: BCD-3058
-  url: BOB-206-320
+  url: BCD-206-320
   desc: 'Bobbin Case for Singer 319 class <br> Singer part # 173058 and uses <a href="../stock/BOB-623S.html">L class bobbin</a><br> Old design (Low on stock as item discontinued — price on enquiry)'
   price: 
 
 - title: BCD-C038
-  url: BOB-206-320
+  url: BCD-206-320
   desc: 'Bobbin Case (Improved version) for Singer 319 class <br> Singer part # 173058 and uses<a href="../stock/BOB-623S.html"> L class bobbin</a><br> <span class="text-danger">New item for 2019 replaces BCD-3058 <br> <span class="h4">Currently out of stock due to production issues</span></span>'
   outofstock: yes
 

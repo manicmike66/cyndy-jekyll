@@ -1,76 +1,24 @@
 ---
-title: Cyndy Kitt Productions-Orders
+title: White Rotary Bobbins
 layout: normal
 description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, sewing, clothing, accessories, costume, bags, eco friendly, green machine, craft, treadle, design, eco sewing, sustainable craft"
 keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual, sewing"
 
 ---
 
-<!-- #BeginEditable "body2" --> 
-<table width="800" border="0" cellspacing="4" cellpadding="3" align="center">
-  <tr> 
-    <td width="174" height="62">&nbsp;</td>
-    <td width="602" height="62"> 
-      <p><img src="../machines/pic/WhiteRotaryF.00.jpg" width="500" height="400"></p>
-      <p><img src="../machines/pic/WhiteR41.00.jpg" width="500" height="400"></p>
-      <p>&nbsp;</p>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174">Some (not all) early Model White Rotary models may have issues 
-      with the winder however there is a simple fix and there should be no issues 
-      with later models.
-      <p>If you have one of these amazing old machines the correct bobbin can 
-        be a little hard to find in Australia, but I have found a manufacturer 
-        and am pleased to be able to offer them to my fellow WHITE Sewing machine 
-        enthusiasts.</p>
-    </td>
-    <td width="602">
-      <p><img src="pic/PIC-BOB/BOB-W744.00.jpg" width="500" height="400"></p>
-      <p><br>
-        <img src="pic/PIC-BOB/BOB-W744.03.jpg" width="500" height="400"> </p>
-      <p><img src="pic/PIC-BOB/BOB-W744.04.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744.05.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744.06.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744.09.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744-P06.00.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744-P06.02.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744-P06.03.jpg" width="500" height="400"></p>
-      <p><img src="pic/PIC-BOB/BOB-W744-P12.00.jpg" width="500" height="400"></p>
-      <p>&nbsp;</p>
-    </td>
-  </tr>
-  <tr> 
-    <td> 
-      <div align="center"> </div>
-    </td>
-    <td>&nbsp;</td>
-  </tr>
-</table>
-<!-- #EndEditable --><br>
-
-<div align="center"> 
-  <form name="form1">
-    <select name="Price List" onChange="MM_jumpMenu('parent',this,0)">
-      <option value="../pricelist/index.htm" selected>Price List Index</option>
-      <option value="../pricelist/p01.htm">Belts, Balance Wheels, Hand 
-      Cranks & Electric Motors</option>
-      <option value="../pricelist/p02.htm">Shuttles, Bobbin Cases & Bobbins</option>
-      <option value="../pricelist/p03.htm">Slide & Throat Plates</option>
-      <option value="../pricelist/p04.htm">Tension Parts</option>
-      <option value="../pricelist/p05.htm">Feet & Attachments</option>
-      <option value="../pricelist/p06.htm">Needles</option>
-      <option value="../pricelist/p07.htm">Useful Bits</option>
-      <option value="../pricelist/p08.htm">Treadle & Cabinet Parts</option>
-      <option value="../pricelist/p09.htm">Tools</option>
-      <option value="../manuals/index.htm">Manuals</option>
-    </select>
-    <input type="button" name="Button1" value="Go" onClick="MM_jumpMenuGo('Price List','parent',0)">
-  </form>
-  <p>&nbsp;</p>
-  <p><a href="../a.main/shop.htm" target="_blank"><font color="#000000"><img src="../common/buttons/ckpshopani.gif" width="400" height="100" border="4" alt="shop"></font></a></p>
-</div>
-<h5 align="center">Cyndy Kitt Productions items are also available from<br>
-  <a href="http://www.annebonnyslocker.com.au">Anne Bonny's Locker</a> </h5>
-</body>
-<!-- #EndTemplate --></html>
+<div class="container text-center">
+  <p><img class="img-fluid" alt="White rotary F" src="{{ "machines/pic/WhiteRotaryF.00.jpg" | relative_url }}" width="500" height="400">
+  <img class="img-fluid" alt="White rotary" src="{{ "machines/pic/WhiteR41.00.jpg" | relative_url }}" width="500" height="400"></p>
+<p>Some (not all) early Model White Rotary models may have issues with the winder however there is a simple fix and there should be no issues with later models.</p>
+  <p>If you have one of these amazing old machines the correct bobbin can be a little hard to find in Australia, but I have found a manufacturer and am pleased to be able to offer them to my fellow WHITE Sewing machine enthusiasts.</p>
+<p><img class="img-fluid my-1" alt="New white rotary bobbins" src="{{"pic/PIC-BOB/BOB-W744.00.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="New white rotary bobbins on machine" src="{{"pic/PIC-BOB/BOB-W744.03.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="bobbin being wound" src="{{"pic/PIC-BOB/BOB-W744.04.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="bobbin on winder" src="{{"pic/PIC-BOB/BOB-W744.05.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="padding a bobbin for winding" src="{{"pic/PIC-BOB/BOB-W744.06.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="padding a bobbin for winding - close up" src="{{"pic/PIC-BOB/BOB-W744.09.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="a half dozen white rotary bobbins" src="{{"pic/PIC-BOB/BOB-W744-P06.00.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="a half dozen white rotary bobbins on machine" src="{{"pic/PIC-BOB/BOB-W744-P06.02.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="a dozen white rotary bobbins on machine" src="{{"pic/PIC-BOB/BOB-W744-P06.03.jpg"}}" width="500" height="400">
+<img class="img-fluid my-1" alt="a dozen white rotary bobbins" src="{{"pic/PIC-BOB/BOB-W744-P12.00.jpg"}}" width="500" height="400"></p>
+</div><!-- end container -->
