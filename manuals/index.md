@@ -20,9 +20,8 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 </div><!-- end row -->
 
 {% for item in site.data.manuals %}
-<div class="row">
-<div class="col-1">&nbsp;</div><!-- left col -->
-<div class="col-2">
+<div class="row my-3">
+<div class="col-3">
 {% if item.url %}
 <a href="{{ item.url }}.html">{{ item.title }}</a>
 {% else %}
@@ -35,13 +34,13 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <img class="img-fluid" src="pic/TN-{{item.title}}.jpg" width="200" height="160"/>
 {% endif %}
 </div><!-- pic col -->
-<div class="col-5 py-3">
-<p>{{item.description}}</p>
+<div class="col-5 py-3 vertical-center">
+{{item.description}}
  </div><!-- end desc col -->
-<div class="col-1">
+<div class="col-1 vertical-center">
 {{ item.pages }}
 </div><!-- end price col -->
-<div class="col-1">
+<div class="col-1 vertical-center">
 ${{ item.price }}
 </div><!-- end price col -->
 <div class="col-2">&nbsp;</div><!-- right col -->

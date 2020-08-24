@@ -21,16 +21,19 @@
   price: '10.00'
 
 - title: MAN-27E1-01
+  url: MAN-27E1
   description: '*Singer 27-2 Manual (Circa 1896)'
   pages: 16
   price: '10.00'
 
 - title: MAN-SA14
+  url: MAN-27E1
   description: '*Style No. 14 Attachments Manual for model 27 & 15'
   pages: 8
   price: '6.00'
 
 - title: MAN-27E1-1A
+  url: MAN-27E1
   description: '**Combined 27-2 & attachments Manual (with index)'
   pages: 28
   price: '14.00'

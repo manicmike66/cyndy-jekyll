@@ -8,7 +8,7 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 ---
 
 <div class="container">
-<table width="800" border="0" cellspacing="4" cellpadding="3" align="center">
+<table class="table" width="800" border="0" cellspacing="4" cellpadding="3" align="center">
 <tr> 
 <td colspan="2" height="62"> 
 <h3 align="center">This manual covers all early 99K models</h3>
