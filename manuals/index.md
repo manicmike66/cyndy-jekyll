@@ -21,8 +21,10 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 
 {% for item in site.data.manuals %}
 <div class="row my-3">
-<div class="col-3">
-{% if item.url %}
+<div class="col-3 text-center">
+{% if item.url == "none" %}
+{{item.title}}
+{% elsif item.url %}
 <a href="{{ item.url }}.html">{{ item.title }}</a>
 {% else %}
 <a href="{{ item.title }}.html">{{ item.title }}</a>

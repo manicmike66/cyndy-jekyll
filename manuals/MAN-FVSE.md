@@ -46,5 +46,4 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 </div>
 <div class="col-2">&nbsp;</div>
 </div><!-- end row -->
-<p class="text-center"><a href="./index">return to index</a></p>
 </div><!-- end container -->

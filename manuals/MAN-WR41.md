@@ -28,7 +28,6 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 </ol>
 <p><img class="img-fluid my-1" src="{{"pic/MAN-WR41.04.jpg"}}" width="500" height="400"></p>
 <p class="font-weight-bold text-center">The 24 page reproduction booklet (28 pages including cover) is A5 size (the original was about A6)</p>
-<p class="text-center"><a href="index">return to index</a></p>
 </div>
 <div class="col-3">&nbsp;</div>
 </div><!-- end row -->

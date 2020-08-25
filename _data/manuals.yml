@@ -49,6 +49,7 @@
   price: '10.00'
 
 - title: MAN-127K-01
+  url: MAN-127K
   description: '**Singer 127 and 128 class Manual<br/> (Short version)'
   pages: 16
   price: '10.00'
@@ -120,6 +121,7 @@
   price: '12.00'
 
 - title: MAN-V7000
+  url: none
   description: '***Vickers 7000 Manual circa 1940 (A6)'
   pages: 16
   price: '8.00'

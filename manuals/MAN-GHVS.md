@@ -7,7 +7,7 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 
 ---
 
-<div class="container">
+<div class="container text-center">
 <p><img class="img-fluid my-1" src="{{"pic/MAN-GHVS.01.jpg"}}" width="500" height="400"> </p>
 <p>This 16 page reproduction booklet (20 pages including cover) is A5 size</p>
 </div>

@@ -46,5 +46,3 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <p class="text-center"><img class="img-fluid my-1" src="{{"pic/MAN-BBGA.00.jpg"}}" width="500" height="400"></p>
 <p class="text-center font-weight-bold"> The 16 page reproduction booklet (20 pages including cover) is A5 size (the original was 138mm × 205mm). </p>
 <p class="text-center"><img class="img-fluid my-1" src="{{ "machines/pic/beb/beb-cat.P08.png" | relative_url }}" width="500" height="625"></p>
-<p class="center-right"><a href="index">return to index</a></p>
-<p class="font-weight-bold text-center">No copyright is to be inferred by this reproduction, I only produced it to assist fellow vintage sewing machine enthusiasts and seek only to be compensated a little for the time spent digitally reconstructing and the expense of printing.</p>
