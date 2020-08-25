@@ -7,15 +7,11 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 ---
 
 <div class="container">
-<div class="row my-4">
-<div class="col-2">&nbsp;</div>
-<div class="col-8 text-center">
-<p><img class="img-fluid" src="{{ "pic/201K1.png" }}" width="500" height="400"></p>
-<img class="img-fluid" src="{{"pic/201K21.png"}}" width="500" height="400">
-
+<p><img class="img-fluid" src="{{ "pic/201K1.png" }}" width="500" height="400">
+<img class="img-fluid" src="{{"pic/201K21.png"}}" width="500" height="400"></p>
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_005.jpg" }}" width="500" height="400"></p>
@@ -24,7 +20,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_003.jpg" }}" width="500" height="400"></p>
@@ -33,7 +29,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_008.jpg" }}" width="500" height="400"></p>
@@ -42,7 +38,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_013.jpg" }}" width="500" height="400"></p>
@@ -51,7 +47,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_012.jpg" }}" width="500" height="400"></p>
@@ -60,7 +56,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P.jpg" }}" width="500" height="400"></p>
@@ -69,7 +65,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_006.jpg" }}" width="500" height="400"></p>
@@ -78,7 +74,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_010.jpg" }}" width="500" height="400"></p>
@@ -87,7 +83,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_011.jpg" }}" width="500" height="400"></p>
@@ -96,7 +92,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_009.jpg" }}" width="500" height="400"></p>
@@ -105,7 +101,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_004.jpg" }}" width="500" height="400"></p>
@@ -114,7 +110,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_002.jpg" }}" width="500" height="400"></p>
@@ -123,7 +119,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="row my-2"><!-- inner row -->
 <div class="col-4 vertical-center"><!-- lt col -->&nbsp;
-  <p>Text to come</p>
+  <p class="h3">Text to come</p>
 </div><!-- end lt col -->
 <div class="col-8"><!-- rt col -->
   <p><img class="img-fluid" src="{{ "pic/TEN-201P_007.jpg" }}" width="500" height="400"></p>

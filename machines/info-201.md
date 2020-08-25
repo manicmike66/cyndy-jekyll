@@ -1,0 +1,85 @@
+---
+title: 201 CLASS SINGER SEWING MACHINE
+layout: normal
+description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, eco sewing"
+keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual"
+location: "South Eastern New South Wales, Southern Tablelands, Southern Highlands, Goulburn, New South Wales, Australia.  Custom clothing and costume.  Craft accesories "
+
+---
+
+<div class="container text-center">
+<p><img class="img-fluid my-1" src="{{"pic/singer/201K1.png"}}" width="500" height="400"><img class="img-fluid my-1" src="{{"pic/singer/201K21.png"}}" width="500" height="400"></p>
+<h2 class="text-left">SINGER 201 CLASS SUBMODELS</h2>
+<p class="h3" class="text-left">HISTORICAL NOTES ON THE SINGER 201 CLASS</p>
+<p>The 201 was developed at Singer&#146;s Wittenberge factory in the 1920s as the 201D. The 201&#150;1 treadle went into production at Singer&#146;s main plant at Elizabethport in NJ USA around 1930, however the most popular submodel was the 201&#150;2 with a direct drive potted motor. Almost no belt drive 201&#150;3 or hand crank 201&#150;4 were produced for the North American market. North Americans are usually only familiar with the 201&#150;2 so please keep that in mind when researching your machine.</p> <p>The body was remodelled in cast in aluminium and designated; 201K21 treadle, 201K23 belt drive motor, 201K24 hand crank. The body shape of the aluminium machines are slightly different but this does not affect their function.  There is no record of a potted motor aluminium submodel being manufactured, but if it was it would have the designation &#147;22&#148;.</p>
+<div class="row">
+<div class="col-3 text-left">
+<p class="h4">201D</p>
+</div>
+<div class="col-9 text-left">
+<p>The original 201 developed and manufactured in the Wittenberge Singer Factory (Prussia, Germany) The &quot;D&quot; stands for Duitsland (German for Germany) as Singer had already designated &quot;W&quot; to the former Wheeler and Wilson factory.<br> The 201D is relatively rare outside of Europe, if you find one in Australia it will because it came with a post WW2 migrant. <br> Serial No. of all Wittenberge Singer machines begin with a C. Very little is known about Wittenberge machines as the records did not survive WW2.</p>
+<p class="h6 text-center"><img class="img-fluid my-1" src="{{"pic/singer/201D.00.jpg"}}" width="700" height="300"><br> Photos of a 201D head circa 1929 supplied by a collector friend in the USA</p>
+</div><!-- end col -->
+</div><!-- end row -->
+<div class="row">
+<div class="col-3 text-left vertical-center"> 
+<p class="h4">201&#150;1 Treadle<br> 201&#150;2 Potted motor<br> 201&#150;3 Belt drive motor<br> 201&#150;4 Hand crank</p> 
+</div>
+<div class="col-9 text-left">
+<p>Going into production at Singer's Elizabethport factory around 1930.  Though many people still believe the model was developed in the USA, since the 201D production predates the first 201&#150;1, that belief is highly problematic.<br> However, it is likely that the 201&#150;2 submodel with the potted motor was developed at Elizabethport. While the 201&#150;1 head was the same as the 201&#150;3 and 201&#150;4, the only difference being the solid balance wheel with a large pulley on the 201&#150;3 for the belt drive motor, the direct drive potted motor 201&#150;2 head was used a different casting mould. The Elizabethport 201 was never officially imported to Australia, however some people have imported 201&#150;2 privately.</p>
+</div><!-- end col -->
+</div><!-- end row -->
+<div class="row">
+<div class="col-3 text-left vertical-center">
+<p class="h4">201K1 Treadle<br> 201K2 Potted motor<br> 201K3 Belt drive motor<br> 201K4 Hand crank</p>
+</div>
+<div class="col-9 text-left">
+<p>The 201 class went into production at the Kilbowie factory (Scotland Great Britain) in 1935.The same year King George V celebrated the Silver Jubilee of his reign, so Singer took the opportunity to advertise the 201K as the Jubilee model. The 201K1 (and 201K2, 201K3 and 201K4) was manufactured at Kilbowie till the late '50s. Only small numbers of the 201K2 were manufactured. It is unlikely that the direct drive potted motor was ever officially marketed in Australia.<br> The potted motor 201K2 was the model used in the film &quot;The Dressmaker&quot;, but as the Classic 201 weighs over 20kg it is highly unsafe to carry by the lid's handle. If you don't want to risk breaking a toe, always carry a vintage machine from under the box.</p>
+</div><!-- end col -->
+</div><!-- end row -->
+<p><img class="img-fluid my-1" src="{{"pic/singer/201K.00.jpg"}}" width="500" height="400"><img class="img-fluid my-1" src="{{"pic/singer/201K.01.jpg"}}" width="400" height="320"></p>
+<div class="row">
+<div class="col-3 text-left">
+<p class="h4">201K21 Treadle<br> 201K23 Belt drive motor<br> 201K24 Hand crank</p>
+</div>
+<div class="col-9 text-left">
+<p>In the early 1950s the body was remodelled in cast in aluminium and designated; 201K21 treadle, 201K23 belt drive motor, 201K24 hand crank. The body shape of the aluminium machines are slightly different but this does not affect their function. There is no record of a potted motor aluminium submodel being manufactured, but if it was it would have the designation &#147;22&#148;.  There is also no record of a US made &quot;aluminum&quot; 201.</p>
+<p><img class="img-fluid my-1" src="{{"pic/singer/201K24.01.jpg"}}" width="500" height="400" alt="201K21 converted to crank"></p>
+</div><!-- end col -->
+</div><!-- end row -->
+<div class="row">
+<div class="col-3 text-left">
+<p class="h4">201P21 Treadle<br> 201P23 Belt drive motor<br> 201P24 Hand crank</p>
+</div>
+<div class="col-9 text-left">
+<p>Singer opened a factory in Penrith in 1959 where they initially finished off 201K23 as 201P, these have a serial number with a double letter E&#150; prefix. 201P with a serial with a double letter V&#150; prefix were cast in the Penrith factory, unfortunately the records for the Penrith Singer factory were not kept.</p>
+<p><img class="img-fluid my-1" src="{{"pic/singer/201P23.00.jpg"}}" width="500" height="400"></p>
+<h2>New Parts</h2>
+</div><!-- end col -->
+</div><!-- end row -->
+<div class="row">
+<div class="col-3 text-left">
+<p class="h3">Take care when buying from sellers who are not also clollectors as not all #172222 bobbins are equal </p>
+</div>
+<div class="col-9 text-left">
+<p><img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-1722-C0.jpg" | relative_url }}" width="500" height="400"><img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-1722-C2.jpg" | relative_url }}" width="500" height="400"></p>
+</div><!-- end col -->
+</div><!-- end row -->
+<p class="h3"><a href="{{ "pricelist/p02" | relative_url }}">Click here for current bobbin prices</a></p>
+<p><img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-1722-P06.02.jpg" | relative_url }}" width="500" height="400">
+<img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-1722.03.jpg" | relative_url }}" width="500" height="400">
+<img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-1722.14.jpg" | relative_url }}" width="500" height="400">
+<img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-1722.15.jpg" | relative_url }}" width="500" height="400"></p>
+<p class="h3">Most 201 and 15 class machines use the same throat plate. Unfortunately I have not found a wholesale supplier of new 201 class slide plates, although there are a few US retailers.</p>
+<p><img class="img-fluid my-1" src="{{ "stock/pic/PIC-STP/STP-528L.10.jpg" | relative_url }}" width="500" height="400"></p>
+<p class="h3"><a href="{{ "pricelist/p03" | relative_url }}">Click here for current slide plate prices</a></p>
+<p><img class="img-fluid my-1" src="{{ "stock/pic/PIC-STP/STP-1528.02.jpg" | relative_url }}" width="500" height="400">
+<img class="img-fluid my-1" src="{{ "stock/pic/PIC-STP/SCR-691S.jpg" | relative_url }}" width="500" height="400"></p>
+<p class="h3">201 class machines use low shank feet </p>
+<p class="h3"><a href="{{ "pricelist/p05" | relative_url }}" >Click here for current low shank feet prices and range</a> </p>
+<p><img class="img-fluid my-1" src="{{ "stock/pic/PIC-ATT/LSF-H001.00.jpg" | relative_url }}" width="500" height="400"> </p>
+<p class="h3">A bent or rusty check spring will affect how well your machine stitches<br> <a href="{{ "pricelist/p04" | relative_url }}">Click here for current check spring prices</a> </p>
+<p><img class="img-fluid my-1" src="{{ "stock/pic/PIC-TEN/CSP-201K.01.jpg" | relative_url }}" width="500" height="400">
+<img class="img-fluid my-1" src="{{ "serv/pic/TEN-201P.00.jpg" | relative_url }}" width="500" height="400"></p>
+<p class="h3"><a href="{{ "serv/S201-ten" | relative_url }}">Self service advice on the Singer 201 tension assembly breakdown</a></p>
+</div><!-- end container -->
