@@ -13,6 +13,6 @@
   <h1><!-- #BeginEditable "Heading" -->{{page.title}}<!-- #EndEditable --></h1>
 {% endunless %}
 </div>
-    {% if page.dir contains "stock" page.dir contains "pricelist" or page.dir contains "manuals" %}
+    {% if page.dir contains "stock" or page.dir contains "pricelist" or page.dir contains "manuals" %}
     {% include jumpform.html %}
     {% endif %}
