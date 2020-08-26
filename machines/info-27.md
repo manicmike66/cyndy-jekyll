@@ -1,5 +1,5 @@
 ---
-title: 
+title: Singer VS (Vibrating Shuttle) Models
 layout: normal
 description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, eco sewing"
 keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual"
@@ -7,46 +7,22 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 
 ---
 
-<!-- #BeginEditable "body2" --> 
-<table width="800" border="0" cellspacing="4" cellpadding="3" align="center">
-  <tr> 
-    <td colspan="2" height="62"> 
-      <h2 align="center">27-1<br>
-        <img src="pic/singer/27-1.01.png" width="500" height="400"></h2>
-      <h2 align="center">27-2<br>
-        <a href="../manuals/MAN-27E1.htm"><img src="pic/singer/27-2_xray.png" width="500" height="400" border="0"></a> 
-      </h2>
-      <h2 align="center">27K and 28 K<br>
-        <img src="pic/singer/27k28k.01.png" width="500" height="400"> </h2>
-      <h2 align="center">127 and 128 class<br>
-      </h2>
-      <h2 align="center"><br>
-        <img src="pic/singer/128K.png" width="500" height="400"><img src="pic/singer/127.tens.png" width="400" height="400"> 
-      </h2>
-      <h2 align="center"><br>
-        <a href="../manuals/MAN-127K.htm"><img src="pic/singer/127K.png" width="500" height="400" border="0"></a> 
-      </h2>
-    </td>
-  </tr>
-  <tr> 
-    <td width="174">&nbsp;</td>
-    <td width="602"> </td>
-  </tr>
-  <tr> 
-    <td> 
-      <div align="center"> </div>
-    </td>
-    <td>
-      <p>This page is under construction for information about shuttles and bobbins 
-        look at <a href="../stock/BOB-VS.htm">this page</a></p>
-      <p><a href="info-singer.htm">Back to Singer</a><br>
-      </p>
-    </td>
-  </tr>
-</table>
-<!-- #EndEditable --><br>
-
-<div align="center"><a href="../a.main/shop.htm" target="_blank"><font color="#000000"><img src="../common/buttons/ckpshopani.gif" width="400" height="100" border="4" alt="shop"></font></a></div>
-<h4 align="center">This site requires java script to be enabled for easy navigation</h4>
-</body>
-<!-- #EndTemplate --></html>
+<div class="container text-center">
+<p class="h2" align="center">27-1</p>
+<p><img class="img-fluid my-1" src="{{"pic/singer/27-1.01.png"}}" width="500" height="400"></p>
+<p class="h2" align="center">27-2</p>
+<p><a href="{{ "manuals/MAN-27E1" | relative_url }}"><img class="img-fluid my-1" src="{{"pic/singer/27-2_xray.png"}}" width="500" height="400" border="0"></a> </p>
+<p class="h2" align="center">27K and 28 K</p>
+<p><img class="img-fluid my-1" src="{{"pic/singer/27k28k.01.png"}}" width="500" height="400"> </p>
+<p class="h2" align="center">127 and 128 class </p>
+<p> <img class="img-fluid my-1" src="{{"pic/singer/128K.png"}}" width="500" height="400"><img class="img-fluid my-1" src="{{"pic/singer/127.tens.png"}}" width="400" height="400">
+<a href="{{ "manuals/MAN-127K" | relative_url }}"><img class="img-fluid my-1" src="{{"pic/singer/127K.png"}}" width="500" height="400" border="0"></a> </p>
+<div class="row">
+<div class="col-3">&nbsp;</div>
+<div class="col-6 text-left">
+<p><a href="{{ "stock/BOB-VS" | relative_url }}">For information about shuttles and bobbins look at this page</a></p>
+<p><a href="{{"info-singer"}}">Back to Singer</a></p>
+</div><!-- end col -->
+<div class="col-3">&nbsp;</div>
+</div><!-- end row -->
+</div><!-- end container -->
