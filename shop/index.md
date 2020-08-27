@@ -13,8 +13,9 @@ bodyappend: onload="doShowAll()"
     <fieldset>
         <legend>Shopping cart</legend>
         <label>Item: <input type="text" name="name"></label>
-        <label>Quantity: <input type="text" name="data"></label>
+        <label>Quantity: <input type="text" name="data" value="1"></label>
 
+        <input type="button" value="Add"   onclick="AddItem()">
         <input type="button" value="Save"   onclick="SaveItem()">
         <input type="button" value="Update" onclick="ModifyItem()">
         <input type="button" value="Delete" onclick="RemoveItem()">

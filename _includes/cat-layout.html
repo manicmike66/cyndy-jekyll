@@ -1,0 +1,70 @@
+<div class="row">
+<div class="m-2 col-lg-3 col-sm-3 col-md-3 vertical-center text-right">
+{% if item.img2 %}
+<a href="../stock/{{ item.url }}.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('{{ item.title }}','','../stock/pic/PIC-{{page.picturesection}}/TN/tn_{{ item.title}}.02.jpg',1)"><img name="{{ item.title }}" class="img-fluid" src="../stock/pic/PIC-{{page.picturesection}}/TN/{% if page.picturepre %}tn_{% endif %}{{ item.title }}.jpg" width="200" height="160" border="0"></a>
+{% elsif item.photo %}
+<p class="text-center">(Photo pending)</p>
+{% else %}
+<img class="img-fluid" src="../stock/pic/PIC-{{page.picturesection}}/TN/{% if page.picturepre %}tn_{% endif %}{{item.title}}{% if page.picturepost %}{{page.picturepost}}{% endif %}.jpg" width="200" height="160">
+{% endif %}
+</div><!-- end col -->
+{% if item.description2 %}
+<div class="m-2 col-2 pt-3">
+{% else %}
+<div class="m-2 col-2 vertical-center">
+{% endif %}
+    {% if item.url %}
+    <p><a href="../stock/{{ item.url }}">{{ item.title }}</a></p>
+    {% elsif item.imglink %}
+    <p><a href="../stock/pic/PIC-DRV/{{ item.imglink }}">{{ item.title }}</a></p>
+    {% else %} <p>{{ item.title }}</p>
+    {% endif %}
+    {% if item.description2 and item.section == "p02" %}
+    <p>{{ item.title }}-P06</p>
+    {% elsif item.title2 %}
+        {% if item.imglink2 %}
+        <p><a href="../stock/pic/PIC-DRV/{% if page.picturepre %}tn_{% endif %}{{ item.imglink2 }}">{{ item.title }}</a></p>
+        {% else %}
+        <p>{{ item.title2 }}</p>
+        {% endif %}
+    {% endif %}
+    {% if item.description3 and item.section == "p02" %}
+    <p>{{ item.title }}-P12</p>
+    {% elsif item.title3 %}
+    <p>{{ item.title3 }}</p>
+    {% endif %}
+</div><!-- end col -->
+{% if item.description2 %}
+<div class="m-2 col-5 pt-3">
+{% else %}
+<div class="m-2 col-5 vertical-center">
+{% endif %}
+    <p>
+    {% if item.outofstock %}
+    <span class="h4 text-danger">Currently out of stock</span><br/>
+    {% endif %}
+    {{ item.description }}</p>
+    {% if item.description2 %}
+    <p>{{ item.description2 }}</p>
+    {% endif %}
+    {% if item.description3 %}
+    <p>{{ item.description3 }}</p>
+    {% endif %}
+</div><!-- end col -->
+{% if item.description2 %}
+<div class="m-2 col-1 pt-3">
+{% else %}
+<div class="m-2 col-1 vertical-center">
+{% endif %}
+    {% unless item.outofstock %}
+    <p>${{ item.price }}</p>
+    {% endunless %}
+    {% if item.price2 %}
+    <p>${{ item.price2 }}</p>
+    {% endif %}
+    {% if item.price3 %}
+    <p>${{ item.price3 }}</p>
+    {% endif %}
+</div><!-- end col -->
+</div><!-- end row -->
+

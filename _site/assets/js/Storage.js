@@ -7,6 +7,28 @@ function SaveItem() {
 	doShowAll();
 	
 }
+// attempt to increment the value of data
+function AddItem() {
+			
+	var name1 = document.forms.ShoppingList.name.value;
+	var data1 = Number(document.forms.ShoppingList.data.value);
+	//check if name1 already exists
+	
+//check if key exists
+        if (localStorage.getItem(name1) !=null)
+        {
+          //update
+          localStorage.setItem(name1,data1);
+          document.forms.ShoppingList.data.value += 1.0;
+        }
+        else{ 
+            document.forms.ShoppingList.data.value = 1.0;
+            localStorage.setItem(name1, data1);
+        }
+	
+	doShowAll();
+	
+}
 //------------------------------------------------------------------------------
 //change an existing key=>value in the HTML5 storage
 function ModifyItem() {
