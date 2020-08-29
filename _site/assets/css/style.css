@@ -75,6 +75,20 @@ H6 {
 	text-align : center
 
 }
+@media (max-width:684px){
+    .dropdown-toggle{
+        font-size: 0.8rem;
+    }
+    .dropdown{
+        width: 125px;
+    }
+    .tbItem{
+        padding-left: 0rem;
+    }
+    .navbar-nav{
+        padding-left: 0rem;
+    }
+}
 @media (max-width:800px){
     .h1{
     font-size:1.4rem;

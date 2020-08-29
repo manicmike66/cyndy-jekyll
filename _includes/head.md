@@ -41,7 +41,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="{{ "favicon.ico"|relative_url }}" type="image/x-icon">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <script language="JavaScript" src="{{ "assets/js/toolbar.js" | relative_url }}"></script>
 <script language="JavaScript" src="{{ "assets/js/menu1.js" | relative_url }}"></script>
 <link rel="stylesheet" href="{{"assets/css/toolbar.css" | relative_url}}" type="text/css">

@@ -62,36 +62,35 @@ $(document).ready(function(){
     });
 });
 </script>
-<nav id="Toolbar"  class="tbToolbar navbar navbar-expand-md" role="navigation"><!-- class="collapse navbar-collapse">-->
+<nav id="Toolbar"  class="tbToolbar navbar navbar-expand-sm navbar-dark" role="navigation"><!-- class="collapse navbar-collapse">-->
+<button class="navbar-toggler text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon bg-dark"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
         {% assign navstyle = 'border border-white mx-2' %}
         {% assign links = site.data.navigation %}
         {% for link in links %}
-                {% assign class = nav-item %}
-                {% if page.url == link.url %}
-                    {% assign class = 'nav-item active' %}
-                {% endif %}
-                {% if link.sublinks %}
-                    <li id="{{link.title}}-menu" id="{{ class }}" class="{{ navstyle }} dropdown {{ class }} tbItem">
-                        <a href="{{ link.url }}" class="nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
-                        <ul class="dropdown-content">
-                            {% for sublink in link.sublinks %}
-                                {% if sublink.title == 'separator' %}
-                                    <li role="separator" class="sub-nav-group divider"></li>
-                                {% else %}
-                                    <li>
-                                        <a href="{{ sublink.url }}">{{ sublink.title }}</a>
-                                    </li>
-                                {% endif %}
-                            {% endfor %}
-                        </ul>
-                    </li>
-                {% else %}
-                    <li id="{{ class }}" class="{{ class }} tbItem">
-                        <a class="nav-link tbItemLink" href="{{ link.url }}">{{ link.title }}</a>
-                    </li>
-                {% endif %}
+            {% assign class = nav-item %}
+            {% if page.url == link.url %}
+                {% assign class = 'nav-item active' %}
+            {% endif %}
+            {% if link.sublinks %}
+                <li id="{{link.title}}-menu" id="{{ class }}" class="{{ navstyle }} nav-item dropdown {{ class }} tbItem">
+                    <a href="{{ link.url }}" id="{{link.title}}-link" class="text-light nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                    <div class="dropdown-menu" aria-labelledby="{{link.title}}-link">
+                        {% for sublink in link.sublinks %}
+                            <a class="dropdown-item" href="{{ sublink.url }}">{{ sublink.title }}</a>
+                        {% endfor %}
+                    </div>
+                </li>
+            {% else %}
+                <li id="{{ class }}" class="{{ class }} tbItem">
+                    <a class="nav-link tbItemLink" href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+            {% endif %}
         {% endfor %}
     </ul>
+</div>
 </nav>
 

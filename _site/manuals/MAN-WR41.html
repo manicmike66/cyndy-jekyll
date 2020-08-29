@@ -41,7 +41,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="/cyndy-jekyll/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <script language="JavaScript" src="/cyndy-jekyll/assets/js/toolbar.js"></script>
 <script language="JavaScript" src="/cyndy-jekyll/assets/js/menu1.js"></script>
 <link rel="stylesheet" href="/cyndy-jekyll/assets/css/toolbar.css" type="text/css">
@@ -117,153 +117,86 @@ $(document).ready(function(){
     });
 });
 </script>
-<nav id="Toolbar"  class="tbToolbar navbar navbar-expand-md" role="navigation"><!-- class="collapse navbar-collapse">-->
+<nav id="Toolbar"  class="tbToolbar navbar navbar-expand-sm navbar-dark" role="navigation"><!-- class="collapse navbar-collapse">-->
+<button class="navbar-toggler text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="navbar-toggler-icon bg-dark"></span>
+</button>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
         
         
         
-                
-                
-                
-                    <li id="Home-menu" id="" class="border border-white mx-2 dropdown  tbItem">
-                        <a href="/cyndy-jekyll/a.main/" class="nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
-                        <ul class="dropdown-content">
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/a.main/">home</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/a.main/shop">shop</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/a.main/about">about me</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/media">media</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/a.main/contact.html">contact</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/a.main/links.html">links</a>
-                                    </li>
-                                
-                            
-                        </ul>
-                    </li>
-                
+            
+            
+            
+                <li id="Home-menu" id="" class="border border-white mx-2 nav-item dropdown  tbItem">
+                    <a href="/cyndy-jekyll/a.main/" id="Home-link" class="text-light nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
+                    <div class="dropdown-menu" aria-labelledby="Home-link">
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/a.main/">home</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/a.main/shop">shop</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/a.main/about">about me</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/media">media</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/a.main/contact.html">contact</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/a.main/links.html">links</a>
+                        
+                    </div>
+                </li>
+            
         
-                
-                
-                
-                    <li id="Machines-menu" id="" class="border border-white mx-2 dropdown  tbItem">
-                        <a href="/cyndy-jekyll/machines" class="nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Machines <span class="caret"></span></a>
-                        <ul class="dropdown-content">
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/machines/">start here</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/machines/faq.html">FAQ</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/manuals/">manuals</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/pricelist">price list</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/stock">stock</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/serv">service tips</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/machines/gal.html">gallery</a>
-                                    </li>
-                                
-                            
-                        </ul>
-                    </li>
-                
+            
+            
+            
+                <li id="Machines-menu" id="" class="border border-white mx-2 nav-item dropdown  tbItem">
+                    <a href="/cyndy-jekyll/machines" id="Machines-link" class="text-light nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Machines <span class="caret"></span></a>
+                    <div class="dropdown-menu" aria-labelledby="Machines-link">
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/machines/">start here</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/machines/faq.html">FAQ</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/manuals/">manuals</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/pricelist">price list</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/stock">stock</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/serv">service tips</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/machines/gal.html">gallery</a>
+                        
+                    </div>
+                </li>
+            
         
-                
-                
-                
-                    <li id="Sewing-menu" id="" class="border border-white mx-2 dropdown  tbItem">
-                        <a href="/cyndy-jekyll/sewing" class="nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sewing <span class="caret"></span></a>
-                        <ul class="dropdown-content">
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/sewing">overview</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/sewing/cas.html">casual wear</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/bone">bone couture</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/sewing/cos.html">costume</a>
-                                    </li>
-                                
-                            
-                                
-                                    <li>
-                                        <a href="/cyndy-jekyll/sewing/wo.size">size guide</a>
-                                    </li>
-                                
-                            
-                        </ul>
-                    </li>
-                
+            
+            
+            
+                <li id="Sewing-menu" id="" class="border border-white mx-2 nav-item dropdown  tbItem">
+                    <a href="/cyndy-jekyll/sewing" id="Sewing-link" class="text-light nav-link tbItemLink dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sewing <span class="caret"></span></a>
+                    <div class="dropdown-menu" aria-labelledby="Sewing-link">
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/sewing">overview</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/sewing/cas.html">casual wear</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/bone">bone couture</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/sewing/cos.html">costume</a>
+                        
+                            <a class="dropdown-item" href="/cyndy-jekyll/sewing/wo.size">size guide</a>
+                        
+                    </div>
+                </li>
+            
         
     </ul>
+</div>
 </nav>
 
 
@@ -336,3 +269,6 @@ $(document).ready(function(){
 <h4 align="center">This site requires java script to be enabled for easy navigation</h4>
 <h5 class="text-center">Cyndy Kitt Productions items are available from<br>
   <a href="http://www.annebonnyslocker.com.au">Anne Bonny's Locker</a> </h5>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
