@@ -1,0 +1,45 @@
+- title: Home
+  url: /a.main/
+  sublinks:
+    - title: home
+      url: /a.main/
+    - title: shop
+      url: /a.main/shop.html
+    - title: about me
+      url: /a.main/about.html
+    - title: media
+      url: /media
+    - title: contact
+      url: /a.main/contact.html
+    - title: links
+      url: /a.main/links.html
+- title: Machines
+  url: /machines
+  sublinks:
+    - title: start here
+      url: /machines
+    - title: FAQ
+      url: /machines/faq.html
+    - title: manuals
+      url: /manuals
+    - title: price list
+      url: /pricelist
+    - title: stock
+      url: /stock
+    - title: service tips
+      url: /serv
+    - title: gallery
+      url: /machines/gal.html
+- title: Sewing
+  url: /sewing
+  sublinks:
+    - title: overview
+      url: /sewing
+    - title: casual wear
+      url: /sewing/cas.html
+    - title: bone couture
+      url: /bone
+    - title: costume
+      url: /sewing/cos.html
+    - title: size guide
+      url: /sewing/wo.size.html

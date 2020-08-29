@@ -61,13 +61,13 @@ ${{ item.price }}
 
 <div class="row">
 <div class="col" align="center">
-<p class="h6 my-4 font-weight-bold">* digitally restored faithful reproduction<br>
-** digitally restored faithful reproduction with some editing or added information<br>
-*** fully revised/rewritten using original scanned illustrations</p>
+    <p class="h6 my-4 font-weight-bold"> * digitally restored faithful reproduction
+    <br> ** digitally restored faithful reproduction with some editing or added information
+    <br> *** fully revised/rewritten using original scanned illustrations</p>
 <p class="h6 my-4 font-weight-bold">Unless otherwise stated manuals printed using a laser printer on 80gsm pure white<br/>100% recycled A4 paper with coloured acid free 92gsm to 130 gsm cover at 600 dpi.,<br/>hand compiled &amp; stapled at the spine.<br>
   Paper stock subject to availability and substitution.</p>
 <p class="h6 my-4 font-weight-bold">All manual/s are carefully packed in a plastic sleeve and posted at large letter rate. </p>
-<p class="h6"><img src="pic/MAN-COL.01.jpg" width="500" height="400"></p>
+<p class="h6"><img class="img-fluid my-1" src="{{"pic/MAN-COL.01.jpg"}}" width="500" height="400"></p>
 </div><!-- end col -->
 </div><!-- end row -->
 

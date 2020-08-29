@@ -8,6 +8,6 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 ---
 
 <div class="container text-center">
-<p><img src="pic/singer/Singer201P-1959.png" width="500" height="400"></p>
+<p><img class="img-fluid my-1" alt="Singer now made in australia ad" src="pic/singer/Singer201P-1959.png" width="500" height="400"></p>
 <p><a target="_new" href="https://westernweekender.com.au/2018/07/end-of-an-era-all-over-again/">The end of an era</a></p>
 </div><!-- end container -->

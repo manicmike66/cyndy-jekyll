@@ -9,7 +9,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="container">
   <h3>Despite being most associated with the <a href="{{ "machines/info-15" | relative_url }}">Singer 15 class</a>, there is evidence that &quot;central bobbin&quot; oscillating hook shuttle for lock stitch system was most likely developed by a German manufacturer in the late 1880s. </h3> <p>There is evidence that the Singer Manufacturing Co stole the design for a fingered bobbin case vertical oscillating shuttle from D&uuml;rkopp in the 1880s but other than some unverifiable references to a drawn out patent case concrete records are rather murky on the matter. Whatever the truth of the matter, it does appear that the shuttle system was treated at public domain by the first decade of the 20th century with most German sewing machine manufacturers producing models using the shuttle, commonly referred to as a Central Bobbin or CB, for domestic and commercial use by 1910. </p>
   <p>The #2581 and #2996 bobbins are suitable for all central bobbin models, the non-Singer central bobbins with the exception of the Soviet Union made machines all require 1 o'clock shuttle </p>
-  <p>Singer also used the shuttle system for commercial and industrial use models, along with the 16 there was the <a href="BOB-9120.htm">31</a> (albeit with a slightly different bobbin case) and several industrial use 15 class models.</p>
+  <p>Singer also used the shuttle system for commercial and industrial use models, along with the 16 there was the <a href="BOB-9120.html">31</a> (albeit with a slightly different bobbin case) and several industrial use 15 class models.</p>
 
   <div class="row text-center">
   <div class="col-6 text-right">

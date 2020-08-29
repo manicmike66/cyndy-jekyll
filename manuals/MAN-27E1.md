@@ -8,18 +8,12 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 ---
 
 <div class="container">
-<table width="800" border="0" cellspacing="4" cellpadding="3" align="center">
-<tr> 
-<td width="602" height="62"> 
-<h2 align="center">Combined Singer 27-2 and Attachments Instruction Book</h2>
-<p align="center"><img class="img-fluid my-1" src="{{"pic/MAN-27E1-IA.00.jpg"}}" width="500" height="400"><br> <img class="img-fluid my-1" src="{{"pic/MAN-27E1-IA.05.jpg"}}" width="500" height="400"></p>
-</td>
-</tr>
-<tr> 
-<td width="602"> 
-<p>This Singer Instruction Manual was compiled from carefully scanned, digitally repaired and reconstructed images and text from a pair of original booklets first printed in 1896 and supplied with a Singer 27-2 of that era but is a suitable manual for most Singer 27 and 28 sub-models as well as many other early era vibrating shuttle (long bobbin) machines (please <a href="{{ "a.main/contact" | relative_url }}">contact me</a> if you are unsure). </p> <p>The instructional text is the same as for the original documents and does reference charmingly obsolete terms and materials but is also very clear and easy to follow. I added the contents page for ease of use.</p>
-<h4>Contents:</h4>
-<h5>PART ONE&#151;INSTRUCTIONS FOR USING THE 27-2 SEWING MACHINE</h5>
+<h2 class="text-center">Combined Singer 27-2 and Attachments Instruction Book</h2>
+<p align="text-center"><img class="img-fluid m-1" alt="Singer 27 manual with attachments front cover" src="{{"pic/MAN-27E1-IA.00.jpg"}}" width="500" height="400"><img alt="Front cover plus inside pages" class="img-fluid m-1" src="{{"pic/MAN-27E1-IA.05.jpg"}}" width="500" height="400"></p>
+<p>This Singer Instruction Manual was compiled from carefully scanned, digitally repaired and reconstructed images and text from a pair of original booklets first printed in 1896 and supplied with a Singer 27-2 of that era but is a suitable manual for most Singer 27 and 28 sub-models as well as many other early era vibrating shuttle (long bobbin) machines (please <a href="{{ "a.main/contact.html" | relative_url }}">contact me</a> if you are unsure). </p> <p>The instructional text is the same as for the original documents and does reference charmingly obsolete terms and materials but is also very clear and easy to follow. I added the contents page for ease of use.</p>
+<h3>Contents:</h3>
+<img class="float-right my-1" alt="Front cover plus inside pages" src="{{"pic/MAN-27E1.01.jpg"}}" width="500" height="400">
+<h4 class="my-4">PART ONE&#151;INSTRUCTIONS FOR USING THE 27-2 SEWING MACHINE</h4>
 <ul>
 <li> Oiling the Machine</li>
 <li>Operating the Treadle and Machine</li>
@@ -36,48 +30,15 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <li>The Treadle Mechanism and Band Wheel</li>
 <li>The New Singer Pitman (well new in 1884)</li>
 </ul>
-<p align="center"><img class="img-fluid my-1" src="{{"pic/MAN-27E1.01.jpg"}}" width="500" height="400"></p>
-<h5>PART TWO&#151; INSTRUCTIONS FOR USING ATTACHMENTS (Style No. 14)<br> For use with Singer No. 15 and 27 Sewing Machines</h5>
+<h4>PART TWO&#151; INSTRUCTIONS FOR USING ATTACHMENTS (Style No. 14)<br> For use with Singer No. 15 and 27 Sewing Machines</h4>
 <p> The Binder<br> The Hemmer<br> The Ruffler<br> The Tucker<br> The Under Braider</p>
-<p align="right"><b>This 28 page reproduction booklet (32 pages including cover) is A5 size (the originals were 145mm &times; 224mm)</b></p>
-</td>
-</tr>
-<tr>
-<td width="602">&nbsp;</td>
-</tr>
-<tr> 
-<td width="602"> 
-<div align="center"> 
-<h2>Singer 27-2 Instruction Book<br> <img class="img-fluid my-1" src="{{"pic/MAN-27E1-01.00.jpg"}}" width="500" height="400"><br> <img class="img-fluid my-1" src="pic/MAN-27E1.02.jpg" width="500" height="400"> </h2>
-<h2 align="center">Part one of the above manual sold separately</h2>
-<div align="center"> 
-<p>This 16 page reproduction booklet (20 pages including cover) is A5 size (the originals were 145mm &times; 224mm)</p>
-</div>
-</div>
-</td>
-</tr>
-<tr> 
-<td width="602">&nbsp; </td>
-</tr>
-<tr> 
-<td width="602"> 
-<h2 align="center">Style 14 Singer Attachment Instruction Book</h2>
-<h2 align="center"><img class="img-fluid my-1" src="{{"pic/MAN-SA14.00.jpg"}}" width="500" height="400"></h2>
-<h2 align="center"><img class="img-fluid my-1" src="{{"pic/MAN-SA14.01.jpg"}}" width="500" height="400"></h2>
-<h2 align="center">&nbsp;</h2>
-</td>
-</tr>
-<tr> 
-<td width="602">
-<div align="center">This 8 page reproduction booklet (12 pages including cover) is A5 size (the originals were 145mm &times; 224mm)</div>
-</td>
-</tr>
-<tr> 
-<td valign="middle" height="80"> 
-<div align="center">
-<h4><a href="{{ "stock/BOB-VS" | relative_url }}">More about VS shuttles and bobbins machines here</a></h4>
-</div>
-</td>
-</tr>
-</table>
-</div>
+<p class="text-right"><b>This 28 page reproduction booklet (32 pages including cover) is A5 size (the originals were 145mm &times; 224mm)</b></p>
+<h2 class="text-center">Singer 27-2 Instruction Book</h2>
+<p class="text-center"><img class="img-fluid m-1" alt="cover of manual without attachments" src="{{"pic/MAN-27E1-01.00.jpg"}}" width="500" height="400"><img class="img-fluid m-1" src="pic/MAN-27E1.02.jpg" width="500" height="400"> </p>
+<h2 class="text-center">Part one of the above manual sold separately</h2>
+<p class="text-center">This 16 page reproduction booklet (20 pages including cover) is A5 size (the originals were 145mm &times; 224mm)</p>
+<h2 class="text-center">Style 14 Singer Attachment Instruction Book</h2>
+<p><img class="img-fluid m-1" alt="attachments style 14 cover" src="{{"pic/MAN-SA14.00.jpg"}}" width="500" height="400">
+<img class="img-fluid m-1" alt="attachments style 14 cover plus inside pages" src="{{"pic/MAN-SA14.01.jpg"}}" width="500" height="400"></p>
+<p align="center">This 8 page reproduction booklet (12 pages including cover) is A5 size (the originals were 145mm &times; 224mm)</p>
+<p class="h4 text-center"><a href="{{ "stock/BOB-VS.html" | relative_url }}">More about VS shuttles and bobbins machines here</a></p>

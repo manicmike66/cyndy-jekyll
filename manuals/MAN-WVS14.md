@@ -9,7 +9,7 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 
 <div class="container text-center">
 <p class="h2">The White Sewing Machine Company of Cleveland Ohio USA boasted that their machines were the best in the world and they were certainly one of the most original and innovative sewing machine companies.</p>
-<p align="center"><img src="{{"pic/MAN-WVS14.00.jpg"}}" width="500" height="400"></p>
+<p class="text-center"><img class="img-fluid m-1" alt="Manual cover" src="{{"pic/MAN-WVS14.00.jpg"}}" width="500" height="400"></p>
 <div class="row">
 <div class="col-2">&nbsp;</div>
 <div class="col text-left"><p>This quality reproduction White Sewing Machine Instruction Manual was compiled from carefully scanned, digitally repaired and reconstructed images and text from an original booklet printed in the early 20th century and supplied with White Vibrating Shuttle Sewing Machines of that era.</p>
@@ -17,7 +17,6 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 </div><!-- end col -->
 <div class="col-2">&nbsp;</div>
 </div><!-- end row -->
-<p align="center"><img src="{{"pic/MAN-WVS14.01.jpg"}}" width="500" height="400"></p>
-<p align="center"><img src="{{"pic/MAN-WVS14.11.png"}}" width="500" height="400"></p>
-<div align="center">This 24 page reproduction booklet (28 pages including cover) is A5 size (the original was 150mm&times;230mm)</div>
-</div>
+<p class="text-center"><img class="img-fluid m-1" alt="photo showing manual cover and internal pages" src="{{"pic/MAN-WVS14.01.jpg"}}" width="500" height="400"> <img class="img-fluid m-1" alt="diagram showing oiling points" src="{{"pic/MAN-WVS14.11.png"}}" width="500" height="400"></p>
+<p class="text-center">This 24 page reproduction booklet (28 pages including cover) is A5 size (the original was 150mm&times;230mm)</p>
+</div><!-- end container -->

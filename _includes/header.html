@@ -1,10 +1,10 @@
 <div align="center"> 
-    {% if page.dir contains "main" %}
-    <p><img src="{{ "assets/pic/ckp.gif" | relative_url }}" width="375" height="300"></p>
+    {% if page.dir contains "main" or page.dir contains "media" %}
+    <p><img class="img-fluid" src="{{ "assets/pic/ckp.gif" | relative_url }}" width="375" height="300"></p>
     {% elsif page.dir contains "sewing" %}
-    <img src="{{ "assets/pic/banner.stit.gif" | relative_url }}" width="800" height="250">
+    <img class="img-fluid" src="{{ "assets/pic/banner.stit.gif" | relative_url }}" width="800" height="250">
     {% elsif page.dir contains "machine" or page.dir contains "stock" or page.dir contains "pricelist" or page.dir contains "manuals" %}
-    <p><img src="{{ "assets/pic/banner2.gif" | relative_url }}" width="800" height="250"></p>
+    <p><img class="img-fluid" src="{{ "assets/pic/banner2.gif" | relative_url }}" width="800" height="250"></p>
     {% else %}
     <!--{{page.dir}}-->
     {% endif %}

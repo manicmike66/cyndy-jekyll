@@ -101,6 +101,18 @@
   description: <p>Motor Belt Singer 221, Circumference 17 ½" / 43cm, resin<br> Made in Taiwan (best available quality)</p>
   price: '14.00'
 
+- title: MOD-090W
+  section: p01
+  subsec: DRV
+  description: <p>90W Domestic Sewing Machine Motor CE with Foot control, belt &amp; guard, White only<br> Made in Taiwan </p>
+  price: 110.00
+
+- title: MOD-150W
+  section: p01
+  subsec: DRV
+  description: <p>150W Domestic Sewing Machine Motor CE with Foot control, belt &amp; guard, White only (out of stock)<br> Made in China </p>
+  price: 100.00
+
 - title: BOB-822C
   section: p02
   subsec: bob
@@ -356,7 +368,7 @@
 - title: BCD-2237
   section: p02
   subsec: bc
-  url: BCD-2237
+  url: BOB-2237
   description: 'Bobbin Case "Singer" Rotary, suited to most industrial garment industry rotary hook machines as well as some domestic rotary hook machines. <br> Singer part # 52237 and uses <a href="../stock/BOB-623S.html">L class bobbin</a>'
   price: '8.00'
 
@@ -364,14 +376,14 @@
   section: p02
   subsec: bc
   url: BOB-2237
-  description: 'Bobbin Case Singer Rotary zigzag (20U) <br> Also works in Singer 206 and black 306K and some other domestic rotary hook models<br> Singer part # 541678 and uses <a href="../stock/BOB-623S.htm">L class bobbin</a><br> <a href="../stock/BCD-206-320.htm">Can be used as an alternative to the #105032 bobbin case</a>'
+  description: 'Bobbin Case Singer Rotary zigzag (20U) <br> Also works in Singer 206 and black 306K and some other domestic rotary hook models<br> Singer part # 541678 and uses <a href="../stock/BOB-623S.html">L class bobbin</a><br> <a href="../stock/BCD-206-320.html">Can be used as an alternative to the #105032 bobbin case</a>'
   price: '14.00'
 
 - title: BCD-5032
   section: p02
   subsec: bc
   url: BCD-206-320
-  description: 'Bobbin Case for Singer 206 and black 306K <br> Singer part #105032 and uses<a href="../stock/BOB-623S.htm"> L class bobbin</a><br> (Low on stock as item discontinued — price on enquiry)'
+  description: 'Bobbin Case for Singer 206 and black 306K <br> Singer part #105032 and uses<a href="../stock/BOB-623S.html"> L class bobbin</a><br> (Low on stock as item discontinued — price on enquiry)'
   price: POI
 
 - title: BCD-3058
@@ -499,25 +511,25 @@
 
 - title: CSP-6699
   section: p04
-  description: 'Check Spring for Singer model 66/99. <br> Singer part # 32575<br> This spring also appears to work better with some early 15 class models (<a href="../serv/S15-1-ten" >15-1</a> and <a href="../serv/S99K26-ten" >15K26</a>) than the CSP-1500<br/><a href="../serv/S66-99-ten">Instructions to replace on 66 and early model 99 class</a><br> <a href="../serv/S99K26-ten" >Instructions to replace on later model 99 class (from 99K26 on) </a>'
+  description: 'Check Spring for Singer model 66/99. <br> Singer part # 32575<br> This spring also appears to work better with some early 15 class models (<a href="../serv/S15-1-ten.html" >15-1</a> and <a href="../serv/S15K26-ten.html" >15K26</a>) than the CSP-1500<br/><a href="../serv/S66-99-ten.html">Instructions to replace on 66 and early model 99 class</a><br> <a href="../serv/S99K26-ten.html" >Instructions to replace on later model 99 class (from 99K26 on) </a>'
   price: '5.00'
 
 - title: CSP-4394
   section: p04
   photo: pending
-  description: 'Check Spring for Singer 31-15, Consew 28. <br> Part #43946<br> This spring may work better with some early 15 class models (<a href="../serv/S15-1-ten">15-1</a> and <a href="../serv/S99K26-ten">15K26</a>) than the CSP-1500'
+  description: 'Check Spring for Singer 31-15, Consew 28. <br> Part #43946<br> This spring may work better with some early 15 class models (<a href="../serv/S15-1-ten.html">15-1</a> and <a href="../serv/S15K26-ten.html">15K26</a>) than the CSP-1500'
   price: '5.00'
 
 - title: CSP-5239
   section: p04
   photo: pending
-  description: 'Check Spring for Singer 95 &amp; 96 <br> Part #52394 <br> This spring may work better with some early 15 class models (<a href="../serv/S15-1-ten">15-1</a> and <a href="../serv/S99K26-ten">15K26</a>) than the CSP-1500'
+  description: 'Check Spring for Singer 95 &amp; 96 <br> Part #52394 <br> This spring may work better with some early 15 class models (<a href="../serv/S15-1-ten.html">15-1</a> and <a href="../serv/S15K26-ten.html">15K26</a>) than the CSP-1500'
   price: '5.00'
 
 - title: CSP-5208
   section: p04
   photo: pending
-  description: 'Check Spring for Singer 95 &amp; 96 (appears to be the same as above)<br> Part #52082<br> This spring may work better with some early 15 class models(<a href="../serv/S15-1-ten">15-1</a> and <a href="../serv/S99K26-ten">15K26</a>) than the CSP-1500'
+  description: 'Check Spring for Singer 95 &amp; 96 (appears to be the same as above)<br> Part #52082<br> This spring may work better with some early 15 class models(<a href="../serv/S15-1-ten.html">15-1</a> and <a href="../serv/S15K26-ten.html">15K26</a>) than the CSP-1500'
   price: '5.00'
 
 - title: CSP-201K
@@ -760,7 +772,7 @@
 
 - title: LTP-P275
   section: p08
-  imglink: LTP-P310-LTP-P275.01.jpg
+  imglink: tn_LTP-P310-LTP-P275.01.jpg
   imglink2: LTP-P310-LTP-P275.01.jpg
   title2: LTP-P310
   description: Indian Domestic Treadle Pitman Rod With Nut (275mm long) <br/>Fits Singer Domestic

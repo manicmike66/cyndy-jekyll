@@ -15,12 +15,12 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <div class="row">
 <div class="col-3">&nbsp;</div>
 <div class="col-6 text-left">
-<p><a href="{{ "machines/info-66-99" | relative_url }}">Singer 66 class</a> manual from the early 1930s with no alteration or editing to the original text except to this title page, exchanging the advert for a motor for a diagram of a treadle on page 2 and the information about needles on page 16 has been updated.<br> I have not included the second half of the manual which covers the attachments as I am still digitally cleaning these pages to my exacting standard.</p>
+<p><a href="{{ "machines/info-66-99.html" | relative_url }}">Singer 66 class</a> manual from the early 1930s with no alteration or editing to the original text except to this title page, exchanging the advert for a motor for a diagram of a treadle on page 2 and the information about needles on page 16 has been updated.<br> I have not included the second half of the manual which covers the attachments as I am still digitally cleaning these pages to my exacting standard.</p>
 </div>
 <div class="col-3">&nbsp;</div>
 </div><!-- end row -->
-<p><img class="img-fluid my-1" src="pic/MAN-66LS.10.png" width="500" height="500"></p>
+<p><img class="img-fluid my-1" src="{{"pic/MAN-66LS.10.png"}}" width="500" height="500"></p>
 <p class="h4">The cover is also new and uses an image of a 66 class treadle from a Singer catalogue from the early 1930s.</p>
-<p><img class="img-fluid my-1" src="pic/MAN-66LS.11.png" width="600" height="480"></p>
+<p><img class="img-fluid my-1" src="{{"pic/MAN-66LS.11.png"}}" width="600" height="480"></p>
 <p>This 16 page reproduction booklet (20 pages including cover) is A5 size (the original was 90mm&times;136mm)</p>
 </div>

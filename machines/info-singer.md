@@ -25,8 +25,8 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <div class="col-9">
 <p>I am far from an expert on the early models such as the <a href="//ismacs.net/singer_sewing_machine_company/early_singer_history_new_familyl">New Family (model 12),</a> <a href="//ismacs.net/singer_sewing_machine_company/singer_turtle_back_model_sewing_machinel">Turtle Back</a> and the <a href="//ismacs.net/singer_sewing_machine_company/early_singer_history_the_letter_al">Model A</a>, so I suggest you start with these pages in the <a href="//ismacs.net/l">ISMACS website</a></p>
 <p>I am slowly working on my research notes to create the following pages about common Singer models from an Australian perspective</p>
-<p><a href="{{"info-15"}}">Singer 15 class</a><a href="{{"info-27"}}"><br> Singer VS models</a> (27, 28, 127, 128)<br> <a href="{{"info-66-99"}}">Singer 66 and 99</a> class <br> <a href="{{"info-201"}}">Singer 201 class</a><br> <a href="{{"info-206"}}">Singer 206 family</a> (incorporating 306, 319, 320)</p>
+<p><a href="{{"info-15"}}.html">Singer 15 class</a><a href="{{"info-27"}}.html"><br> Singer VS models</a> (27, 28, 127, 128)<br> <a href="{{"info-66-99"}}.html">Singer 66 and 99</a> class <br> <a href="{{"info-201"}}.html">Singer 201 class</a><br> <a href="{{"info-206"}}.html">Singer 206 family</a> (incorporating 306, 319, 320)</p>
 </div><!-- end col -->
 </div><!-- end row -->
-<h2 class="text-center">Dating and Identifying your Singer from the <a href="{{"id-02"}}">Serial Number</a></h2>
+<h2 class="text-center">Dating and Identifying your Singer from the <a href="{{"id-02"}}.html">Serial Number</a></h2>
 </div>

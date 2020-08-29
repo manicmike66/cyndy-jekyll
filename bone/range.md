@@ -166,7 +166,7 @@ Stylist: Cyndy Kitt Vogelsang</h5>
 </tr>
 </tbody></table>
 <h3 align="center"><img class="img-fluid" src="{{ "pic/bone250.gif" }}" width="250" height="100"><br>
-<a href="index.htm">Back to Bone</a></h3>
+<a href="index.html">Back to Bone</a></h3>
 
 
 

@@ -126,9 +126,5 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 </div><!-- end rt col -->
 </div><!-- end row -->
 
-
-</div><!-- end col -->
-</div><!-- end row -->
-
 <div class="col-2">&nbsp;</div>
 </div><!-- end container -->

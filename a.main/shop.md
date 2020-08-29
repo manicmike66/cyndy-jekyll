@@ -12,7 +12,7 @@ logo: ckp
 <div class="row">
 <div class="col-12 text-center">
 <h3 class="mb-0">The most direct way to buy from me is to visit my studio shop</h3>
-<p><img src="{{ "assets/pic/abl.png" |relative_url }}" width="200" height="240"></p>
+<p><img alt="pirate woman sitting on chest" class="img-fluid my-1" src="{{ "assets/pic/abl.png" |relative_url }}" width="200" height="240"></p>
 <p class="h5"><a href="https://anne-bonnys-locker.business.site/">ANNE BONNY'S LOCKER</a></p>
 <p class="h5">18 BERRY ST<br>
 NOWRA NSW 2541</p>
@@ -30,7 +30,7 @@ Alternatively, my most popular items are usually available on <a href="http://st
     <script type="text/javascript" src="//www.etsy.com/etsy_mini.js"></script>
     <script type="text/javascript">new EtsyNameSpace.Mini(5963395, 'shop','gallery',3,3).renderIframe();</script>
   </div>
-  <p class="h3">You can also <a href="{{ "pricelist/orders" | relative_url }}"> order items directly </a></p>
+  <p class="h3">You can also <a href="{{ "pricelist/orders.html" | relative_url }}"> order items directly </a></p>
 </div><!-- end col -->
 </div><!-- end row -->
 </div><!-- end container -->

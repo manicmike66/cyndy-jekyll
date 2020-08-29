@@ -35,7 +35,7 @@ bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/butt
 </div><!-- end outer col -->
 </div><!-- end outer row -->
 </div><!-- end container -->
-<div align="center" class="my-2"><a href="{{ "/shop" }}"><img src="{{ "assets/buttons/ckpshopani.gif" | relative_url }}" width="400" height="100" border="0"></a></div>
+<div align="center" class="my-2"><a href="{{ "/shop" }}"><img class="img-fluid my-1" src="{{ "assets/buttons/ckpshopani.gif" | relative_url }}" width="400" height="100" border="0"></a></div>
 <div class="text-center">
 <p class="h1 bg-light mt-4">. . . Sewing Stuff . . . </p>
 <p class="mb-4">Keep up to date with <a href="//www.facebook.com/CyndyKittProd" target="_blank">Cyndy Kitt Productions on Facebook</a> </p>

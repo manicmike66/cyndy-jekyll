@@ -13,15 +13,15 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 </div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-2">
-<div class="col"> <a href="{{ "stock/ltb.htm" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-BLT/TN/LTB-B185.00.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
-<div class="col"> <a href="{{ "stock/ltb.htm" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-BLT/TN/LTB-H183.00.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
-<div class="col"> <img src="{{ "stock/pic/PIC-BLT/TN/LTB-O185.01.jpg" | relative_url }}" width="200" height="160" border="0"></div><!-- end col -->
-<div class="col"> <a href="{{ "stock/ltb.htm" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-BLT/TN/LIB-O185.01.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
+<div class="col"> <a href="{{ "stock/ltb.html" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-BLT/TN/LTB-B185.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
+<div class="col"> <a href="{{ "stock/ltb.html" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-BLT/TN/LTB-H183.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
+<div class="col"> <img class="img-fluid my-1" src="{{ "stock/pic/PIC-BLT/TN/LTB-O185.jpg" | relative_url }}" width="200" height="160" border="0"></div><!-- end col -->
+<div class="col"> <a href="{{ "stock/ltb.html" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-BLT/TN/LIB-O185.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-2">
 <div class="col-3">&nbsp;</div><!-- end col -->
 <div class="col-3"> <a href="{{ "stock/ACC-DR12.html" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-ACC/TN/ACC-DR12.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
-<div class="col-4"> <a href="{{ "stock/ACC-DR12.htm" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-ACC/TN/ACC-DR19.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
+<div class="col-4"> <a href="{{ "stock/ACC-DR12.html" | relative_url }}"><img class="img-fluid" src="{{ "stock/pic/PIC-ACC/TN/ACC-DR19.jpg" | relative_url }}" border="0"/></a></div><!-- end col -->
 <div class="col-2">&nbsp;</div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-2">

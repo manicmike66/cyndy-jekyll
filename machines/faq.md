@@ -5,7 +5,6 @@ layout: normal
 sublinks: 1
 description: "Cyndy Kitt Productions, treadle sewing machines, costumes, vintage treadle sewing machines, reproduction sewing machine manuals."
 keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff"
-permalink: machines/faq.html
 bodyappend: onLoad="MM_preloadimages('')"
 
 ---
@@ -21,14 +20,14 @@ bodyappend: onLoad="MM_preloadimages('')"
 </div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-4">
-<div class="col-5 mr-4 text-right"><img alt="image of Singer 15K27 treadle" src="{{ "assets/pic/machines/singer/15k27-cat.gif" | relative_url }}" width="200" height="200">
+<div class="col-5 mr-4 text-right"><img alt="image of Singer 15K27 treadle" src="{{ "machines/pic/singer/15k27-cat.gif" | relative_url }}" width="200" height="200">
 </div><!-- end col -->
 <div class="col-6 my-auto">
   <h3>How to <a href="id-01.html">date or identify</a> a vintage or antique machine</h3>
 </div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-4">
-<div class="col-5 mr-4 text-right"><img alt="Image of the underside of a VS machine" src="{{ "assets/pic/machines/VSPP.f01.jpg" | relative_url }}" width="300" height="200">
+<div class="col-5 mr-4 text-right"><img alt="Image of the underside of a VS machine" src="{{ "pic/VSPP.f01.jpg" }}" width="300" height="200">
 </div><!-- end col -->
 <div class="col-6 my-auto">
   <p class="h3">The importance of the VS driver pivot point is often overlooked. When I am <a href="VSPP.html">trying to ID a badged machine</a>, it is the first thing I look for.</p>

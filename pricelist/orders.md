@@ -11,17 +11,12 @@ permalink: pricelist/orders
 <div class="row">
 <div class="col-12 text-center">
 <p class="h3">"Cyndy Kitt Productions" is not clever or big enough to have a shopping cart on site, but check out my <a href="index.html">price list</a> <br/> then email your itemised purchase request to me.</p>
-<p class="h3">You can discuss your order via email or phone (email is preferable though)<br>
-PLEASE INCLUDE YOUR FULL POSTAL ADDRESS<br>
-<img src="{{ "assets/pic/email.png" | relative_url }}" width="250" height="75"> <br>
-Please don't call/text before 9:00 am or after 5:00pm<br>
-or send files or photos to my phone</p>
-<p> I will send your invoice via email and you can pay via 
-direct bank deposit (net-banking) or PayPal.
-</p>
+<p class="h3">You can discuss your order via email or phone (email is preferable though)<br> PLEASE INCLUDE YOUR FULL POSTAL ADDRESS<br>
+<img class="img-fluid my-1" src="{{ "assets/pic/email.png" | relative_url }}" width="250" height="75"> <br> Please don't call/text before 9:00 am or after 5:00pm<br> or send files or photos to my phone</p>
+<p> I will send your invoice via email and you can pay via direct bank deposit (net-banking) or PayPal.  </p>
 <p>P&amp;P within AU is usually $3.00 for items which can be sent as a large letter under 125g; larger parcels need to be weighed</p>
 <p class="h3">Or visit my studio shop</p>
-<p><img src="{{ "assets/pic/abl.png" | relative_url }}" width="200" height="240"></p>
+<p><img class="img-fluid my-1" src="{{ "assets/pic/abl.png" | relative_url }}" width="200" height="240"></p>
 <p class="h4"><a href="https://anne-bonnys-locker.business.site/">ANNE BONNY'S LOCKER</a><br>
 18 BERRY ST<br>
 NOWRA NSW 2541</p>

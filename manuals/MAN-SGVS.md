@@ -12,7 +12,7 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 
 <div class="row">
 <div class="col-6 text-right">
-<p><img class="img-fluid my-1" src="pic/MAN-SGVS.11.jpg" width="500" height="400"></p>
+<p><img class="img-fluid my-1" src="{{"pic/MAN-SGVS.11.jpg"}}" width="500" height="400"></p>
 </div><!-- end col -->
 <div class="col-6 vertical-center">
 <p class="h2 text-left">Selecta was the house brand the Thompson Bros Dept store used for the machines they sold, regardless of make or model</p>
@@ -36,10 +36,10 @@ Please note that I am not selling the original (which has been archived) but a f
 
 <div class="row">
 <div class="col-6 text-right">
-<a href="{{ "stock/BOB-VS" | relative_url }}"><img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-8227-P06.10.jpg" | relative_url }}" width="500" height="400" border="0"></a>
+<a href="{{ "stock/BOB-VS.html" | relative_url }}"><img class="img-fluid my-1" src="{{ "stock/pic/PIC-BOB/BOB-8227-P06.10.jpg" | relative_url }}" width="500" height="400" border="0"></a>
 </div><!-- end col -->
 <div class="col-6 vertical-center">
-<p>And <a href="{{ "stock/BOB-VS" | relative_url }}">if you require bobbins and/or shuttle, click here</a>.</p>
+<p>And <a href="{{ "stock/BOB-VS.html" | relative_url }}">if you require bobbins and/or shuttle, click here</a>.</p>
 </div><!-- end col -->
 </div><!-- end row -->
 

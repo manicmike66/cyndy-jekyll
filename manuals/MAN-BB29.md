@@ -17,7 +17,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <p>This historic document was originally printed by Bebarfalds in 1929 and supplied with the Blue-Bird &quot;1929&quot; model which looks like this:</p>
 <p><img class="img-fluid my-1" src="{{ "machines/pic/beb/blu-b1929.01.jpg" | relative_url }}" width="500" height="400"></p>
 <p>Bebarfald &#147;badged&#148; most of the machines they sold as Blue-Birds, the pictured &quot;1929&quot; is really a Pfaff 11, but is may have been partially assembled in Australia.</p>
-<p>While the booklet has been specifically written for Blue-Bird &#147;1929&#148; model machines housed in Bebarfald automatic bureau treadle cabinets, the instructions will be helpful to owners of many other brands of VS (vibrating shuttle) machines, particularly those housed in similar cabinets; if you are unsure about your machine please <a href="{{ "a.main/contact" | relative_url }}">contact me</a>.</p>
+<p>While the booklet has been specifically written for Blue-Bird &#147;1929&#148; model machines housed in Bebarfald automatic bureau treadle cabinets, the instructions will be helpful to owners of many other brands of VS (vibrating shuttle) machines, particularly those housed in similar cabinets; if you are unsure about your machine please <a href="{{ "a.main/contact.html" | relative_url }}">contact me</a>.</p>
 <p class="h3">15 POINTS OF SUPERIORITY</p>
 <p class="h6"><img class="img-fluid my-1" src="{{ "machines/pic/beb/blu-b1929.15.png" | relative_url }}" width="500" height="400"><br> (according to the manual)</p>
 <ol class="font-weight-bold">

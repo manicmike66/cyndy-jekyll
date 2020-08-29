@@ -28,8 +28,8 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="row mb-4">
 <div class="col-2">&nbsp;</div><!-- end col -->
 <div class="col-8" style="background-color:black;">
-<div align="center"><img class="img-fluid" src="{{ "assets/pic/ablban.png" | relative_url }}"/> 
-<p><img src="{{ "assets/pic/ss.01.png" | relative_url }}" width="500" height="75"></p>
+<div align="center"><img alt="picture of pirate woman on chest" class="img-fluid" src="{{ "assets/pic/ablban.png" | relative_url }}"/> 
+<p><img class="img-fluid my-1" src="{{ "assets/pic/ss.01.png" | relative_url }}" width="500" height="75"></p>
 <h3 class="text-light">18 Berry St, Nowra NSW</h3>
 <p class="h1 text-light">THE HOME OF</p>
 <h2 class="h1"><a href="{{site.baseurl}}">Cyndy Kitt Productions</a></h2>

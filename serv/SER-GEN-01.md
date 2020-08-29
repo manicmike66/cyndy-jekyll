@@ -12,7 +12,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
   <h2 class="my-3">Lesson One: cleaning the head</h2>
   <p>Step 1. Remove the sewing machine head from the treadle cabinet or box.<br>
     Machines fitted into auto drop cabinets are fixed in place with a lever or a long bolt at the front, and by the 1890s almost all have hinge pins at the back which are usually (but not always in the case of auto drop and coffin lid cabinets) fixed to the machine bed by small grub screws; with the head swung back on the hinges loose these screws and the head should easily slide off the pins, but be aware that it can weigh up to 20kg. </p>
-  <p><img src="{{ "pic/cabinet.png" }}" width="500" height="400"></p>
+  <p><img class="img-fluid my-1" src="{{ "pic/cabinet.png" }}" alt="removing a machine head from the cabinet pins" width="500" height="400"></p>
   <p><iframe src="https://www.youtube.com/embed/AdPXtItxKWc" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
   </div><!-- end col -->
 <div class="col-2">&nbsp; </div>

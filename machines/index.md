@@ -13,7 +13,7 @@ navpos: 2
 <div class="row">
 <div class="col-2">&nbsp;</div><!-- end col -->
 <div class="col-3">
-  <h2><a href="{{"id-01"}}">Identification</a></h2>
+  <h2><a href="{{"id-01.html"}}">Identification</a></h2>
  </div><!-- end left col -->
 <div class="col-5">
       <h3>Working out what you have</h3>

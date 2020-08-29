@@ -14,7 +14,7 @@
 <div class="m-2 col-2 vertical-center">
 {% endif %}
     {% if item.url %}
-    <p><a href="../stock/{{ item.url }}">{{ item.title }}</a></p>
+    <p><a href="../stock/{{ item.url }}.html">{{ item.title }}</a></p>
     {% elsif item.imglink %}
     <p><a href="../stock/pic/PIC-DRV/{{ item.imglink }}">{{ item.title }}</a></p>
     {% else %} <p>{{ item.title }}</p>
@@ -23,7 +23,7 @@
     <p>{{ item.title }}-P06</p>
     {% elsif item.title2 %}
         {% if item.imglink2 %}
-        <p><a href="../stock/pic/PIC-DRV/{% if page.picturepre %}tn_{% endif %}{{ item.imglink2 }}">{{ item.title }}</a></p>
+        <p><a href="../stock/pic/PIC-DRV/{% if page.picturepre %}tn_{% endif %}{{ item.imglink2 }}">{{ item.title2 }}</a></p>
         {% else %}
         <p>{{ item.title2 }}</p>
         {% endif %}

@@ -40,5 +40,5 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <img class="img-fluid my-1" src="{{"pic/MAN-127K-01.01.jpg"}}" width="500" height="400">
 <img class="img-fluid my-1" src="{{"pic/MAN-127K-01.02.jpg"}}" width="500" height="400"></p>
 <p>This 16 page reproduction booklet (20 pages including cover) is A5 size</p>
-<p class="h4"><a href="{{ "stock/BOB-VS" | relative_url }}">More about VS shuttles and bobbins machines here</a></p>
+<p class="h4"><a href="{{ "stock/BOB-VS.html" | relative_url }}">More about VS shuttles and bobbins machines here</a></p>
 </div><!-- end container -->

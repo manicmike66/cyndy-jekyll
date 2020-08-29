@@ -30,5 +30,4 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 </div><!-- end col -->
 <div class="col-2">&nbsp;</div>
 </div><!-- end row -->
-<p class="text-center"><a href="./index">return to index</a></p>
 </div><!-- end container -->

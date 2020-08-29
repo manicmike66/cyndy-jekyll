@@ -17,7 +17,7 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <div class="col-4 text-left">
 <p>Suitable for many generic cast steel straight stitch domestic sewing machines manufactured after WWII in Japan as well as other parts of the world. </p>
 <p>There were a variety of stitch length controls, but they usually have one similar to the 15K88 (like the Palmer Princess above) or German models (like the Pinnock Seweasy at the bottom of the page)</p>
-<p>All HA-1 models use a <a href="{{ "pricelist/p02" | relative_url }}">1 o'clock &quot;15 class&quot; bobbin case:</a><br> <img class="img-fluid my-1" src="{{ "stock/pic/PIC-BCD/TN/BCD-1527.jpg" | relative_url }}" width="200" height="160"> </p>
+<p>All HA-1 models use a <a href="{{ "pricelist/p02.html" | relative_url }}">1 o'clock &quot;15 class&quot; bobbin case:</a><br> <img class="img-fluid my-1" src="{{ "stock/pic/PIC-BCD/TN/BCD-1527.jpg" | relative_url }}" width="200" height="160"> </p>
 <p>and CB bobbins:</p>
 <p><img class="text-left img-fluid my-1" src="{{ "stock/pic/PIC-BOB/TN/tn_BOB-2518.jpg" | relative_url }}" width="200" height="160"> </p>
 <p> Most have the easy release shuttle for cleaning and a feed dog drop control on the bed of the machine, but there are exceptions.</p>
