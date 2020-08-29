@@ -34,14 +34,14 @@ bodyappend: onLoad="MM_preloadimages('')"
 </div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-4">
-<div class="col-5 mr-4 text-right"><img alt="image of a treadle sewing machine showing the belt" src="{{ "assets/serv/pic/b-fit.01.jpg" | relative_url }}" width="200" height="200" border="0">
+<div class="col-5 mr-4 text-right"><img alt="image of a treadle sewing machine showing the belt" src="{{ "serv/pic/b-fit.01.jpg" | relative_url }}" width="200" height="200" border="0">
 </div><!-- end col -->
 <div class="col-6 my-auto">
   <h3><a href="../serv/belt.html">How to fit a treadle belt</a></h3>
 </div><!-- end col -->
 </div><!-- end row -->
 <div class="row my-4">
-<div class="col-5 mr-4 text-right"><img alt="diagram of a hand crank" src="{{ "assets/serv/pic/crank.01.gif" | relative_url }}" width="157" height="200">
+<div class="col-5 mr-4 text-right"><img alt="diagram of a hand crank" src="{{ "serv/pic/crank.01.gif" | relative_url }}" width="157" height="200">
 </div><!-- end col -->
 <div class="col-6 my-auto">
   <h3><a href="../serv/crank.html">How to mount a handcrank or motor</a></h3>
