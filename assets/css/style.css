@@ -114,4 +114,12 @@ a.tbItemLink:visited{
   display: flex;
   align-items: center;
 }
-
+a.dropdown-item{
+    border-bottom: solid 1px #8b583d;
+}
+a.dropdown-item:link{
+    color: #8b583d;
+}
+a.dropdown-item:visited{
+    color: #8b583d;
+}
