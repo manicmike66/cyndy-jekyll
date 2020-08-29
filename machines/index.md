@@ -11,14 +11,13 @@ navpos: 2
 
 <div class="container mb-4">
 <div class="row">
-<div class="col-2">&nbsp;</div><!-- end col -->
-<div class="col-3">
+<div class="col-md-2">&nbsp;</div><!-- end col -->
+<div class="col-md-3 col-sm-5 col-5">
   <h2><a href="{{"id-01.html"}}">Identification</a></h2>
  </div><!-- end left col -->
-<div class="col-5">
-      <h3>Working out what you have</h3>
+<div class="col-md-5 col-sm-5 col-5">
+      <p class="h3">Working out what you have</p>
 </div><!-- end right col -->
-<div class="col-2">&nbsp;</div><!-- end col -->
 </div><!-- end row -->
 {% for item in site.data.machines %}
 <div class="row">
