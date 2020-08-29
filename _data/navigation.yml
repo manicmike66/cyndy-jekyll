@@ -10,9 +10,9 @@
     - title: media
       url: /cyndy-jekyll/media
     - title: contact
-      url: /cyndy-jekyll/a.main/contact
+      url: /cyndy-jekyll/a.main/contact.html
     - title: links
-      url: /cyndy-jekyll/a.main/links
+      url: /cyndy-jekyll/a.main/links.html
 - title: Machines
   url: /cyndy-jekyll/machines
   sublinks:
@@ -29,17 +29,17 @@
     - title: service tips
       url: /cyndy-jekyll/serv
     - title: gallery
-      url: /cyndy-jekyll/machines/gal
+      url: /cyndy-jekyll/machines/gal.html
 - title: Sewing
   url: /cyndy-jekyll/sewing
   sublinks:
     - title: overview
       url: /cyndy-jekyll/sewing
     - title: casual wear
-      url: /cyndy-jekyll/sewing/cas
+      url: /cyndy-jekyll/sewing/cas.html
     - title: bone couture
       url: /cyndy-jekyll/bone
     - title: costume
-      url: /cyndy-jekyll/sewing/cos
+      url: /cyndy-jekyll/sewing/cos.html
     - title: size guide
       url: /cyndy-jekyll/sewing/wo.size

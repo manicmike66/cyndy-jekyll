@@ -13,7 +13,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="col-7">
   <h5>Vintage Treadle and Hand Crank Sewing Machines</h5>
   <p>For many years I've wanted to research, collect and restore vintage sewing machines and now I'm finally living that dream . . . of course once they are looking lovely and sewing sweetly it's time to find my elderly babies a home where their beauty and quality stitching ability will be appreciated.</p>
-  <p><a href="{{ "machines" | relative_url }}">Read More</a></p>
+  <p><a href="{{ "machines" | relative_url }}">Read More about machines.</a></p>
   </div><!-- end col -->
 <div class="col-2">&nbsp;</div><!-- end col -->
 </div><!-- end row -->
@@ -22,7 +22,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="col-7">
   <h5>New Parts and Accessories for Vintage Sewing Machines</h5>
   <p>Finding the correct parts and accessories for a vintage sewing machine can be daunting, but my passion for these machines has lead me to seach the world for new suppliers and I am gradually increasing the range I am able to offer. </p>
-  <p><a href="{{ "stock" | relative_url }}">Read more</a></p>
+  <p><a href="{{ "stock" | relative_url }}">Read more about parts.</a></p>
 </div><!-- end col -->
 <div class="col-2">&nbsp;</div><!-- end col -->
 </div><!-- end row -->
@@ -32,7 +32,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="col-7">
 <h5>Reproduction and New Manuals for Vintage Sewing Machines</h5>
   <p>Unless otherwise stated manuals printed using a laser printer on 80gsm pure white 50 to 100% recycled A4 paper with coloured acid free 92gsm to 130 gsm cover at 600 dpi., hand compiled &amp; stapled at the spine.<br> Paper stock subject to availability and substitution.</p>
-  <p><a href="{{ "manuals" | relative_url }}" >Read more</a></p>
+  <p><a href="{{ "manuals" | relative_url }}" >Read more about manuals.</a></p>
   </div><!-- end col -->
 <div class="col-2">&nbsp; </div>
 </div><!-- end row -->
@@ -42,7 +42,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="col-7">
   <h5>Sewing and Design Services</h5>
   <p>Whether it's crazy costumes or classy made to measure couture, I can probably make it for you. I also do short runs of designer t-shirts, eco-friendly fully washable pure cotton grocery bags, cool hats and so much more.</p>
-  <p><a href="{{ "sewing" | relative_url }}">Read more</a></p>
+  <p><a href="{{ "sewing" | relative_url }}">Read more about sewing and design services.</a></p>
   </div><!-- end col -->
 <div class="col-2">&nbsp; </div>
 </div><!-- end row -->
@@ -50,7 +50,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <div class="col-3">&nbsp; </div>
 <div class="col-7">
   <h5>About me</h5>
-  <p>My name is Cyndy Kitt Vogelsang, and you can  <a href="{{ "about" }} ">read more about me and my business here</a></p>
+  <p>My name is Cyndy Kitt Vogelsang, and you can  <a href="{{ "about.html" }} ">read more about me and my business here</a></p>
   </div><!-- end col -->
 <div class="col-2">&nbsp;</div><!-- end col -->
 </div><!-- end row -->
