@@ -23,6 +23,8 @@ Wed: Noon till 4:30PM (ish) <br>
 Fri: Noon till 4:30PM (ish) <br>
 Sat: Noon till 4:30PM (ish) 
 </p>
+<p class="h3">Or you can use the form below.<br>Please make sure your details are correct. I will be respond by email and will let you know payment options.</p>
+<script type="text/javascript" src="https://form.jotform.com/jsform/202288676644062"></script>
 <p class="h4"><br>
 Alternatively, my most popular items are usually available on <a href="http://stores.ebay.com.au/Cyndy-Kitt-Productions">eBay</a> and <a href="//www.etsy.com/shop/cyndykitt">Etsy</a> if you feel more secure shopping through these methods.</p>
   <h2>Cyndy Kitt Productions Etsy Store</h2>
