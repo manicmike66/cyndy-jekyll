@@ -1,7 +1,7 @@
 title: Cyndy Kitt Productions
 email: mike@mikewilliamswebsites.com.au
 description: Cyndy Kitt
-baseurl: "/cyndy-jekyll/"
+baseurl: /cyndy-jekyll
 url: "https://cyndykitt.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  manicmike66
 plugins:

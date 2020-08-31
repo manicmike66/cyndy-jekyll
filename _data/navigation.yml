@@ -1,45 +1,45 @@
 - title: Home
-  url: /cyndy-jekyll/a.main/
+  url: /a.main/
   sublinks:
     - title: home
-      url: /cyndy-jekyll/a.main/
+      url: /a.main/
     - title: shop
-      url: /cyndy-jekyll/a.main/shop
+      url: /a.main/shop
     - title: about me
-      url: /cyndy-jekyll/a.main/about
+      url: /a.main/about
     - title: media
-      url: /cyndy-jekyll/media
+      url: /media
     - title: contact
-      url: /cyndy-jekyll/a.main/contact.html
+      url: /a.main/contact.html
     - title: links
-      url: /cyndy-jekyll/a.main/links.html
+      url: /a.main/links.html
 - title: Machines
-  url: /cyndy-jekyll/machines
+  url: /machines
   sublinks:
     - title: start here
-      url: /cyndy-jekyll/machines/
+      url: /machines/
     - title: FAQ
-      url: /cyndy-jekyll/machines/faq.html
+      url: /machines/faq.html
     - title: manuals
-      url: /cyndy-jekyll/manuals/
+      url: /manuals/
     - title: price list
-      url: /cyndy-jekyll/pricelist
+      url: /pricelist
     - title: stock
-      url: /cyndy-jekyll/stock
+      url: /stock
     - title: service tips
-      url: /cyndy-jekyll/serv
+      url: /serv
     - title: gallery
-      url: /cyndy-jekyll/machines/gal.html
+      url: /machines/gal.html
 - title: Sewing
-  url: /cyndy-jekyll/sewing
+  url: /sewing
   sublinks:
     - title: overview
-      url: /cyndy-jekyll/sewing
+      url: /sewing
     - title: casual wear
-      url: /cyndy-jekyll/sewing/cas.html
+      url: /sewing/cas.html
     - title: bone couture
-      url: /cyndy-jekyll/bone
+      url: /bone
     - title: costume
-      url: /cyndy-jekyll/sewing/cos.html
+      url: /sewing/cos.html
     - title: size guide
-      url: /cyndy-jekyll/sewing/wo.size
+      url: /sewing/wo.size
