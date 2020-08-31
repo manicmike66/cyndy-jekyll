@@ -33,7 +33,7 @@
     padding:0;
 }
 #Toolbar ul li{ 
-    font-size:small;
+    /*font-size:small;*/
     border: 1px solid #8b583d;
 }
 /* Show the dropdown menu on hover */
@@ -43,6 +43,9 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #001e36;}
+.nav-link{
+    padding: 0rem 1.5rem;
+}
 </style>
 <script>
 $(document).ready(function(){
@@ -62,13 +65,13 @@ $(document).ready(function(){
     });
 });
 </script>
-<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white" role="navigation"><!-- class="collapse navbar-collapse">-->
+<nav id="Toolbar"  class="navbar navbar-expand-sm tbToolbar my-4 border-top border-bottom border-white" role="navigation"><!-- class="collapse navbar-collapse">-->
 <button class="navbar-toggler text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon bg-dark"></span>
 </button>
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mx-auto"><!-- nav navbar-nav">-->
-        {% assign navstyle = 'border border-white mx-2 bg-danger' %}
+        {% assign navstyle = 'border border-white mx-2' %}
         {% assign links = site.data.navigation %}
         {% for entry in links %}
             {% assign class = nav-item %}
@@ -76,7 +79,7 @@ $(document).ready(function(){
                 {% assign class = 'nav-item active' %}
             {% endif %}
             {% if entry.sublinks %}
-                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} nav-item dropdown {{ class }} ">
+                <li id="{{entry.title}}-menu" id="{{ class }}" class="{{ navstyle }} nav-item tbItem dropdown {{ class }} ">
                     <a href="{{ site.baseurl }}{{ entry.url }}" id="{{entry.title}}-link" class="text-light nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ entry.title }} <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="{{entry.title}}-link">
                         {% for sublink in entry.sublinks %}

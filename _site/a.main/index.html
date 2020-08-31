@@ -88,7 +88,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     padding:0;
 }
 #Toolbar ul li{ 
-    font-size:small;
+    /*font-size:small;*/
     border: 1px solid #8b583d;
 }
 /* Show the dropdown menu on hover */
@@ -98,6 +98,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #001e36;}
+.nav-link{
+    padding: 0rem 1.5rem;
+}
 </style>
 <script>
 $(document).ready(function(){
@@ -117,7 +120,7 @@ $(document).ready(function(){
     });
 });
 </script>
-<nav id="Toolbar"  class="navbar navbar-expand-sm navbar-dark my-4 border-top border-bottom border-white" role="navigation"><!-- class="collapse navbar-collapse">-->
+<nav id="Toolbar"  class="navbar navbar-expand-sm tbToolbar my-4 border-top border-bottom border-white" role="navigation"><!-- class="collapse navbar-collapse">-->
 <button class="navbar-toggler text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon bg-dark"></span>
 </button>
@@ -129,7 +132,7 @@ $(document).ready(function(){
             
             
             
-                <li id="Home-menu" id="nav-item active" class="border border-white mx-2 bg-danger nav-item dropdown nav-item active ">
+                <li id="Home-menu" id="nav-item active" class="border border-white mx-2 nav-item tbItem dropdown nav-item active ">
                     <a href="/cyndy-jekyll/a.main/" id="Home-link" class="text-light nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="Home-link">
                         
@@ -152,7 +155,7 @@ $(document).ready(function(){
             
             
             
-                <li id="Machines-menu" id="" class="border border-white mx-2 bg-danger nav-item dropdown  ">
+                <li id="Machines-menu" id="" class="border border-white mx-2 nav-item tbItem dropdown  ">
                     <a href="/cyndy-jekyll/machines" id="Machines-link" class="text-light nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Machines <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="Machines-link">
                         
@@ -177,7 +180,7 @@ $(document).ready(function(){
             
             
             
-                <li id="Sewing-menu" id="" class="border border-white mx-2 bg-danger nav-item dropdown  ">
+                <li id="Sewing-menu" id="" class="border border-white mx-2 nav-item tbItem dropdown  ">
                     <a href="/cyndy-jekyll/sewing" id="Sewing-link" class="text-light nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sewing <span class="caret"></span></a>
                     <div class="dropdown-menu" aria-labelledby="Sewing-link">
                         
