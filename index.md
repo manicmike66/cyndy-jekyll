@@ -23,7 +23,7 @@ bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/butt
 <a href="{{ "sewing" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('clothing','','{{ "assets/buttons/clothing.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="clothing" name="clothing" border="0" src="{{ "assets/buttons/clothing.a.gif" |relative_url }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col">
-<a href="{{ "sewing/cos" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" |relative_url }}" width="100%" height="75"></a>
+<a href="{{ "sewing/cos.html" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('costume','','{{ "assets/buttons/costume.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="costumes" name="costume" border="0" src="{{ "assets/buttons/costume.a.gif" |relative_url }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 </div><!-- end inner row -->
 </div><!-- end outer col -->
@@ -35,7 +35,7 @@ bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/butt
 </div><!-- end outer col -->
 </div><!-- end outer row -->
 </div><!-- end container -->
-<div align="center" class="my-2"><a href="{{ "/shop" }}"><img class="img-fluid my-1" src="{{ "assets/buttons/ckpshopani.gif" | relative_url }}" width="400" height="100" border="0"></a></div>
+<div align="center" class="my-2"><a href="{{ "shop" }}"><img class="img-fluid my-1" src="{{ "assets/buttons/ckpshopani.gif" | relative_url }}" width="400" height="100" border="0"></a></div>
 <div class="text-center">
 <p class="h1 bg-light mt-4">. . . Sewing Stuff . . . </p>
 <p class="mb-4">Keep up to date with <a href="//www.facebook.com/CyndyKittProd" target="_blank">Cyndy Kitt Productions on Facebook</a> </p>

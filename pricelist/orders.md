@@ -10,7 +10,7 @@ permalink: pricelist/orders
 <div class="container mb-4">
 <div class="row">
 <div class="col-12 text-center">
-<p class="h3">"Cyndy Kitt Productions" is not clever or big enough to have a shopping cart on site, but check out my <a href="index.html">price list</a> <br/> then email your itemised purchase request to me.</p>
+<p class="h3">"Cyndy Kitt Productions" is not clever or big enough to have a shopping cart on site, but check out my <a href="index.html">price list</a> <br/> then either <a href="{{ "a.main/shop.html" | relative_url }}">list them on the order form</a> or email your itemised purchase request to me.</p>
 <p class="h3">You can discuss your order via email or phone (email is preferable though)<br> PLEASE INCLUDE YOUR FULL POSTAL ADDRESS<br>
 <img class="img-fluid my-1" src="{{ "assets/pic/email.png" | relative_url }}" width="250" height="75"> <br> Please don't call/text before 9:00 am or after 5:00pm<br> or send files or photos to my phone</p>
 <p> I will send your invoice via email and you can pay via direct bank deposit (net-banking) or PayPal.  </p>

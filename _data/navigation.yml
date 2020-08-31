@@ -4,9 +4,9 @@
     - title: home
       url: /a.main/
     - title: shop
-      url: /a.main/shop
+      url: /a.main/shop.html
     - title: about me
-      url: /a.main/about
+      url: /a.main/about.html
     - title: media
       url: /media
     - title: contact
