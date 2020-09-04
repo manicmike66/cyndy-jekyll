@@ -1,46 +1,3 @@
----
-title: Shop
-layout: normal
-description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, sewing, clothing, accessories, costume, bags, eco friendly, green machine, craft, treadle, design, eco sewing, sustainable craft"
-keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual, sewing"
-bodyappend: onload="doShowAll()"
-
----
-
-<div class="container mb-4">
-<div class="row">
-<h2>Order form</h2>
-</div><!-- end row -->
-<div class="row">
-Select Product :
-<select id="products" style="max-width:300px;">
-{% for item in site.data.pricelist %}
-<option value="{{ item.title }}">{{item.title}} ${{item.price}} {{ item.description | truncate: 40, '...</p>' }}.  </option>
-{% endfor %}
-</select>
-
-Quantity :
-<input type="text" id="qty" size="2" />
-<p/>
-<button id="btnAdd" onclick="addToCart()" >Add To Cart</button>
-<p />
-<table id="cart" border="1" style="visibility:hidden; width:100%">
-     <thead>
-          <tr>
-              <th>Product</th>
-              <th class="text-center">Price</th>
-              <th class="text-center">Qty</th>
-              <th class="text-center">Total</th>
-              <th></th>
-         </tr>
-     </thead>
-     <tbody id="cartBody">
-
-     </tbody>
-</table>
-</div><!-- end row -->
-</div><!-- end container -->
-<script>
         var cart = [];
         $(function () {
             if (localStorage.cart)
@@ -50,10 +7,30 @@ Quantity :
             }
         });
 
-        function addToCart() {
-            var price = $("#products").val();
-            var name = $("#products option:selected").text();
-            var qty = $("#qty").val();
+        function checkExisting(thing) {
+            for (var i in cart) {
+                var product = cart[i];
+                var btn = 'btnAdd-' + thing;
+                if (product.Product == thing){
+                    document.getElementById(btn).innerHTML = "Update";
+                }
+                else {
+                    document.getElementById(btn).innerHTML = "Add";
+                }
+            }
+        }
+        function addToCart(title) {
+/*            var price = $("#price").val();
+            var name = $('#products').val();
+            var qty = $("#qty").val();*/
+/*            var price = document.getElemendById(title).value;*/
+            var name = document.getElementById(title).value;
+            var priceId = 'price-' + title;
+            var qtyId = 'qty-' + title;
+            var descId = 'desc-' + title;
+            var price = document.getElementById(priceId).value;
+            var qty = document.getElementById(qtyId).value;
+            var desc = document.getElementById(descId).value;
 
             // update qty if product is already present
             for (var i in cart) {
@@ -65,8 +42,9 @@ Quantity :
                     return;
                 }
             }
+ 
             // create JavaScript Object
-            var item = { Product: name,  Price: price, Qty: qty }; 
+            var item = { Product: name,  Price: price, Qty: qty, Desc: desc }; 
             cart.push(item);
             saveCart();
             showCart();
@@ -103,4 +81,3 @@ Quantity :
                 $("#cartBody").append(row);
             }
         }
-    </script>
