@@ -7,10 +7,30 @@
             }
         });
 
-        function addToCart() {
-            var price = $("#price").val();
-            var name = $("#products").val();
-            var qty = $("#qty").val();
+        function checkExisting(thing) {
+            for (var i in cart) {
+                var product = cart[i];
+                var btn = 'btnAdd-' + thing;
+                if (product.Product == thing){
+                    document.getElementById(btn).innerHTML = "Update";
+                }
+                else {
+                    document.getElementById(btn).innerHTML = "Add";
+                }
+            }
+        }
+        function addToCart(title) {
+/*            var price = $("#price").val();
+            var name = $('#products').val();
+            var qty = $("#qty").val();*/
+/*            var price = document.getElemendById(title).value;*/
+            var name = document.getElementById(title).value;
+            var priceId = 'price-' + title;
+            var qtyId = 'qty-' + title;
+            var descId = 'desc-' + title;
+            var price = document.getElementById(priceId).value;
+            var qty = document.getElementById(qtyId).value;
+            var desc = document.getElementById(descId).value;
 
             // update qty if product is already present
             for (var i in cart) {
@@ -22,8 +42,9 @@
                     return;
                 }
             }
+ 
             // create JavaScript Object
-            var item = { Product: name,  Price: price, Qty: qty }; 
+            var item = { Product: name,  Price: price, Qty: qty, Desc: desc }; 
             cart.push(item);
             saveCart();
             showCart();
