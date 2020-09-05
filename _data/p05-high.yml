@@ -1,28 +1,40 @@
 - title: HSF-AZ02
-  desc: 2-Way Adjustable Zipper Foot (SS or ZZ)
+  section: p05-high
+  subsec: ATT
+  description: 2-Way Adjustable Zipper Foot (SS or ZZ)
   price: '8.00'
 
 - title: HSF-S518
+  section: p05-high
+  subsec: ATT
   photo: pending
-  desc: Industrial High Shank Invisible Zipper Foot
+  description: Industrial High Shank Invisible Zipper Foot
   price: '1.00'
 
 - title: HSF-SF01
+  section: p05-high
+  subsec: ATT
   photo: pending
-  desc: Adjustable Shirring Foot, High Shank SS
+  description: Adjustable Shirring Foot, High Shank SS
   price: '12.00'
 
 - title: HSF-SF02
+  section: p05-high
+  subsec: ATT
   photo: pending
-  desc: 2 part Shirring Foot, High Shank S
+  description: 2 part Shirring Foot, High Shank S
   price: '10.00'
 
 - title: HSF-FM02
+  section: p05-high
+  subsec: ATT
   photo: pending
-  desc: High Shank Free Motion Foot, metal for ZZ or SS
+  description: High Shank Free Motion Foot, metal for ZZ or SS
   price: '10.00'
 
 - title: HSF-RFLA
-  desc: High Shank Ruffler, 12, 6, 1, Dial adj
+  section: p05-high
+  subsec: ATT
+  description: High Shank Ruffler, 12, 6, 1, Dial adj
   price: '25.00'
 

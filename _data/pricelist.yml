@@ -1,12 +1,14 @@
 - title: LTB-B185
   section: p01
+  subsec: BLT
   url: ltb
   description: <p>Budget Leather Treadle Belt 5mm×183cm W/Hook</p>
   price: '7.50'
 
 - title: LTB-H183
-  section: p01
   title2: LTB-H183-P02
+  section: p01
+  subsec: BLT
   url: ltb
   url2: ltb
   description: <p>Hide Leather Treadle Belt 5mm×183cm W/Hook</p>
@@ -16,12 +18,14 @@
 
 - title: LTB-O185
   section: p01
+  subsec: BLT
   url: ltb
   description: <p>Oak tan Leather Treadle Belt 6mm×185cm W/Hook</p>
   price: '18.00'
 
 - title: LIB-O110
   section: p01
+  subsec: BLT
   url: ltb
   description: <p>Oak tan Leather Industrial Belt 7.5mm×110cm W/Hook<br> (other lengths on inquiry) </p>
       <p>Perfect for Pre-1950 industrials</p>
@@ -29,6 +33,7 @@
 
 - title: LIB-O185
   section: p01
+  subsec: BLT
   url: ltb
   description: <p>Oak tan Leather Industrial Belt 7.5mm×185cm W/Hook<br> (other lengths on inquiry) </p>
       <p>Perfect for Singer classes 16, 29, 31, 103K</p>
@@ -37,6 +42,7 @@
 - title: BHW-0016
   title2: BHM-0015
   section: p01
+  subsec: BLT
   description: <p>Staple Hooks Dia 1.6mm for domestic and light industrial belting, 10 pack </p>
   description2: <p>Staple Hooks Dia 2.0mm for industrial belting, 10 pack </p>
   price: '1.00'
@@ -44,6 +50,7 @@
     
 - title: HCS-H125
   section: p01
+  subsec: DRV
   url: HCS-H125
   img2: HCS-H125.02
   description: <p>Chinese Made HA-1 Hand crank &amp; Balance Wheel Set for Singer and Compatible Japanese Models Painted black over "Made in China" decal</p>
@@ -51,6 +58,7 @@
 
 - title: HCD-H125
   section: p01
+  subsec: DRV
   url: HCS-H125
   img2: HCS-H125.02
   description: <p>Chinese Made HA-1 Hand crank for Singer and Compatible Japanese Models Painted black over "Made in China" decal</p>
@@ -58,6 +66,7 @@
 
 - title: BWD-H126
   section: p01
+  subsec: DRV
   url: HCS-H125
   img2: HCS-H125.02
   description: <p>Chinese Made HA-1 Spoked Balance Wheel for Singer and Compatible Japanese Models<br> Irregularities filed back and painted black </p>
@@ -65,6 +74,7 @@
 
 - title: HCS-B125
   section: p01
+  subsec: DRV
   url: HCS-H125
   img2: HCS-B125.02
   description: <p>Chinese Made HA-1 Hand crank &amp; Balance Wheel Set for Singer and Compatible Japanese Models Tested but aesthetically "as shipped"</p>
@@ -72,6 +82,7 @@
 
 - title: HCD-B125
   section: p01
+  subsec: DRV
   url: HCS-H125
   img2: HCD-B125.02
   description: <p>Chinese Made HA-1 Hand Crank for Singer and Compatible Japanese Models Tested but aesthetically "as shipped"</p>
@@ -79,6 +90,7 @@
 
 - title: BWD-B126
   section: p01
+  subsec: DRV
   img2: BWD-B126.02
   url: HCS-H125
   description: <p>Chinese Made HA-1 Spoked Balance Wheel <br> for Singer and Compatible Japanese Models<br> Tested but aesthetically "as shipped"</p>
@@ -86,17 +98,20 @@
 
 - title: BLT-R300
   section: p01
+  subsec: BLT
   description: <p>Rubber motor belt 30 cm</p>
   price: '6.00'
 
 - title: BLT-3066
   section: p01
+  subsec: BLT
   url: BLT-3066
   description: <p>Motor Belt Singer 201 etc., Circumference 13½ /34cm resin (may be slightly short for some machines)<br> Made in Taiwan (best available quality)</p>
   price: '11.00'
 
 - title: BLT-4144
   section: p01
+  subsec: BLT
   url: BLT-4144
   description: <p>Motor Belt Singer 221, Circumference 17 ½" / 43cm, resin<br> Made in Taiwan (best available quality)</p>
   price: '14.00'
@@ -114,8 +129,10 @@
   price: 100.00
 
 - title: BOB-822C
+  title2: BOB-822C-P06
+  title3: BOB-822C-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-VS
   description: <p>Bobbin For Singer VS machines, copper ends </p>
   description2: <p>Half dozen pack of VS bobbins, copper ends</p>
@@ -125,8 +142,10 @@
   price3: '23.00'
 
 - title: BOB-8227
+  title2: BOB-8227-P06
+  title3: BOB-8227-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-VS
   description: <p>German Style VS bobbin with winder pin hole</p>
   description2: <p>Half dozen pack of German style VS bobbin</p>
@@ -136,8 +155,10 @@
   price3: '35.00'
 
 - title: BOB-2073
+  title2: BOB-2073-P06
+  title3: BOB-2073-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-2073
   description: <p>Singer long beak 15 bobbin</p>
   description2: <p>Half dozen pack Singer long beak 15 bobbin</p>
@@ -147,8 +168,10 @@
   price3: '9.00'
 
 - title: BOB-2518
+  title2: BOB-2518-P06
+  title3: BOB-2518-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-CB
   description: '<p>CB bobbin, (Singer part # 2518)</p>'
   description2: <p>Half dozen pack CB bobbin</p>
@@ -158,8 +181,10 @@
   price3: '6.00'
 
 - title: BOB-2996
+  title2: BOB-2996-P06
+  title3: BOB-2996-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-CB
   description: <p>Bobbin for heavy duty CB (Singer 16, 31, Pfaff etc.)</p>
   description2: <p>Half dozen pack bobbin for heavy duty CB</p>
@@ -170,13 +195,15 @@
 
 - title: BOB-1022-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   description: '<p>Dozen pack, Janome MC bobbins # 102261103</p>'
   price: '5.00'
 
 - title: BOB-1722
+  title2: BOB-1722-P06
+  title3: BOB-1722-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-1722
   description: '<p>66, 99, 201 bobbin, (Singer part # 172222)</p>'
   description2: <p>Half dozen pack 66, 99, 201 bobbins</p>
@@ -186,8 +213,10 @@
   price3: '9.00'
 
 - title: BOB-E426
+  title2: BOB-E426-P06
+  title3: BOB-E426-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-E426
   description: '<p>Elna bobbin (Grasshopper, Supermatic) Elna part # 426000</p>'
   description2: <p>Half dozen pack Elna bobbin</p>
@@ -197,8 +226,10 @@
   price3: '12.00'
 
 - title: BOB-4578
+  title2: BOB-4578-P06
+  title3: BOB-4578-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-4578
   description: '<p>Featherweight bobbin for Singer 221K & 222K part # 45785</p>'
   description2: <p>Half dozen pack Featherweight bobbin</p>
@@ -208,8 +239,10 @@
   price3: '9.00'
 
 - title: BOB-B117
+  title2: BOB-B117-P06
+  title3: BOB-B117-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-B117
   description: '<p>Bernina 117 class bobbin #330.026.030</p>'
   description2: '<p>Half dozen Bernina 117 class bobbin #330.026.030</p>'
@@ -219,8 +252,10 @@
   price3: '16.00'
 
 - title: BOB-W744
+  title2: BOB-W744-P06
+  title3: BOB-W744-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-W744
   description: <p>White Rotary bobbin</p>
   description2: <p>Half dozen pack White Rotary bobbin</p>
@@ -230,8 +265,10 @@
   price3: '10.00'
 
 - title: BOB-623S
+  title2: BOB-623S-P06
+  title3: BOB-623S-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-623S
   description: '<p>Bobbin with slot for L class Rotary Machines (Part # 55623S) Singer 96, 103, 206, 306, 319 etc.</p>'
   description2: <p>Half dozen pack, bobbin for L class Rotary</p>
@@ -241,8 +278,10 @@
   price3: '9.00'
 
 - title: BOB-96Q2
+  title2: BOB-96Q2-P06
+  title3: BOB-96Q2-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-623S
   description:  '<p>Bobbin (quick wind) for L class Rotary Machines (Part # 55623QWS)</p>'
   description2: <p>Half dozen pack, bobbin with 8 holes for L class Rotary</p>
@@ -252,8 +291,10 @@
   price3: '9.00'
 
 - title: BOB-2700
+  title2: BOB-2700-P06
+  title3: BOB-2700-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-623S
   description: '<p>Bobbin with 8 holes for L class Rotary Machines (Part #270010)</p>'
   description2: <p>Half dozen pack Bobbin with 8 holes for L class Rotary</p>
@@ -263,8 +304,10 @@
   price3: '9.00'
 
 - title: BOB-8777
+  title2: BOB-8777-P06
+  title3: BOB-8777-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-8777
   description: '<p>Pfaff ZZ rotary bobbin (130, 260 etc.) Pfaff part #8777</p>'
   description2: <p>Half dozen pack Pfaff ZZ rotary bobbin (130, 260 etc.) </p>
@@ -274,19 +317,23 @@
   price3: '9.00'
 
 - title: BOB-9033
+  title2: BOB-9033-P06
+  title3: BOB-9033-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-8777
   description: '<p>Pfaff ZZ rotary bobbin (130, 260 etc.) Pfaff part #9033</p>'
-  description2: <p>Half dozen pack Pfaff ZZ rotary bobbin (130, 260 etc.) 
-  description3: <p>Dozen pack Pfaff ZZ rotary bobbin (130, 260 etc.) 
+  description2: <p>Half dozen pack Pfaff ZZ rotary bobbin (130, 260 etc.) </p>
+  description3: <p>Dozen pack Pfaff ZZ rotary bobbin (130, 260 etc.) </p>
   price: '0.90'
   price2: '5.00'
   price3: '9.00'
 
 - title: BOB-9120
+  title2: BOB-9120-P06
+  title3: BOB-9120-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   url: BOB-9120
   description: '<p>Bobbin Singer 31-20 44-13 Part #19131</p>'
   description2: '<p>Half dozen pack Bobbin Singer 31-20 44-13 Part #19131</p>'
@@ -296,8 +343,10 @@
   price3: '9.00'
 
 - title: BOB-1143
+  title2: BOB-1143-P06
+  title3: BOB-1143-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   description: '<p>M class bobbins, Industry Part #1143</p>'
   description2: <p>Half dozen pack M class bobbins</p>
   description3: <p>Dozen pack M class bobbins</p>
@@ -306,8 +355,10 @@
   price3: '18.00'
 
 - title: BOB-2034
+  title2: BOB-2034-P06
+  title3: BOB-2034-P12
   section: p02
-  subsec: bob
+  subsec: BOB
   description: '<p>Bobbin, Singer 111W, 112W, 211W, 212W, 212G & Consew, Juki part #203470</p>'
   description2: <p>Half dozen pack bobbins, Singer 110W</p>
   description3: <p>Dozen pack bobbins, Singer 110W</p>
@@ -317,14 +368,14 @@
   
 - title: BCD-3505
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-VS
   description: '<p>Shuttle (bobbin case) Singer 27, 28, 127, 128 <br> Singer part # 83505 Compatible bobbin, #8228<br> Suits most German VS models, British Vickers, and <br> Free Model E </p>'
   price: '30.00'
 
 - title: BCD-1527
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-CB
   description: "<p>Bobbin Case CB Standard (1 o'clock, Singer part # 15277)<br/>Please order either of the following cases<br/>BCD-15GH<br/>BCD-HZ11</p>"
   outofstock: yes
@@ -332,89 +383,90 @@
 
 - title: BCD-15GH
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-CB
   description: "<p>Bobbin Case CB Standard (1 o'clock) with guide hole <br> Alternative for Singer part # 15277<br> Suitable for <a href=\"../manuals/MAN-15K26.html\">Singer 15K26</a>, 15K80, 16 class,<br> <a href=\"../manuals/MAN-PH30.html\">Pfaff 30</a>, German CB, <a href=\"../manuals/MAN-JHA1.html\">Japanese HA-1</a>, and most other left loading central bobbin machines.<br> The guide hole is used when using button hole attachments etc.</p>"
   price: '8.00'
 
 - title: BCD-HZ11
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-CB
   description: "<p>Bobbin Case CB (1 o'clock) with 11mm slot Alternative for Singer part # 15277 Suitable for all the machines that would normally use the standard 15 class bobbin case, but is also suitable for many front loading zigzag models</p>"
   price: '8.00'
 
 - title: BCD-HZ4E
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-CB
   description: <p>Bobbin Case CB zigzag, 12.3mm slot & thread guide hole</p>
   price: '10.00'
 
 - title: BCD-5291
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-CB
-  description: "<p>Bobbin Case for <a href=\"../machines/info-15.html\">15K88</a> (11 o'clock, Singer part # 125291)</p>"
+  description: "<p>Bobbin Case for 15K88 (11 o&rsquo;clock, Singer part # 125291)</p>"
   price: '9.00'
 
 - title: BCD-P130
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-8777
   description: <p>Pfaff ZZ rotary bobbin case (130, 260 etc.)</p> 
   price: '12.00'
 
 - title: BCD-2237
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-2237
-  description: '<p>Bobbin Case "Singer" Rotary, suited to most industrial garment industry rotary hook machines as well as some domestic rotary hook machines. <br> Singer part # 52237 and uses <a href="../stock/BOB-623S.html">L class bobbin</a></p>'
+  description: 'Bobbin Case &ldquo;Singer&rdquo; Rotary, suited to most industrial garment industry rotary hook machines as well as some domestic rotary hook machines. Singer part #52237 and uses <a href="../stock/BOB-623S.html">L class bobbin</a>'
   price: '8.00'
 
 - title: BCD-1678
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-2237
   description: '<p>Bobbin Case Singer Rotary zigzag (20U) <br> Also works in Singer 206 and black 306K and some other domestic rotary hook models<br> Singer part # 541678 and uses <a href="../stock/BOB-623S.html">L class bobbin</a><br> <a href="../stock/BCD-206-320.html">Can be used as an alternative to the #105032 bobbin case</a></p>'
   price: '14.00'
 
 - title: BCD-5032
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BCD-206-320
   description: '<p>Bobbin Case for Singer 206 and black 306K <br> Singer part #105032 and uses<a href="../stock/BOB-623S.html"> L class bobbin</a><br> (Low on stock as item discontinued — price on enquiry)</p>'
   price: POI
 
 - title: BCD-3058
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BCD-206-320
   description: '<p>Bobbin Case for Singer 319 class <br> Singer part # 173058 and uses <a href="../stock/BOB-623S.html">L class bobbin</a><br> Old design (Low on stock as item discontinued — price on enquiry)</p>'
   price: 
 
 - title: BCD-C038
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BCD-206-320
   description: '<p>Bobbin Case (Improved version) for Singer 319 class <br> Singer part # 173058 and uses<a href="../stock/BOB-623S.html"> L class bobbin</a><br> <span class="text-danger">New item for 2019 replaces BCD-3058 <br> </span></p>'
   outofstock: yes
 
 - title: BCD-B117
   section: p02
-  subsec: bc
+  subsec: BCD
   url: BOB-B117
   description: '<p>Bobbin Case For Bernina 117, 217, 317, 517, etc. (#004077.70.00)</p>' 
   price: '30.00'
 
 - title: BCD-2740
   section: p02
-  subsec: bc
+  subsec: BCD
   description: '<p>Bobbin Case for Singer 31-15 #62740</p>'
   price: '12.00'
 
 - title: STP-6699
   section: p03
+  subsec: STP
   title2: STP-2569
   title3: STP-2015 
   description: <p>Singer Class 66 and 99 Slide and Throat plate set</p>
@@ -425,92 +477,110 @@
   price3: '7.50'
 
 - title: STP-IF15
+  subsec: STP
   section: p03
   description: <p>Slide Plate Singer 15-1 (Improved Family)</p>
   price: '20.00'
 
 - title: STP-2834
+  subsec: STP
   section: p03
   description: <p>Slide Plate Spring Fit Singer 15 Class</p>
   price: '1.00'
 
 - title: STP-5115
+  subsec: STP
   section: p03
   description: <p>Slide and Throat Plate Set for 15/Generic Central Bobbin</p>
   price: '11.00'
 
 - title: STP-1528
   section: p03
+  subsec: STP
   description: <p>15/201/Generic CB Throat Plate</p>
   price: '6.00'
 
 - title: STP-5147
   section: p03
+  subsec: STP
   description: <p>Singer 15/Generic CB Slide Plate</p>
   price: '6.00'
 
 - title: STP-LZCD
   section: p03
+  subsec: STP
   description: <p>Japanese left threading ZZ Slide and Throat Plate Set</p>
   price: '13.00'
 
 - title: STP-1063
   section: p03
+  subsec: STP
   description: <p>Japanese left threading zigzag with line guide Throat Plate</p>
   price: '8.00'
 
 - title: STP-P130
   section: p03
+  subsec: STP
   description: <p>Pfaff 130 Slide and Throat Plate Set</p>
   price: '14.00'
 
 - title: STP-S130
   section: p03
+  subsec: STP
   description: <p>Pfaff 130 Slide Plate</p>
   price: '7.50'
 
 - title: STP-T130
   section: p03
+  subsec: STP
   description: <p>Pfaff 130 Throat Plate</p>
   price: '7.50'
 
 - title: STP-S128
   section: p03
+  subsec: STP
   description: <p>Singer VS throat and slide plate set (28, 128) (Limited stock price on enquiry)</p>
   price: POI
 
 - title: STP-4512
   section: p03
+  subsec: STP
   description: <p>Rear Singer ¾ VS slide plate (28, 128) (Limited stock price on enquiry)</p>
   price: POI
 
 - title: STP-4513
   section: p03
+  subsec: STP
   description: <p>Front Singer ¾ VS slide plate (28, 128) (Limited stock price on enquiry)</p>
   price: POI
 
 - title: STP-8323
   section: p03
+  subsec: STP
   description: <p>Singer VS throat plate (28, 128)</p>
   price: '6.00'
 
 - title: SCR-691S
   section: p03
+  subsec: STP
   description: <p>Throat Plate Screw (each)</p>
   price: '0.50'
 
 - title: CSP-1500
   section: p04
+  subsec: TEN
   description: '<p>Official Check Spring for Singer 15 and Japanese HA-1 models. <br> Singer part # 55645, however it lacks the kink required</p>'
   price: '5.00'
 
 - title: CSP-1588
   section: p04
+  subsec: TEN
   description: '<p>Check Spring for Singer 15K88. <br> Singer part # 125316</p>'
   price: '5.00'
 
 - title: CSP-6699
   section: p04
+  subsec: TEN
   description: '<p>Check Spring for Singer model 66/99. <br> Singer part # 32575<br> This spring also appears to work better with some early 15 class models (<a href="../serv/S15-1-ten.html" >15-1</a> and <a href="../serv/S15K26-ten.html" >15K26</a>) than the CSP-1500<br/><a href="../serv/S66-99-ten.html">Instructions to replace on 66 and early model 99 class</a><br> <a href="../serv/S99K26-ten.html" >Instructions to replace on later model 99 class (from 99K26 on) </a></p>'
   price: '5.00'
 
@@ -534,26 +604,31 @@
 
 - title: CSP-201K
   section: p04
+  subsec: TEN
   description: '<p>Check spring Singer 201K. <br> Singer part # 66774</p>'
   price: '5.00'
 
 - title: TNP-SP01
   section: p04
+  subsec: TEN
   description: '<p>Generic beehive tension spring (this is a last resort replacement)</p>'
   price: '5.00'
 
 - title: TNP-H097
   section: p04
+  subsec: TEN
   description: <p>Generic tension disc (pair)</p>
   price: '2.00'
 
 - title: TNP-H096
   section: p04
+  subsec: TEN
   description: <p>Generic tension regulator nut</p>
   price: '2.00'
 
 - title: TNP-RP01
   section: p04
+  subsec: TEN
   title2: TNP-RP02
   description: <p>Generic tension release pin, short</p>
   description2: <p>Generic tension release pin, long</p>
@@ -562,6 +637,7 @@
 
 - title: TNP-RPW1
   section: p04
+  subsec: TEN
   title2: TNP-RPW2
   description: <p>Tension Releasing Washer A</p>
   description2: <p>Tension Releasing Washer B</p>
@@ -636,21 +712,25 @@
 
 - title: BWP-RT01
   section: p07
+  subsec: MSC
   description: '<p>Rubber Tyre For Bobbin Winder #15287</p>'
   price: '3.00'
 
 - title: BWP-RT02
   section: p07
+  subsec: MSC
   description: '<p>Rubber Tyre For Bobbin Winder, large (29K) #2460</p>'
   price: '3.50'
 
 - title: BWG-1253
   section: p07
+  subsec: MSC
   description: <p>Bobbin winder Tension Thread Guide</p>
   price: '3.00'
 
 - title: SCR-114A
   section: p07
+  subsec: MSC
   title2: SCR-513A
   title3: SCR-5131
   description: Small Head Thumb Screw</p>
@@ -662,6 +742,7 @@
 
 - title: HAP-103A
   section: p07
+  subsec: MSC
   title2: HAP-103B
   description: <p>Back Inspection Plate, HA-1, Scroll</p>
   description2: <p>Back Inspection Plate, HA-1, Butterfly</p>
@@ -670,6 +751,7 @@
 
 - title: NCL-205F
   section: p07
+  subsec: MSC
   description: '<p>Needle Clamp 15K26/27/28/66/99 (#2054 Flat)</p>'
   price: '3.00'
   title2: NCL-205S
@@ -681,6 +763,7 @@
 
 - title: OPD-8879
   section: p07
+  subsec: MSC
   title2: OPD-8879-P04
   title3: OPD-8879-P10
   description: <p>Felt Spool Washer</p>
@@ -692,52 +775,62 @@
 
 - title: OPD-H122
   section: p07
+  subsec: MSC
   description: <p>Spool Pin (each)</p>
   price: '2.00'
 
 - title: OPD-1475
   section: p07
+  subsec: MSC
   description: <p>Spool Pin for industrial w/thread guide holes</p>
   price: '4.00'
 
 - title: OPD-P001
   section: p07
+  subsec: MSC
   description: <p>Indian P130 Spool Clamp Set</p>
   price: '7.50'
 
 - title: TSI-C001
   section: p07
+  subsec: MSC
   description: <p>1 Spool Stand Thread Stand Collapsible</p>
   price: '15.00'
 
 - title: TSI-PFS1
   section: p07
+  subsec: MSC
   photo: pending
   description: <p>Spool pin mounted thread stand for cones</p>
   price: '10.00'
 
 - title: HAP-031A
   section: p07
+  subsec: MSC
   description: <p>Patch-O-Matic Presser Foot Release</p>
   price: '10.00'
 
 - title: RBF-13MB-P04
   section: p07
+  subsec: MSC
   description: <p>Round rubber buffer, 13mm black (set of 4)</p>
   price: '4.00'
 
 - title: RBF-13MW-P04
   section: p07
+  subsec: MSC
   description: <p>Round rubber buffer, 13mm white (set of 4)</p>
   price: '4.00'
 
 - title: THP-H204-P2
   section: p08
+  subsec: MSC
   description: <p>HA-1 Cabinet Hinge Pin, Pair</p>
   price: '10.00'
 
 - title: THP-4412-P1
   section: p08
+  subsec: MSC
   title2: THP-4413
   title3: THP-1236
   description: <p>Table Hinge Plate and Hook set For Older Industrial Models</p>
@@ -749,6 +842,7 @@
 
 - title: THP-4412-P2
   section: p08
+  subsec: MSC
   title2: THP-4413-P2
   title3: THP-1236-P2
   description: <p>Table Hinge Plate and Hook set (Pair)</p>
@@ -760,18 +854,21 @@
 
 - title: HTP-C148
   section: p08
+  subsec: MSC
   title2: HA-1
   description: <p>Treadle belt shifter spring</p>
   price: '5.00'
 
 - title: HTP-C153
   section: p08
+  subsec: MSC
   title2: HA-1
   description: <p>Treadle belt shifter screw</p>
   price: '5.00'
 
 - title: LTP-P275
   section: p08
+  subsec: MSC
   imglink: tn_LTP-P310-LTP-P275.01.jpg
   imglink2: LTP-P310-LTP-P275.01.jpg
   title2: LTP-P310
@@ -782,45 +879,53 @@
 
 - title: LTP-S800
   section: p08
+  subsec: MSC
   imglink: LTP-S800.00.jpg
   description: <p>Indian Made Pressed Steel Treadle Frame<br/>With a large band wheel this frame is suitable for light industrial machines</p>
   price: '150.00'
 
 - title: SDS-0003
   section: p09
+  subsec: ACC
   url: SDS-0003
   description: <p>Sewing machine screw driver set, three piece</p>
   price: '6.00'
 
 - title: ACC-DR12
   section: p09
+  subsec: ACC
   url: ACC-DR12
   description: <p>Awl (drill) 145mm with a 85mm plastic handle</p>
   price: '3.00'
 
 - title: ACC-DR19
   section: p09
+  subsec: ACC
   url: ACC-DR12
   description: <p>Awl (drill) 190mm with a 96mm wooden handle Awl (drill) 190mm with a 96mm wooden handle</p>
   price: '9.00'
 
 - title: ACC-TWE6
   section: p09
+  subsec: ACC
   description: <p>Tweezers</p>
   price: '6.00'
 
 - title: ACC-BR01
   section: p09
+  subsec: ACC
   description: <p>Lint brush</p>
   price: '5.00'
 
 - title: ACC-C102
   section: p09
+  subsec: ACC
   description: <p>Spring steel thread clippers, blue</p>
   price: '2.50'
 
 - title: ACC-C12P
   section: p09
+  subsec: ACC
   title2: ACC-C12B
   description: <p>Plastic handle easy grip spring loaded embroidery nipper, pink</p>
   description2: <p>Plastic handle easy grip spring loaded embroidery nipper, blue </p>
@@ -828,57 +933,68 @@
 
 - title: ACC-TS10
   section: p09
-  description: <p>10" carbon steel tailoring scissors</p>
+  subsec: ACC
+  description: <p>10&rdquo; carbon steel tailoring scissors</p>
   price: '40.00'
 
 - title: ACC-FSC1
   section: p09
+  subsec: ACC
   description: <p>Thread Clipper Forged Stainless</p>
   price: '17.50'
 
 - title: RUL-S101
   section: p09
+  subsec: ACC
   description: <p>Space Ruler with Slide Marker</p>
   price: '4.00'
 
 - title: BTH-0050
   section: p09
+  subsec: ACC
   description: <p>Thread concealing hook, bamboo handle</p>
   price: '10.00'
 
 - title: ACC-TH01
   section: p09
+  subsec: ACC
   description: <p>Third Hand</p>
   price: '15.00'
 
 - title: ACC-TB06
   section: p09
+  subsec: ACC
   description: <p>Leather thimble</p>
   price: '7.00'
 
 - title: ACC-RP24
   section: p09
+  subsec: ACC
   description: <p>Rouleau puller and loop turner, 24cm</p>
   price: '6.00'
 
 - title: UGT-0620
   section: p09
+  subsec: ACC
   description: <p>Double Sided Glue Tape, 6mm wide, 20m Roll</p>
   price: '7.50'
 
 - title: LMP-S001-P12
   section: p09
+  subsec: ACC
   description: <p>Leather Marker, Silver Ink refill. Pack of 12 </p>
   price: '10.00'
 
 - title: TCK-0005
   section: p09
+  subsec: ACC
   url: TCK-0005
   description: <p>Tweezers, cleaning brush & 3pc driver set</p>
   price: '13.00'
 
 - title: TCK-0006
   section: p09
+  subsec: ACC
   url: TCK-0006
   description: <p>Awl, tweezers, cleaning brush & 3pc driver set</p>
   price: '14.00'

@@ -1,7 +1,11 @@
 - title: SMA-MSG1
-  desc: Magnetic Seam Guide
+  section: p05-seam
+  subsec: ATT
+  description: Magnetic Seam Guide
   price: '8.00'
 
 - title: SMA-2586
-  desc: Large seam guide
+  section: p05-seam
+  subsec: ATT
+  description: Large seam guide
   price: '5.00'

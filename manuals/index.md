@@ -3,25 +3,28 @@ title: Reproduction Vintage Sewing Machine Instruction Manuals
 layout: normal
 description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, eco sewing"
 keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual"
-location: "South Eastern New South Wales, Southern Tablelands, Southern Highlands, Goulburn, New South Wales, Australia.  Custom clothing and costume.  Craft accesories "
 
 ---
 
 <div class="container mb-4">
-<div class="row">
-<div class="col-1">&nbsp;</div><!-- left col -->
-<div class="col-2">&nbsp;</div><!-- pic col -->
-<div class="col-4 h4">
-      Description
-</div><!-- end right col -->
-<div class="col-2 h4">No. Pages excl cover</div><!-- end col -->
-<div class="col-1 h4">Price</div><!-- end col -->
-<div class="col-2">&nbsp;</div><!-- RH col -->
-</div><!-- end row -->
+<div class="row bg-light">
+<div class="my-2 col-lg-3 col-md col-sm-3 text-left">
+&nbsp;
+</div><!-- end col -->
+<div class="my-2 col-lg-3 col-md col-sm-5 text-left">
+  <h4>Description</h4>
+</div><!-- end col -->
+<div class="my-2 col-lg-2 col-md col-sm-1 text-left">
+  <h4>Pages<br/> excl cover</h4>
+</div><!-- end col -->
+<div class="my-2 col-lg-3 col-md col-sm-1 text-center">
+  <h4>Price AUD</h4>
+</div><!-- end col -->
+</div>
 
 {% for item in site.data.manuals %}
-<div class="row my-3">
-<div class="col-3 text-center">
+<div class="row">
+<div class="m-2 col-lg-3 col-md col-sm-3 text-center">
 {% if item.url == "none" %}
 {{item.title}}
 {% elsif item.url %}
@@ -36,18 +39,18 @@ location: "South Eastern New South Wales, Southern Tablelands, Southern Highland
 <img class="img-fluid" src="pic/TN-{{item.title}}.jpg" width="200" height="160"/>
 {% endif %}
 </div><!-- pic col -->
-<div class="col-5 py-3 vertical-center">
+<div class="my-2 col-lg-3 col-sm-5 col-md vertical-center">
 {{item.description}}
  </div><!-- end desc col -->
-<div class="col-1 vertical-center">
+<div class="my-2 col-lg-2 col-sm-3 col-md vertical-center">
 {{ item.pages }}
+</div><!-- end pages col -->
+<div class="my-2 col-lg-3 col-md col-sm-1 vertical-center text-left">
+<p class="my-3"><span class="px-2">${{ item.price }}</span><input type="hidden" id='{{item.title}}' value="{{item.title}}"/><input type="hidden" id='desc-{{item.title}}' value="{{item.description | truncate: 40}}"/><span class="px-2"><input type="text" size="1" id='qty-{{item.title}}' value="1"/><input type="hidden" id='price-{{item.title}}' value="{{item.price}}"/><button id="btnAdd-{{item.title}}" onclick="addToCart('{{item.title}}');checkExisting('{{item.title}}')">Add</button></span></p>
 </div><!-- end price col -->
-<div class="col-1 vertical-center">
-${{ item.price }}
-</div><!-- end price col -->
-<div class="col-2">&nbsp;</div><!-- right col -->
 </div><!-- end row -->
 {% endfor %}
+
 <div class="row my-4">
 <div class="col-1">&nbsp;</div><!-- left col -->
 <div class="col-2">&nbsp;</div><!-- pic col -->
@@ -72,3 +75,4 @@ ${{ item.price }}
 </div><!-- end row -->
 
 </div><!-- end container -->
+<script src="{{"assets/js/shop.js" | relative_url}}"/></script>
