@@ -1,80 +1,80 @@
-        var cart = [];
-        $(function () {
-            if (localStorage.cart)
+        var cart = [];// create new array var to hold products
+        /*$(function () {*/
+            if (localStorage.cart)// if the key (with the same name as the array) exists...
             {
-                cart = JSON.parse(localStorage.cart);
-                showCart();
+                cart = JSON.parse(localStorage.cart);//populate the array. 
+                showCart();// and show the existing cart items
             }
-        });
+        /*});*/
 
-        function checkExisting(thing) {
+        function checkExisting(thing) {// purpose is to change the button text
             for (var i in cart) {
                 var product = cart[i];
-                var btn = 'btnAdd-' + thing;
+                var btn = 'btnAdd-' + thing;// thing is the product code
                 if (product.Product == thing){
-                    document.getElementById(btn).innerHTML = "Update";
+                    document.getElementById(btn).innerHTML = "Added";
                 }
                 else {
                     document.getElementById(btn).innerHTML = "Add";
                 }
             }
         }
-        function addToCart(title) {
-/*            var price = $("#price").val();
-            var name = $('#products').val();
-            var qty = $("#qty").val();*/
-/*            var price = document.getElemendById(title).value;*/
-            var name = document.getElementById(title).value;
-            var priceId = 'price-' + title;
-            var qtyId = 'qty-' + title;
-            var descId = 'desc-' + title;
-            var price = document.getElementById(priceId).value;
-            var qty = document.getElementById(qtyId).value;
-            var desc = document.getElementById(descId).value;
+
+        function addToCart(title) {// adding an item means...
+            var name = document.getElementById(title).value;// don't know why I didn't just say name=title
+            var priceId = 'price-' + title;// price IDs are price-title
+            var qtyId = 'qty-' + title;// same with quantity
+            var descId = 'desc-' + title;// same with description
+            var price = document.getElementById(priceId).value;// set the value of price
+            var qty = document.getElementById(qtyId).value;// set the quantity
+            var desc = document.getElementById(descId).value;// set the description
 
             // update qty if product is already present
             for (var i in cart) {
                 if(cart[i].Product == name)
                 {
                     cart[i].Qty = qty;
-                    showCart();
-                    saveCart();
+                    showCart();// when finished, show the table
+                    saveCart();// then update the values
                     return;
                 }
             }
  
             // create JavaScript Object
             var item = { Product: name,  Price: price, Qty: qty, Desc: desc }; 
-            cart.push(item);
+            cart.push(item);// push it onto the array as an object
             saveCart();
             showCart();
         }
 
+
         function deleteItem(index){
             cart.splice(index,1); // delete item at index
-            showCart();
             saveCart();
+            showCart();
         }
 
         function saveCart() {
             if ( window.localStorage)
             {
-                localStorage.cart = JSON.stringify(cart);
+                localStorage.cart = JSON.stringify(cart);// convert object/s back to single JSON string and store to localStorage.cart
             }
         }
 
         function showCart() {
             if (cart.length == 0) {
                 $("#cart").css("visibility", "hidden");
+                $("#cart1").css("visibility", "hidden");
                 return;
             }
 
-            $("#cart").css("visibility", "visible");
+            $("#cart").css("visibility", "hidden");// changed this
+            $("#cart1").css("visibility", "visible");// changed this
             $("#cartBody").empty();
             for (var i in cart) {
                 var item = cart[i];
                 var itemtotal = item.Price * item.Qty;
-                var row = '<tr><td>' + item.Product + '</td><td class="text-center">$' +
+                var row = '<tr><td>' + item.Product + item.Desc + '</td><td class="text-center">$' +
                              item.Price + '</td><td class="text-center">' + item.Qty + '</td><td class="text-center">$'
                              + itemtotal.toFixed(2) + "</td><td>"
                              + "<button onclick='deleteItem(" + i + ")'>Delete</button></td></tr>";

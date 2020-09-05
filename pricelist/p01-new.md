@@ -3,26 +3,11 @@ title: Belts, Balance Wheels, Hand Cranks & Electric Motors
 layout: normal
 description: "Cyndy Kitt Productions, treadle sewing machines, treadle sewing machine parts, sewing machine parts, vintage treadle sewing machines, reproduction sewing machine manuals, sewing machine manual, sewing, clothing, accessories, costume, bags, eco friendly, green machine, craft, treadle, design, eco sewing, sustainable craft"
 keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle sewing machine, vintage sewing machine, sewing machine manual, sewing"
-bodyAppend: onLoad="showCart()"
 
 ---
 
 
 <div class="container mb-4 text-center">
-<table id="cart" border="1" style="visibility:hidden;width:100%">
-     <thead>
-          <tr>
-              <th>Product</th>
-              <th class="text-center">Price</th>
-              <th class="text-center">Qty</th>
-              <th class="text-center">Total</th>
-              <th></th>
-         </tr>
-     </thead>
-     <tbody id="cartBody">
-
-     </tbody>
-</table>
 <div class="row bg-light">
 <div class="m-2 col-lg-3 col-md col-sm-3 text-left">
 &nbsp;
@@ -77,9 +62,9 @@ bodyAppend: onLoad="showCart()"
 {% else %}
 <div class="m-2 col-lg-3 col-sm-1 col-md-1 vertical-center text-left">
 {% endif %}
-<p><span class="px-2">${{ item.price }}</span><span class="px-2"><input type="hidden" id='{{item.title}}' value="{{item.title}}"/><input type="hidden" size="1" id='desc-{{item.title}}' value="{{item.description | truncate: 50}}"/><input type="text" size="1" id='qty-{{item.title}}' value="1"/><input type="hidden" id='price-{{item.title}}' value="{{item.price}}"/><button id="btnAdd-{{item.title}}" onclick="addToCart('{{item.title}}');checkExisting('{{item.title}}')">Add</button><button id="btnDel-{{item.title}}" style="visibility:hidden" onclick="delFromCart('{{item.title}}');checkExisting('{{item.title}}')">Del</button></span></p>
+<p><span class="px-2">${{ item.price }}</span><input type="hidden" id='{{item.title}}' value="{{item.title}}"/><input type="hidden" id='desc-{{item.title}}' value="{{item.description | truncate: 40}}"/><span class="px-2"><input type="text" size="1" id='qty-{{item.title}}' value="1"/><input type="hidden" id='price-{{item.title}}' value="{{item.price}}"/><button id="btnAdd-{{item.title}}" onclick="addToCart('{{item.title}}');checkExisting('{{item.title}}')">Add</button></span></p>
 {% if item.price2 %}
-<p><span class="px-2">${{ item.price2 }}</span><span class="px-2"><input type="hidden" id='{{item.title2}}' value="{{item.title2}}"/><input type="hidden" size="1" id='desc-{{item.title2}}' value="{{item.description2 | truncate: 50}}"/><input type="text" size="1" id='qty-{{item.title2}}' value="1"/><input type="hidden" id='price-{{item.title2}}' value="{{item.price2}}"/><button id="btnAdd-{{item.title2}}" onclick="addToCart('{{item.title2}}');checkExisting('{{item.title2}}')">Add</button></span></p>
+<p><span class="px-2">${{ item.price2 }}</span><input type="hidden" id='{{item.title2}}' value="{{item.title2}}"/><input type="hidden" id='desc-{{item.title2}}' value="{{item.description2 | truncate: 40}}"/><span class="px-2"><input type="text" size="1" id='qty-{{item.title2}}' value="1"/><input type="hidden" id='price-{{item.title2}}' value="{{item.price2}}"/><button id="btnAdd-{{item.title2}}" onclick="addToCart('{{item.title2}}');checkExisting('{{item.title2}}')">Add</button></span></p>
 {% endif %}
 </div><!-- end col -->
 </div><!-- end row -->

@@ -229,33 +229,37 @@ $(document).ready(function(){
 
 
     
+<div class="container mb-4 text-center">
 <script>
-if (localStorage.cart)
-{ cart = JSON.parse(localStorage.cart);
-console.log($cart);
+var allItems = localStorage.getItem('cart');
+var items = JSON.parse(allItems);
+if(items.length == 1){
+    document.write('<!--<p>There is <span id="itemcount">' + items.length + '</span> item in your basket</p>-->');
+}
+else{
+    document.write('<!--<p>There are <span id="itemcount">' + items.length + '</span> items in your basket</p>-->');
+}
+var table = '<table id="cart1" border="1" class="mb-3" style="visibility:visible;width:100%">';
+table += '     <thead>';
+table += '          <tr>';
+table += '              <th>Product</th>';
+table += '              <th class="text-center">Price</th>';
+table += '              <th class="text-center">Qty</th>';
+table += '              <th class="text-center">Total</th>';
+table += '              <th class="text-center">Delete Item</th>';
+table += '         </tr>';
+table += '     </thead>';
+table += '     <tbody id="cartBody">';
+if(items.length != 0)
+{
+    document.write(table);
+    for (i = 0; i < items.length; i++)   {
+        document.write("<tr><td>" + items[i].Product + " " + items[i].Desc + "x</td><td>$" + items[i].Price + "</td><td>" + items[i].Qty + "</td><td>$" + (items[i].Qty * items[i].Price).toFixed(2) + "</td><td><button onClick='deleteItem(\"" + i + "\")'>Delete</button></td></tr>");
+    }
+    document.write("</tbody></table>");
 }
 </script>
 
-<div class="container mb-4 text-center">
-<table id="cart" border="1" style="visibility:visible;width:100%">
-     <thead>
-          <tr>
-              <th>Product</th>
-              <th class="text-center">Price</th>
-              <th class="text-center">Qty</th>
-              <th class="text-center">Total</th>
-         </tr>
-     </thead>
-     <tbody id="cartBody">
-<script>
-var allItems = localStorage.getItem(localStorage.key(1));
-var items = JSON.parse(allItems);
-for (i = 0; i < items.length; i++)   {
-        document.write("<tr><td>" + items[i].Product + " " + items[i].Desc + "</td><td>$" + items[i].Price + "</td><td>" + items[i].Qty + "</td><td>$" + (items[i].Qty * items[i].Price).toFixed(2) + "</td></tr>");
-}
-</script>
-     </tbody>
-</table>
 <script src="/cyndy-jekyll/assets/js/shop.js"></script>
 </div>
     
