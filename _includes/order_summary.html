@@ -22,7 +22,7 @@ if(items.length != 0)
 {
     document.write(table);
     for (i = 0; i < items.length; i++)   {
-        document.write("<tr><td>" + items[i].Product + " " + items[i].Desc + "x</td><td>$" + items[i].Price + "</td><td>" + items[i].Qty + "</td><td>$" + (items[i].Qty * items[i].Price).toFixed(2) + "</td><td><button onClick='deleteItem(\"" + i + "\")'>Delete</button></td></tr>");
+        document.write("<tr><td>" + items[i].Product + " " + items[i].Desc + "</td><td>$" + items[i].Price + "</td><td>" + items[i].Qty + "</td><td>$" + (items[i].Qty * items[i].Price).toFixed(2) + "</td><td><button onClick='deleteItem(\"" + i + "\")'>Delete</button></td></tr>");
     }
     document.write("</tbody></table>");
 }
