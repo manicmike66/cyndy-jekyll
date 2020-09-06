@@ -13,6 +13,8 @@
       url: /a.main/contact.html
     - title: links
       url: /a.main/links.html
+    - title: your cart
+      url: /pricelist/cart.html
 - title: Machines
   url: /machines
   sublinks:

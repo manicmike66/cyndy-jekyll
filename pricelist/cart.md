@@ -8,5 +8,6 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 
 <div class="container mb-4 text-center">
 {% include order_summary.html %}
-<script src="{{"assets/js/shop.js" | relative_url}}"/></script>
 </div>
+
+<script src="{{"assets/js/shop.js" | relative_url}}"/></script>

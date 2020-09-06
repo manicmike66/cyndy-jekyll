@@ -8,6 +8,7 @@
         /*});*/
 
         function checkExisting(thing) {// purpose is to change the button text
+            document.getElementById("cartlink").style.visibility = "visible";
             for (var i in cart) {
                 var product = cart[i];
                 var btn = 'btnAdd-' + thing;// thing is the product code
