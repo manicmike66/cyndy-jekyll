@@ -70,13 +70,13 @@
   price: '12.00'
 
 - title: MAN-BB29
-  description: '*Bebarfald Blue-Bird "1929" VS Manual'
+  description: '*Bebarfald Blue-Bird &ldquo;1929&rdquo; VS Manual'
   pages: 16
   price: '10.00'
 
 - title: MAN-BBGA
   url: MAN-BB29
-  description: '*Bebarfald Blue-Bird "1929" Attachments Manual'
+  description: '*Bebarfald Blue-Bird &ldquo;1929&rdquo; Attachments Manual'
   pages: 16
   price: '10.00'
 
@@ -96,7 +96,7 @@
   price: '12.00'
 
 - title: MAN-FVSE
-  description: '*"New Century" Free Model "E" Manual'
+  description: '*&ldquo;New Century&rdquo; Free Model &ldquo;E&rdquo; Manual'
   pages: 36
   price: '17.50'
 
@@ -125,4 +125,11 @@
   description: '***Vickers 7000 Manual circa 1940 (A6)'
   pages: 16
   price: '8.00'
+
+- title: GREIST
+  url: none
+  nopicture: yes
+  description: '*Greist Attachments (no cover)'
+  pages: 4
+  price: '3.00'
 

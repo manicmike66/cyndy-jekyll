@@ -733,7 +733,7 @@
   subsec: MSC
   title2: SCR-513A
   title3: SCR-5131
-  description: Small Head Thumb Screw</p>
+  description: <p>Small Head Thumb Screw</p>
   description2: <p>Inspection Plate Thumb Screw A</p>
   description3: <p>Inspection Plate Thumb Screw B</p>
   price: '0.50'
@@ -930,6 +930,7 @@
   description: <p>Plastic handle easy grip spring loaded embroidery nipper, pink</p>
   description2: <p>Plastic handle easy grip spring loaded embroidery nipper, blue </p>
   price: '9.00'
+  price2: '9.00'
 
 - title: ACC-TS10
   section: p09

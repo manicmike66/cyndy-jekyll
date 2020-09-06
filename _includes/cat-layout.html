@@ -1,40 +1,32 @@
-<div class="row">
-<div class="m-2 col-lg-3 col-sm-3 col-md-3 vertical-center text-right">
+<div class="row border border-light border-top-0">
+<div class="my-auto col-xl-3 col-lg-3 col-sm-3 col-md-3 col-3 text-right">
 {% if item.img2 %}
 <a href="../stock/{{ item.url }}.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('{{ item.title }}','','../stock/pic/PIC-{{item.subsec}}/TN/tn_{{ item.title}}.02.jpg',1)"><img name="{{ item.title }}" class="img-fluid" src="../stock/pic/PIC-{{item.subsec}}/TN/tn_{% if page.picturepre %}tn_{% endif %}{{ item.title }}.jpg" width="200" height="160" border="0"></a>
 {% elsif item.photo %}
 <p class="text-center">(Photo pending)</p>
 {% else %}
-<img class="img-fluid" src="../stock/pic/PIC-{{item.subsec}}/TN/{% if page.picturepre %}tn_{% endif %}{{item.title}}{% if page.picturepost %}{{page.picturepost}}{% endif %}.jpg" width="200" height="160">
+<img class="img-fluid" alt="{{item.title}}" src="../stock/pic/PIC-{{item.subsec}}/TN/{% if page.picturepre %}tn_{% endif %}{{item.title}}{% if page.picturepost %}{{page.picturepost}}{% endif %}.jpg" width="200" height="160">
 {% endif %}
 </div><!-- end col -->
-{% if item.description2 %}
-<div class="m-2 col-lg-2 col-sm-3 col-md-1 pt-3 text-left">
-{% else %}
-<div class="m-2 col-lg-2 col-sm-1 col-md-1 vertical-center">
-{% endif %}
+<div class="my-auto col-xl-2 col-lg-2 col-sm-2 col-md-2 pt-3 col-2 text-left">
     {% if item.url %}
-    <p class="my-3"><a href="../stock/{{ item.url }}.html">{{ item.title }}</a></p>
+    <p class="my-3"><a class="itemlink" href="../stock/{{ item.url }}.html">{{ item.title }}</a></p>
     {% elsif item.imglink %}
-    <p class="my-3"><a href="../stock/pic/PIC-DRV/{{ item.imglink }}">{{ item.title }}</a></p>
-    {% else %} <p class="my-3">{{ item.title }}</p>
+    <p class="my-3"><a class="itemlink" href="../stock/pic/PIC-DRV/{{ item.imglink }}">{{ item.title }}</a></p>
+    {% else %} <p class="my-3 itemlink">{{ item.title }}</p>
     {% endif %}
     {% if item.title2 %}
         {% if item.imglink2 %}
-        <p><a href="../stock/pic/PIC-DRV/{% if page.picturepre %}tn_{% endif %}{{ item.imglink2 }}">{{ item.title2 }}</a></p>
+        <p class="itemlink"><a href="../stock/pic/PIC-DRV/{% if page.picturepre %}tn_{% endif %}{{ item.imglink2 }}">{{ item.title2 }}</a></p>
         {% else %}
-        <p>{{ item.title2 }}</p>
+        <p class="itemlink">{{ item.title2 }}</p>
         {% endif %}
     {% endif %}
     {% if item.title3 %}
-    <p>{{ item.title3 }}</p>
+    <p class="itemlink">{{ item.title3 }}</p>
     {% endif %}
 </div><!-- end col -->
-{% if item.description2 %}
-<div class="m-2 col-lg-3 col-sm-5 col-md-5 pt-3 text-left">
-{% else %}
-<div class="m-2 col-lg-3 col-sm-5 col-md-5 vertical-center text-left">
-{% endif %}
+<div class="my-auto col-xl-4 col-lg-4 col-sm-5 col-md-4 pt-4 col-4 text-left itemdesc">
     <p>
     {% if item.outofstock %}
     <span class="h4 text-danger">Currently out of stock</span><br/>
@@ -47,11 +39,7 @@
     <p>{{ item.description3 }}</p>
     {% endif %}
 </div><!-- end col -->
-{% if item.description2 %}
-<div class="m-2 col-lg-3 col-sm-1 col-md-1 pt-3 text-left">
-{% else %}
-<div class="m-2 col-lg-3 col-sm-1 col-md-1 vertical-center text-left">
-{% endif %}
+<div class="my-auto col-xl-3 col-lg-3 col-md-3 pt-3 col-sm-2 col-3 text-left itemdesc">
     {% unless item.outofstock or item.price == "POI" %}
 <p class="my-3"><span class="px-2">${{ item.price }}</span><input type="hidden" id='{{item.title}}' value="{{item.title}}"/><input type="hidden" id='desc-{{item.title}}' value="{{item.description | truncate: 40}}"/><span class="px-2"><input type="text" size="1" id='qty-{{item.title}}' value="1"/><input type="hidden" id='price-{{item.title}}' value="{{item.price}}"/><button id="btnAdd-{{item.title}}" onclick="addToCart('{{item.title}}');checkExisting('{{item.title}}')">Add</button></span></p>
     {% endunless %}
