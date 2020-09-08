@@ -88,15 +88,14 @@ H6 {
     .navbar-nav{
         padding-left: 0rem;
     }
-}
-@media (max-width:576px){
-    .itemdesc{
-        text-align: center;
-        font-size:small;
-    }
     h4.priceheading{
-        font-size:small;
+        font-size:x-small;
     }
+    .itemdesc{
+        font-size:x-small;
+    }
+}
+@media (max-width:768px){
     .itemlink{
         font-size:small;
     }

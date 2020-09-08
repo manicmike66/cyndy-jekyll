@@ -21,7 +21,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
 <li><font size="5"><a href="{{ "pricelist/p07.html" | relative_url }}">Miscellaneous Useful Bits</a></font></li>
 <li><font size="5"><a href="{{ "pricelist/p08.html" | relative_url }}">Treadle and cabinet parts</a></font></li>
 <li><font size="5"><a href="{{ "pricelist/p09.html" | relative_url }}">Tools &amp; Accessories</a></font></li>
-<li><font size="5"><a href="{{ "pricelist/manuals.html" | relative_url }}">Manuals for vintage machines</a></font></li>
+<li><font size="5"><a href="{{ "manuals" | relative_url }}">Manuals for vintage machines</a></font></li>
 </ol>
 <h2 class="text-center"><a href="{{ "pricelist/orders.html" | relative_url }}">How to order</a></h2>
 <h5 class="text-center">discounts are available for bulk orders or to registered charities</h5>
