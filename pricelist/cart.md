@@ -24,7 +24,7 @@ keywords: "Bebarfald, White, Singer, Vickers, Pinnock, Gritzner, Pfaff, treadle 
   <label class="sr-only" class="col-sm-2 col-form-label" for="address">Your address:</label> <div class="col-xl-3 col-lg-4 col-md-6 col-sm-9 col-10"><textarea rows="3" required="required" aria-required="true" class="form-required form-control" type="text" id="address" name="address"></textarea></div>
 </div><!-- end form group -->
 {% include order_summary.html %}
-  <button class="btn btn-primary" id="submit" name="submit" type="submit" value="Send order">Send Order</button>
+  <button class="btn btn-primary" id="submit" name="submit" onClick="localStorage.clear();" type="submit" value="Send order">Send Order</button>
 </form> 
 </div><!-- end container -->
 

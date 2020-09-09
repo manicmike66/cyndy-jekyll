@@ -22,7 +22,7 @@ if(items.length != 0)
 {
     document.write(table);
     for (i = 0; i < items.length; i++)   {
-        document.write('<tr><td><input type="hidden" name="item-' + i + '" value="' + items[i].Product + '"/>' + items[i].Product + " " + items[i].Desc + '</td><td><input type="hidden" name="price-' + i + '" value=$"' + items[i].Price + '"/>$' + items[i].Price + '</td><td><input type="hidden" name="qty-' + i + '" value="' + items[i].Qty + '"/>' + items[i].Qty + '</td><td><input type="hidden" name="total-' + i + '" value="$' + (items[i].Qty * items[i].Price) + '"/>$' + (items[i].Qty * items[i].Price).toFixed(2) + "</td><td><button onClick='deleteItem(\"" + i + "\")'>Delete</button></td></tr>");
+        document.write('<tr><td><input type="hidden" name="item-' + i + '" value="' + items[i].Product + '"/>' + items[i].Product + " " + items[i].Desc + '</td><td><input type="hidden" name="price-' + i + '" value="$' + items[i].Price + '"/>$' + items[i].Price + '</td><td><input type="hidden" name="qty-' + i + '" value="' + items[i].Qty + '"/>' + items[i].Qty + '</td><td><input type="hidden" name="total-' + i + '" value="$' + (items[i].Qty * items[i].Price) + '"/>$' + (items[i].Qty * items[i].Price).toFixed(2) + "</td><td><button onClick='deleteItem(\"" + i + "\")'>Delete</button></td></tr>");
     }
     document.write("</tbody></table>");
 }
