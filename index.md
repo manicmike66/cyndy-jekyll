@@ -17,7 +17,7 @@ bodyappend: onLoad="MM\_preloadImages('common/buttons/sewman.b.gif','common/butt
 <a href="{{ "pricelist" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('catalogue','','{{ "assets/buttons/cat.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="my catalogue" name="catalogue" border="0" src="{{ "assets/buttons/cat.a.gif" |relative_url }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col-12 mb-1">
-<a href="{{ "contact" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','{{ "assets/buttons/cont.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="contact me" name="contact" border="0" src="{{ "assets/buttons/cont.a.gif" |relative_url }}" width="100%" height="75"></a>
+<a href="{{ "a.main/contact.html" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','{{ "assets/buttons/cont.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="contact me" name="contact" border="0" src="{{ "assets/buttons/cont.a.gif" |relative_url }}" width="100%" height="75"></a>
 </div><!-- end inner col -->
 <div class="col-12 mb-1">
 <a href="{{ "sewing" }}" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('clothing','','{{ "assets/buttons/clothing.b.gif" | relative_url }}',1)"><img class="img-fluid" alt="clothing" name="clothing" border="0" src="{{ "assets/buttons/clothing.a.gif" |relative_url }}" width="100%" height="75"></a>
